@@ -1,0 +1,26 @@
+[rosmaster.main][INFO] 2021-02-17 18:43:32,220: initialization complete, waiting for shutdown
+[rosmaster.main][INFO] 2021-02-17 18:43:32,220: Starting ROS Master Node
+[xmlrpc][INFO] 2021-02-17 18:43:32,226: XML-RPC server binding to 0.0.0.0:55709
+[xmlrpc][INFO] 2021-02-17 18:43:32,232: Started XML-RPC server [http://ip-172-31-23-253:55709/]
+[rosmaster.master][INFO] 2021-02-17 18:43:32,232: Master initialized: port[55709], uri[http://ip-172-31-23-253:55709/]
+[xmlrpc][INFO] 2021-02-17 18:43:32,236: xml rpc node: starting XML-RPC server
+[rosmaster.master][INFO] 2021-02-17 18:43:32,248: +PUB [/rosout] /tf2_web_republisher http://ip-172-31-23-253:34959/
+[rosmaster.master][INFO] 2021-02-17 18:43:32,253: +PUB [/rosout] /marker_publisher http://ip-172-31-23-253:41648/
+[rosmaster.master][INFO] 2021-02-17 18:43:32,259: +SERVICE [/tf2_web_republisher/get_loggers] /tf2_web_republisher http://ip-172-31-23-253:34959/
+[rosmaster.master][INFO] 2021-02-17 18:43:32,264: +SERVICE [/marker_publisher/get_loggers] /marker_publisher http://ip-172-31-23-253:41648/
+[rosmaster.master][INFO] 2021-02-17 18:43:32,267: +PARAM [/run_id] by /roslaunch
+[rosmaster.master][INFO] 2021-02-17 18:43:32,270: +SERVICE [/tf2_web_republisher/set_logger_level] /tf2_web_republisher http://ip-172-31-23-253:34959/
+[rosmaster.master][INFO] 2021-02-17 18:43:32,280: +SERVICE [/marker_publisher/set_logger_level] /marker_publisher http://ip-172-31-23-253:41648/
+[rosmaster.master][INFO] 2021-02-17 18:43:32,283: +PARAM [/roslaunch/uris/host_ip_172_31_23_253__42334] by /roslaunch
+[rosmaster.master][INFO] 2021-02-17 18:43:32,286: +SUB [/tf] /tf2_web_republisher http://ip-172-31-23-253:34959/
+[rosmaster.master][INFO] 2021-02-17 18:43:32,306: +PUB [/visualization_marker] /marker_publisher http://ip-172-31-23-253:41648/
+[rosmaster.master][INFO] 2021-02-17 18:43:32,312: +SUB [/tf_static] /tf2_web_republisher http://ip-172-31-23-253:34959/
+[rosmaster.master][INFO] 2021-02-17 18:43:32,318: +SERVICE [/republish_tfs] /tf2_web_republisher http://ip-172-31-23-253:34959/
+[rosmaster.master][INFO] 2021-02-17 18:43:32,325: +PUB [/tf2_web_republisher/result] /tf2_web_republisher http://ip-172-31-23-253:34959/
+[rosmaster.master][INFO] 2021-02-17 18:43:32,337: +PUB [/tf2_web_republisher/feedback] /tf2_web_republisher http://ip-172-31-23-253:34959/
+[rosmaster.master][INFO] 2021-02-17 18:43:32,352: +PUB [/tf2_web_republisher/status] /tf2_web_republisher http://ip-172-31-23-253:34959/
+[rosmaster.master][INFO] 2021-02-17 18:43:32,367: +SUB [/tf2_web_republisher/goal] /tf2_web_republisher http://ip-172-31-23-253:34959/
+[rosmaster.master][INFO] 2021-02-17 18:43:32,379: +SUB [/tf2_web_republisher/cancel] /tf2_web_republisher http://ip-172-31-23-253:34959/
+[rosmaster.main][INFO] 2021-02-17 18:43:32,495: keyboard interrupt, will exit
+[rosmaster.main][INFO] 2021-02-17 18:43:32,501: stopping master...
+[rospy.core][INFO] 2021-02-17 18:43:32,513: signal_shutdown [atexit]

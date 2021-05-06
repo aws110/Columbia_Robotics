@@ -1,0 +1,412 @@
+[rospy.client][INFO] 2021-02-16 12:32:15,089: init_node, name[/project2_solution], pid[22330]
+[xmlrpc][INFO] 2021-02-16 12:32:15,089: XML-RPC server binding to 0.0.0.0:0
+[rospy.init][INFO] 2021-02-16 12:32:15,096: ROS Slave URI: [http://ip-172-31-16-155:44054/]
+[xmlrpc][INFO] 2021-02-16 12:32:15,096: Started XML-RPC server [http://ip-172-31-16-155:44054/]
+[rospy.impl.masterslave][INFO] 2021-02-16 12:32:15,105: _ready: http://ip-172-31-16-155:44054/
+[xmlrpc][INFO] 2021-02-16 12:32:15,109: xml rpc node: starting XML-RPC server
+[rospy.registration][INFO] 2021-02-16 12:32:15,110: Registering with master node http://localhost:50307
+[rospy.init][INFO] 2021-02-16 12:32:15,201: registered with master
+[rospy.rosout][INFO] 2021-02-16 12:32:15,215: initializing /rosout core topic
+[rospy.rosout][INFO] 2021-02-16 12:32:15,227: connected to core topic /rosout
+[rospy.simtime][INFO] 2021-02-16 12:32:15,232: /use_sim_time is not set, will not subscribe to simulated time [/clock] topic
+[rospy.internal][INFO] 2021-02-16 12:32:15,447: topic[/rosout] adding connection to [/rosout], count 0
+[rospy.internal][INFO] 2021-02-16 12:32:15,478: topic[/tf] adding connection to [/tf2_web_republisher], count 0
+[rospy.core][INFO] 2021-02-16 15:17:52,596: signal_shutdown [signal-2]
+[rospy.internal][INFO] 2021-02-16 15:17:52,612: topic[/rosout] removing connection to /rosout
+[rospy.internal][INFO] 2021-02-16 15:17:52,618: topic[/tf] removing connection to /tf2_web_republisher
+[rospy.impl.masterslave][INFO] 2021-02-16 15:17:52,621: signal-2
+[rospy.core][INFO] 2021-02-16 15:17:52,726: signal_shutdown [atexit]
+[rospy.client][INFO] 2021-02-16 15:18:31,789: init_node, name[/project2_solution], pid[14119]
+[xmlrpc][INFO] 2021-02-16 15:18:31,789: XML-RPC server binding to 0.0.0.0:0
+[rospy.init][INFO] 2021-02-16 15:18:31,795: ROS Slave URI: [http://ip-172-31-16-155:42045/]
+[xmlrpc][INFO] 2021-02-16 15:18:31,795: Started XML-RPC server [http://ip-172-31-16-155:42045/]
+[rospy.impl.masterslave][INFO] 2021-02-16 15:18:31,804: _ready: http://ip-172-31-16-155:42045/
+[xmlrpc][INFO] 2021-02-16 15:18:31,808: xml rpc node: starting XML-RPC server
+[rospy.registration][INFO] 2021-02-16 15:18:31,809: Registering with master node http://localhost:50307
+[rospy.init][INFO] 2021-02-16 15:18:31,899: registered with master
+[rospy.rosout][INFO] 2021-02-16 15:18:31,904: initializing /rosout core topic
+[rospy.rosout][INFO] 2021-02-16 15:18:31,912: connected to core topic /rosout
+[rospy.simtime][INFO] 2021-02-16 15:18:31,917: /use_sim_time is not set, will not subscribe to simulated time [/clock] topic
+[rospy.internal][INFO] 2021-02-16 15:18:32,147: topic[/rosout] adding connection to [/rosout], count 0
+[rospy.internal][INFO] 2021-02-16 15:18:32,156: topic[/tf] adding connection to [/tf2_web_republisher], count 0
+[rospy.core][INFO] 2021-02-16 15:18:32,442: signal_shutdown [atexit]
+[rospy.internal][INFO] 2021-02-16 15:18:32,480: topic[/rosout] removing connection to /rosout
+[rospy.internal][INFO] 2021-02-16 15:18:32,487: topic[/tf] removing connection to /tf2_web_republisher
+[rospy.impl.masterslave][INFO] 2021-02-16 15:18:32,492: atexit
+[rospy.client][INFO] 2021-02-16 15:19:39,997: init_node, name[/project2_solution], pid[15377]
+[xmlrpc][INFO] 2021-02-16 15:19:39,997: XML-RPC server binding to 0.0.0.0:0
+[rospy.init][INFO] 2021-02-16 15:19:40,002: ROS Slave URI: [http://ip-172-31-16-155:34897/]
+[xmlrpc][INFO] 2021-02-16 15:19:40,002: Started XML-RPC server [http://ip-172-31-16-155:34897/]
+[rospy.impl.masterslave][INFO] 2021-02-16 15:19:40,010: _ready: http://ip-172-31-16-155:34897/
+[xmlrpc][INFO] 2021-02-16 15:19:40,014: xml rpc node: starting XML-RPC server
+[rospy.registration][INFO] 2021-02-16 15:19:40,014: Registering with master node http://localhost:50307
+[rospy.init][INFO] 2021-02-16 15:19:40,106: registered with master
+[rospy.rosout][INFO] 2021-02-16 15:19:40,112: initializing /rosout core topic
+[rospy.rosout][INFO] 2021-02-16 15:19:40,119: connected to core topic /rosout
+[rospy.simtime][INFO] 2021-02-16 15:19:40,124: /use_sim_time is not set, will not subscribe to simulated time [/clock] topic
+[rospy.internal][INFO] 2021-02-16 15:19:40,389: topic[/rosout] adding connection to [/rosout], count 0
+[rospy.internal][INFO] 2021-02-16 15:19:40,396: topic[/tf] adding connection to [/tf2_web_republisher], count 0
+[rospy.core][INFO] 2021-02-16 15:19:40,648: signal_shutdown [atexit]
+[rospy.internal][INFO] 2021-02-16 15:19:40,679: topic[/rosout] removing connection to /rosout
+[rospy.internal][INFO] 2021-02-16 15:19:40,684: topic[/tf] removing connection to /tf2_web_republisher
+[rospy.impl.masterslave][INFO] 2021-02-16 15:19:40,689: atexit
+[rospy.client][INFO] 2021-02-16 15:19:56,060: init_node, name[/project2_solution], pid[15946]
+[xmlrpc][INFO] 2021-02-16 15:19:56,060: XML-RPC server binding to 0.0.0.0:0
+[xmlrpc][INFO] 2021-02-16 15:19:56,065: Started XML-RPC server [http://ip-172-31-16-155:34256/]
+[rospy.init][INFO] 2021-02-16 15:19:56,066: ROS Slave URI: [http://ip-172-31-16-155:34256/]
+[rospy.impl.masterslave][INFO] 2021-02-16 15:19:56,070: _ready: http://ip-172-31-16-155:34256/
+[rospy.registration][INFO] 2021-02-16 15:19:56,080: Registering with master node http://localhost:50307
+[xmlrpc][INFO] 2021-02-16 15:19:56,080: xml rpc node: starting XML-RPC server
+[rospy.init][INFO] 2021-02-16 15:19:56,174: registered with master
+[rospy.rosout][INFO] 2021-02-16 15:19:56,179: initializing /rosout core topic
+[rospy.rosout][INFO] 2021-02-16 15:19:56,189: connected to core topic /rosout
+[rospy.simtime][INFO] 2021-02-16 15:19:56,194: /use_sim_time is not set, will not subscribe to simulated time [/clock] topic
+[rospy.internal][INFO] 2021-02-16 15:19:56,430: topic[/rosout] adding connection to [/rosout], count 0
+[rospy.internal][INFO] 2021-02-16 15:19:56,438: topic[/tf] adding connection to [/tf2_web_republisher], count 0
+[rospy.core][INFO] 2021-02-16 15:19:56,717: signal_shutdown [atexit]
+[rospy.internal][INFO] 2021-02-16 15:19:56,748: topic[/rosout] removing connection to /rosout
+[rospy.internal][INFO] 2021-02-16 15:19:56,752: topic[/tf] removing connection to /tf2_web_republisher
+[rospy.impl.masterslave][INFO] 2021-02-16 15:19:56,756: atexit
+[rospy.client][INFO] 2021-02-16 15:20:37,064: init_node, name[/project2_solution], pid[16747]
+[xmlrpc][INFO] 2021-02-16 15:20:37,064: XML-RPC server binding to 0.0.0.0:0
+[xmlrpc][INFO] 2021-02-16 15:20:37,070: Started XML-RPC server [http://ip-172-31-16-155:34905/]
+[rospy.init][INFO] 2021-02-16 15:20:37,070: ROS Slave URI: [http://ip-172-31-16-155:34905/]
+[rospy.impl.masterslave][INFO] 2021-02-16 15:20:37,074: _ready: http://ip-172-31-16-155:34905/
+[xmlrpc][INFO] 2021-02-16 15:20:37,084: xml rpc node: starting XML-RPC server
+[rospy.registration][INFO] 2021-02-16 15:20:37,084: Registering with master node http://localhost:50307
+[rospy.init][INFO] 2021-02-16 15:20:37,179: registered with master
+[rospy.rosout][INFO] 2021-02-16 15:20:37,184: initializing /rosout core topic
+[rospy.rosout][INFO] 2021-02-16 15:20:37,192: connected to core topic /rosout
+[rospy.simtime][INFO] 2021-02-16 15:20:37,198: /use_sim_time is not set, will not subscribe to simulated time [/clock] topic
+[rospy.internal][INFO] 2021-02-16 15:20:37,410: topic[/rosout] adding connection to [/rosout], count 0
+[rospy.internal][INFO] 2021-02-16 15:20:37,438: topic[/tf] adding connection to [/tf2_web_republisher], count 0
+[rospy.client][INFO] 2021-02-16 15:22:06,615: init_node, name[/project2_solution], pid[16880]
+[xmlrpc][INFO] 2021-02-16 15:22:06,616: XML-RPC server binding to 0.0.0.0:0
+[xmlrpc][INFO] 2021-02-16 15:22:06,636: Started XML-RPC server [http://ip-172-31-25-238:45981/]
+[rospy.init][INFO] 2021-02-16 15:22:06,636: ROS Slave URI: [http://ip-172-31-25-238:45981/]
+[rospy.impl.masterslave][INFO] 2021-02-16 15:22:06,651: _ready: http://ip-172-31-25-238:45981/
+[xmlrpc][INFO] 2021-02-16 15:22:06,659: xml rpc node: starting XML-RPC server
+[rospy.registration][INFO] 2021-02-16 15:22:06,659: Registering with master node http://localhost:49014
+[rospy.init][INFO] 2021-02-16 15:22:06,755: registered with master
+[rospy.rosout][INFO] 2021-02-16 15:22:06,759: initializing /rosout core topic
+[rospy.rosout][INFO] 2021-02-16 15:22:06,769: connected to core topic /rosout
+[rospy.simtime][INFO] 2021-02-16 15:22:06,773: /use_sim_time is not set, will not subscribe to simulated time [/clock] topic
+[rospy.internal][INFO] 2021-02-16 15:22:07,031: topic[/rosout] adding connection to [/rosout], count 0
+[rospy.internal][INFO] 2021-02-16 15:22:07,039: topic[/tf] adding connection to [/tf2_web_republisher], count 0
+[rospy.core][INFO] 2021-02-16 15:28:33,520: signal_shutdown [signal-2]
+[rospy.internal][INFO] 2021-02-16 15:28:34,026: topic[/rosout] removing connection to /rosout
+[rospy.internal][INFO] 2021-02-16 15:28:34,045: topic[/tf] removing connection to /tf2_web_republisher
+[rospy.impl.masterslave][INFO] 2021-02-16 15:28:34,053: signal-2
+[rospy.core][INFO] 2021-02-16 15:28:34,598: signal_shutdown [atexit]
+[rospy.client][INFO] 2021-02-16 15:34:03,454: init_node, name[/project2_solution], pid[27221]
+[xmlrpc][INFO] 2021-02-16 15:34:03,457: XML-RPC server binding to 0.0.0.0:0
+[xmlrpc][INFO] 2021-02-16 15:34:03,462: Started XML-RPC server [http://ip-172-31-25-238:45491/]
+[rospy.init][INFO] 2021-02-16 15:34:03,462: ROS Slave URI: [http://ip-172-31-25-238:45491/]
+[rospy.impl.masterslave][INFO] 2021-02-16 15:34:03,466: _ready: http://ip-172-31-25-238:45491/
+[xmlrpc][INFO] 2021-02-16 15:34:03,474: xml rpc node: starting XML-RPC server
+[rospy.registration][INFO] 2021-02-16 15:34:03,473: Registering with master node http://localhost:49014
+[rospy.init][INFO] 2021-02-16 15:34:03,569: registered with master
+[rospy.rosout][INFO] 2021-02-16 15:34:03,573: initializing /rosout core topic
+[rospy.rosout][INFO] 2021-02-16 15:34:03,580: connected to core topic /rosout
+[rospy.simtime][INFO] 2021-02-16 15:34:03,585: /use_sim_time is not set, will not subscribe to simulated time [/clock] topic
+[rospy.internal][INFO] 2021-02-16 15:34:03,795: topic[/rosout] adding connection to [/rosout], count 0
+[rospy.internal][INFO] 2021-02-16 15:34:03,871: topic[/tf] adding connection to [/tf2_web_republisher], count 0
+[rospy.core][INFO] 2021-02-16 15:34:15,295: signal_shutdown [signal-2]
+[rospy.internal][INFO] 2021-02-16 15:34:15,317: topic[/rosout] removing connection to /rosout
+[rospy.internal][INFO] 2021-02-16 15:34:15,364: topic[/tf] removing connection to /tf2_web_republisher
+[rospy.impl.masterslave][INFO] 2021-02-16 15:34:15,368: signal-2
+[rospy.core][INFO] 2021-02-16 15:34:15,941: signal_shutdown [atexit]
+[rospy.client][INFO] 2021-02-16 18:19:04,317: init_node, name[/project2_solution], pid[20806]
+[xmlrpc][INFO] 2021-02-16 18:19:04,325: XML-RPC server binding to 0.0.0.0:0
+[xmlrpc][INFO] 2021-02-16 18:19:04,331: Started XML-RPC server [http://ip-172-31-25-238:42890/]
+[rospy.init][INFO] 2021-02-16 18:19:04,331: ROS Slave URI: [http://ip-172-31-25-238:42890/]
+[rospy.impl.masterslave][INFO] 2021-02-16 18:19:04,335: _ready: http://ip-172-31-25-238:42890/
+[rospy.registration][INFO] 2021-02-16 18:19:04,353: Registering with master node http://localhost:49014
+[xmlrpc][INFO] 2021-02-16 18:19:04,353: xml rpc node: starting XML-RPC server
+[rospy.init][INFO] 2021-02-16 18:19:04,440: registered with master
+[rospy.rosout][INFO] 2021-02-16 18:19:04,444: initializing /rosout core topic
+[rospy.rosout][INFO] 2021-02-16 18:19:04,475: connected to core topic /rosout
+[rospy.simtime][INFO] 2021-02-16 18:19:04,490: /use_sim_time is not set, will not subscribe to simulated time [/clock] topic
+[rospy.internal][INFO] 2021-02-16 18:19:04,697: topic[/rosout] adding connection to [/rosout], count 0
+[rospy.internal][INFO] 2021-02-16 18:19:04,810: topic[/tf] adding connection to [/tf2_web_republisher], count 0
+[rospy.core][INFO] 2021-02-16 18:19:05,046: signal_shutdown [atexit]
+[rospy.internal][INFO] 2021-02-16 18:19:05,082: topic[/rosout] removing connection to /rosout
+[rospy.internal][INFO] 2021-02-16 18:19:05,086: topic[/tf] removing connection to /tf2_web_republisher
+[rospy.impl.masterslave][INFO] 2021-02-16 18:19:05,092: atexit
+[rospy.client][INFO] 2021-02-16 18:19:39,690: init_node, name[/project2_solution], pid[21820]
+[xmlrpc][INFO] 2021-02-16 18:19:39,709: XML-RPC server binding to 0.0.0.0:0
+[xmlrpc][INFO] 2021-02-16 18:19:39,714: Started XML-RPC server [http://ip-172-31-25-238:33441/]
+[rospy.init][INFO] 2021-02-16 18:19:39,714: ROS Slave URI: [http://ip-172-31-25-238:33441/]
+[rospy.impl.masterslave][INFO] 2021-02-16 18:19:39,718: _ready: http://ip-172-31-25-238:33441/
+[rospy.registration][INFO] 2021-02-16 18:19:39,736: Registering with master node http://localhost:49014
+[xmlrpc][INFO] 2021-02-16 18:19:39,736: xml rpc node: starting XML-RPC server
+[rospy.init][INFO] 2021-02-16 18:19:39,822: registered with master
+[rospy.rosout][INFO] 2021-02-16 18:19:39,826: initializing /rosout core topic
+[rospy.rosout][INFO] 2021-02-16 18:19:39,853: connected to core topic /rosout
+[rospy.simtime][INFO] 2021-02-16 18:19:39,878: /use_sim_time is not set, will not subscribe to simulated time [/clock] topic
+[rospy.internal][INFO] 2021-02-16 18:19:40,081: topic[/rosout] adding connection to [/rosout], count 0
+[rospy.internal][INFO] 2021-02-16 18:19:40,159: topic[/tf] adding connection to [/tf2_web_republisher], count 0
+[rospy.core][INFO] 2021-02-16 18:19:40,433: signal_shutdown [atexit]
+[rospy.internal][INFO] 2021-02-16 18:19:40,470: topic[/rosout] removing connection to /rosout
+[rospy.internal][INFO] 2021-02-16 18:19:40,474: topic[/tf] removing connection to /tf2_web_republisher
+[rospy.impl.masterslave][INFO] 2021-02-16 18:19:40,478: atexit
+[rospy.client][INFO] 2021-02-16 18:20:53,561: init_node, name[/project2_solution], pid[23402]
+[xmlrpc][INFO] 2021-02-16 18:20:53,562: XML-RPC server binding to 0.0.0.0:0
+[xmlrpc][INFO] 2021-02-16 18:20:53,566: Started XML-RPC server [http://ip-172-31-25-238:33165/]
+[rospy.init][INFO] 2021-02-16 18:20:53,566: ROS Slave URI: [http://ip-172-31-25-238:33165/]
+[rospy.impl.masterslave][INFO] 2021-02-16 18:20:53,569: _ready: http://ip-172-31-25-238:33165/
+[rospy.registration][INFO] 2021-02-16 18:20:53,579: Registering with master node http://localhost:49014
+[xmlrpc][INFO] 2021-02-16 18:20:53,580: xml rpc node: starting XML-RPC server
+[rospy.init][INFO] 2021-02-16 18:20:53,673: registered with master
+[rospy.rosout][INFO] 2021-02-16 18:20:53,677: initializing /rosout core topic
+[rospy.rosout][INFO] 2021-02-16 18:20:53,684: connected to core topic /rosout
+[rospy.simtime][INFO] 2021-02-16 18:20:53,689: /use_sim_time is not set, will not subscribe to simulated time [/clock] topic
+[rospy.internal][INFO] 2021-02-16 18:20:53,917: topic[/rosout] adding connection to [/rosout], count 0
+[rospy.internal][INFO] 2021-02-16 18:20:53,923: topic[/tf] adding connection to [/tf2_web_republisher], count 0
+[rospy.core][INFO] 2021-02-16 18:21:01,453: signal_shutdown [signal-2]
+[rospy.internal][INFO] 2021-02-16 18:21:01,483: topic[/rosout] removing connection to /rosout
+[rospy.internal][INFO] 2021-02-16 18:21:01,486: topic[/tf] removing connection to /tf2_web_republisher
+[rospy.impl.masterslave][INFO] 2021-02-16 18:21:01,490: signal-2
+[rospy.core][INFO] 2021-02-16 18:21:01,609: signal_shutdown [atexit]
+[rospy.client][INFO] 2021-02-16 18:26:44,790: init_node, name[/project2_solution], pid[30264]
+[xmlrpc][INFO] 2021-02-16 18:26:44,791: XML-RPC server binding to 0.0.0.0:0
+[xmlrpc][INFO] 2021-02-16 18:26:44,806: Started XML-RPC server [http://ip-172-31-25-238:42545/]
+[rospy.init][INFO] 2021-02-16 18:26:44,806: ROS Slave URI: [http://ip-172-31-25-238:42545/]
+[rospy.impl.masterslave][INFO] 2021-02-16 18:26:44,827: _ready: http://ip-172-31-25-238:42545/
+[xmlrpc][INFO] 2021-02-16 18:26:44,846: xml rpc node: starting XML-RPC server
+[rospy.registration][INFO] 2021-02-16 18:26:44,846: Registering with master node http://localhost:49014
+[rospy.init][INFO] 2021-02-16 18:26:44,939: registered with master
+[rospy.rosout][INFO] 2021-02-16 18:26:44,946: initializing /rosout core topic
+[rospy.rosout][INFO] 2021-02-16 18:26:44,962: connected to core topic /rosout
+[rospy.simtime][INFO] 2021-02-16 18:26:44,970: /use_sim_time is not set, will not subscribe to simulated time [/clock] topic
+[rospy.internal][INFO] 2021-02-16 18:26:45,214: topic[/rosout] adding connection to [/rosout], count 0
+[rospy.internal][INFO] 2021-02-16 18:26:45,221: topic[/tf] adding connection to [/tf2_web_republisher], count 0
+[rospy.core][INFO] 2021-02-16 18:26:50,648: signal_shutdown [signal-2]
+[rospy.internal][INFO] 2021-02-16 18:26:51,229: topic[/rosout] removing connection to /rosout
+[rospy.internal][INFO] 2021-02-16 18:26:51,396: topic[/tf] removing connection to /tf2_web_republisher
+[rospy.impl.masterslave][INFO] 2021-02-16 18:26:52,402: signal-2
+[rospy.core][INFO] 2021-02-16 18:26:52,672: signal_shutdown [atexit]
+[rospy.client][INFO] 2021-02-16 18:44:45,066: init_node, name[/project2_solution], pid[16886]
+[xmlrpc][INFO] 2021-02-16 18:44:45,066: XML-RPC server binding to 0.0.0.0:0
+[xmlrpc][INFO] 2021-02-16 18:44:45,071: Started XML-RPC server [http://ip-172-31-25-238:40631/]
+[rospy.init][INFO] 2021-02-16 18:44:45,071: ROS Slave URI: [http://ip-172-31-25-238:40631/]
+[rospy.impl.masterslave][INFO] 2021-02-16 18:44:45,075: _ready: http://ip-172-31-25-238:40631/
+[xmlrpc][INFO] 2021-02-16 18:44:45,090: xml rpc node: starting XML-RPC server
+[rospy.registration][INFO] 2021-02-16 18:44:45,091: Registering with master node http://localhost:49014
+[rospy.init][INFO] 2021-02-16 18:44:45,179: registered with master
+[rospy.rosout][INFO] 2021-02-16 18:44:45,184: initializing /rosout core topic
+[rospy.rosout][INFO] 2021-02-16 18:44:45,191: connected to core topic /rosout
+[rospy.simtime][INFO] 2021-02-16 18:44:45,196: /use_sim_time is not set, will not subscribe to simulated time [/clock] topic
+[rospy.internal][INFO] 2021-02-16 18:44:45,408: topic[/rosout] adding connection to [/rosout], count 0
+[rospy.internal][INFO] 2021-02-16 18:44:45,471: topic[/tf] adding connection to [/tf2_web_republisher], count 0
+[rospy.core][INFO] 2021-02-16 18:44:45,729: signal_shutdown [atexit]
+[rospy.internal][INFO] 2021-02-16 18:44:45,753: topic[/rosout] removing connection to /rosout
+[rospy.internal][INFO] 2021-02-16 18:44:45,757: topic[/tf] removing connection to /tf2_web_republisher
+[rospy.impl.masterslave][INFO] 2021-02-16 18:44:45,761: atexit
+[rospy.client][INFO] 2021-02-16 18:45:18,923: init_node, name[/project2_solution], pid[17057]
+[xmlrpc][INFO] 2021-02-16 18:45:18,924: XML-RPC server binding to 0.0.0.0:0
+[xmlrpc][INFO] 2021-02-16 18:45:18,927: Started XML-RPC server [http://ip-172-31-25-238:35814/]
+[rospy.init][INFO] 2021-02-16 18:45:18,927: ROS Slave URI: [http://ip-172-31-25-238:35814/]
+[rospy.impl.masterslave][INFO] 2021-02-16 18:45:18,931: _ready: http://ip-172-31-25-238:35814/
+[xmlrpc][INFO] 2021-02-16 18:45:18,938: xml rpc node: starting XML-RPC server
+[rospy.registration][INFO] 2021-02-16 18:45:18,939: Registering with master node http://localhost:49014
+[rospy.init][INFO] 2021-02-16 18:45:19,035: registered with master
+[rospy.rosout][INFO] 2021-02-16 18:45:19,038: initializing /rosout core topic
+[rospy.rosout][INFO] 2021-02-16 18:45:19,047: connected to core topic /rosout
+[rospy.simtime][INFO] 2021-02-16 18:45:19,051: /use_sim_time is not set, will not subscribe to simulated time [/clock] topic
+[rospy.internal][INFO] 2021-02-16 18:45:19,275: topic[/rosout] adding connection to [/rosout], count 0
+[rospy.internal][INFO] 2021-02-16 18:45:19,297: topic[/tf] adding connection to [/tf2_web_republisher], count 0
+[rospy.core][INFO] 2021-02-16 18:46:27,093: signal_shutdown [signal-2]
+[rospy.internal][INFO] 2021-02-16 18:46:27,118: topic[/rosout] removing connection to /rosout
+[rospy.internal][INFO] 2021-02-16 18:46:27,123: topic[/tf] removing connection to /tf2_web_republisher
+[rospy.impl.masterslave][INFO] 2021-02-16 18:46:27,132: signal-2
+[rospy.core][INFO] 2021-02-16 18:46:27,239: signal_shutdown [atexit]
+[rospy.client][INFO] 2021-02-16 18:46:30,218: init_node, name[/project2_solution], pid[18549]
+[xmlrpc][INFO] 2021-02-16 18:46:30,218: XML-RPC server binding to 0.0.0.0:0
+[xmlrpc][INFO] 2021-02-16 18:46:30,224: Started XML-RPC server [http://ip-172-31-25-238:34652/]
+[rospy.init][INFO] 2021-02-16 18:46:30,224: ROS Slave URI: [http://ip-172-31-25-238:34652/]
+[rospy.impl.masterslave][INFO] 2021-02-16 18:46:30,227: _ready: http://ip-172-31-25-238:34652/
+[xmlrpc][INFO] 2021-02-16 18:46:30,238: xml rpc node: starting XML-RPC server
+[rospy.registration][INFO] 2021-02-16 18:46:30,238: Registering with master node http://localhost:49014
+[rospy.init][INFO] 2021-02-16 18:46:30,333: registered with master
+[rospy.rosout][INFO] 2021-02-16 18:46:30,337: initializing /rosout core topic
+[rospy.rosout][INFO] 2021-02-16 18:46:30,348: connected to core topic /rosout
+[rospy.simtime][INFO] 2021-02-16 18:46:30,353: /use_sim_time is not set, will not subscribe to simulated time [/clock] topic
+[rospy.internal][INFO] 2021-02-16 18:46:30,585: topic[/rosout] adding connection to [/rosout], count 0
+[rospy.internal][INFO] 2021-02-16 18:46:30,595: topic[/tf] adding connection to [/tf2_web_republisher], count 0
+[rospy.client][INFO] 2021-02-17 13:10:40,576: init_node, name[/project2_solution], pid[23895]
+[xmlrpc][INFO] 2021-02-17 13:10:40,577: XML-RPC server binding to 0.0.0.0:0
+[xmlrpc][INFO] 2021-02-17 13:10:40,585: Started XML-RPC server [http://ip-172-31-22-195:41776/]
+[rospy.init][INFO] 2021-02-17 13:10:40,585: ROS Slave URI: [http://ip-172-31-22-195:41776/]
+[rospy.impl.masterslave][INFO] 2021-02-17 13:10:40,592: _ready: http://ip-172-31-22-195:41776/
+[xmlrpc][INFO] 2021-02-17 13:10:40,603: xml rpc node: starting XML-RPC server
+[rospy.registration][INFO] 2021-02-17 13:10:40,603: Registering with master node http://localhost:48952
+[rospy.init][INFO] 2021-02-17 13:10:40,698: registered with master
+[rospy.rosout][INFO] 2021-02-17 13:10:40,703: initializing /rosout core topic
+[rospy.rosout][INFO] 2021-02-17 13:10:40,714: connected to core topic /rosout
+[rospy.simtime][INFO] 2021-02-17 13:10:40,719: /use_sim_time is not set, will not subscribe to simulated time [/clock] topic
+[rospy.internal][INFO] 2021-02-17 13:10:40,930: topic[/rosout] adding connection to [/rosout], count 0
+[rospy.internal][INFO] 2021-02-17 13:10:41,017: topic[/tf] adding connection to [/tf2_web_republisher], count 0
+[rospy.core][INFO] 2021-02-17 14:20:59,178: signal_shutdown [signal-2]
+[rospy.internal][INFO] 2021-02-17 14:20:59,215: topic[/rosout] removing connection to /rosout
+[rospy.internal][INFO] 2021-02-17 14:20:59,219: topic[/tf] removing connection to /tf2_web_republisher
+[rospy.impl.masterslave][INFO] 2021-02-17 14:20:59,237: signal-2
+[rospy.core][INFO] 2021-02-17 14:20:59,342: signal_shutdown [atexit]
+[rospy.client][INFO] 2021-02-17 14:21:19,493: init_node, name[/project2_solution], pid[29217]
+[xmlrpc][INFO] 2021-02-17 14:21:19,493: XML-RPC server binding to 0.0.0.0:0
+[xmlrpc][INFO] 2021-02-17 14:21:19,498: Started XML-RPC server [http://ip-172-31-22-195:37294/]
+[rospy.init][INFO] 2021-02-17 14:21:19,498: ROS Slave URI: [http://ip-172-31-22-195:37294/]
+[rospy.impl.masterslave][INFO] 2021-02-17 14:21:19,511: _ready: http://ip-172-31-22-195:37294/
+[rospy.registration][INFO] 2021-02-17 14:21:19,520: Registering with master node http://localhost:48952
+[xmlrpc][INFO] 2021-02-17 14:21:19,520: xml rpc node: starting XML-RPC server
+[rospy.init][INFO] 2021-02-17 14:21:19,616: registered with master
+[rospy.rosout][INFO] 2021-02-17 14:21:19,620: initializing /rosout core topic
+[rospy.rosout][INFO] 2021-02-17 14:21:19,627: connected to core topic /rosout
+[rospy.simtime][INFO] 2021-02-17 14:21:19,632: /use_sim_time is not set, will not subscribe to simulated time [/clock] topic
+[rospy.internal][INFO] 2021-02-17 14:21:19,889: topic[/rosout] adding connection to [/rosout], count 0
+[rospy.internal][INFO] 2021-02-17 14:21:19,894: topic[/tf] adding connection to [/tf2_web_republisher], count 0
+[rospy.core][INFO] 2021-02-17 14:21:20,153: signal_shutdown [atexit]
+[rospy.internal][INFO] 2021-02-17 14:21:20,185: topic[/rosout] removing connection to /rosout
+[rospy.internal][INFO] 2021-02-17 14:21:20,192: topic[/tf] removing connection to /tf2_web_republisher
+[rospy.impl.masterslave][INFO] 2021-02-17 14:21:20,203: atexit
+[rospy.client][INFO] 2021-02-17 14:22:02,796: init_node, name[/project2_solution], pid[30224]
+[xmlrpc][INFO] 2021-02-17 14:22:02,797: XML-RPC server binding to 0.0.0.0:0
+[xmlrpc][INFO] 2021-02-17 14:22:02,803: Started XML-RPC server [http://ip-172-31-22-195:35734/]
+[rospy.init][INFO] 2021-02-17 14:22:02,803: ROS Slave URI: [http://ip-172-31-22-195:35734/]
+[rospy.impl.masterslave][INFO] 2021-02-17 14:22:02,808: _ready: http://ip-172-31-22-195:35734/
+[xmlrpc][INFO] 2021-02-17 14:22:02,818: xml rpc node: starting XML-RPC server
+[rospy.registration][INFO] 2021-02-17 14:22:02,818: Registering with master node http://localhost:48952
+[rospy.init][INFO] 2021-02-17 14:22:02,913: registered with master
+[rospy.rosout][INFO] 2021-02-17 14:22:02,917: initializing /rosout core topic
+[rospy.rosout][INFO] 2021-02-17 14:22:02,924: connected to core topic /rosout
+[rospy.simtime][INFO] 2021-02-17 14:22:02,930: /use_sim_time is not set, will not subscribe to simulated time [/clock] topic
+[rospy.internal][INFO] 2021-02-17 14:22:03,161: topic[/rosout] adding connection to [/rosout], count 0
+[rospy.internal][INFO] 2021-02-17 14:22:03,176: topic[/tf] adding connection to [/tf2_web_republisher], count 0
+[rospy.client][INFO] 2021-02-17 14:29:27,570: init_node, name[/project2_solution], pid[13084]
+[xmlrpc][INFO] 2021-02-17 14:29:27,570: XML-RPC server binding to 0.0.0.0:0
+[xmlrpc][INFO] 2021-02-17 14:29:27,576: Started XML-RPC server [http://ip-172-31-22-195:36894/]
+[rospy.init][INFO] 2021-02-17 14:29:27,576: ROS Slave URI: [http://ip-172-31-22-195:36894/]
+[rospy.impl.masterslave][INFO] 2021-02-17 14:29:27,580: _ready: http://ip-172-31-22-195:36894/
+[xmlrpc][INFO] 2021-02-17 14:29:27,592: xml rpc node: starting XML-RPC server
+[rospy.registration][INFO] 2021-02-17 14:29:27,592: Registering with master node http://localhost:48952
+[rospy.init][INFO] 2021-02-17 14:29:27,686: registered with master
+[rospy.rosout][INFO] 2021-02-17 14:29:27,690: initializing /rosout core topic
+[rospy.rosout][INFO] 2021-02-17 14:29:27,698: connected to core topic /rosout
+[rospy.simtime][INFO] 2021-02-17 14:29:27,704: /use_sim_time is not set, will not subscribe to simulated time [/clock] topic
+[rospy.internal][INFO] 2021-02-17 14:29:27,930: topic[/rosout] adding connection to [/rosout], count 0
+[rospy.internal][INFO] 2021-02-17 14:29:27,946: topic[/tf] adding connection to [/tf2_web_republisher], count 0
+[rospy.core][INFO] 2021-02-17 14:29:28,240: signal_shutdown [atexit]
+[rospy.internal][INFO] 2021-02-17 14:29:28,265: topic[/rosout] removing connection to /rosout
+[rospy.internal][INFO] 2021-02-17 14:29:28,282: topic[/tf] removing connection to /tf2_web_republisher
+[rospy.impl.masterslave][INFO] 2021-02-17 14:29:28,286: atexit
+[rospy.client][INFO] 2021-02-17 14:29:51,093: init_node, name[/project2_solution], pid[13876]
+[xmlrpc][INFO] 2021-02-17 14:29:51,093: XML-RPC server binding to 0.0.0.0:0
+[xmlrpc][INFO] 2021-02-17 14:29:51,098: Started XML-RPC server [http://ip-172-31-22-195:36283/]
+[rospy.init][INFO] 2021-02-17 14:29:51,098: ROS Slave URI: [http://ip-172-31-22-195:36283/]
+[rospy.impl.masterslave][INFO] 2021-02-17 14:29:51,102: _ready: http://ip-172-31-22-195:36283/
+[xmlrpc][INFO] 2021-02-17 14:29:51,119: xml rpc node: starting XML-RPC server
+[rospy.registration][INFO] 2021-02-17 14:29:51,119: Registering with master node http://localhost:48952
+[rospy.init][INFO] 2021-02-17 14:29:51,209: registered with master
+[rospy.rosout][INFO] 2021-02-17 14:29:51,216: initializing /rosout core topic
+[rospy.rosout][INFO] 2021-02-17 14:29:51,229: connected to core topic /rosout
+[rospy.simtime][INFO] 2021-02-17 14:29:51,234: /use_sim_time is not set, will not subscribe to simulated time [/clock] topic
+[rospy.internal][INFO] 2021-02-17 14:29:51,461: topic[/rosout] adding connection to [/rosout], count 0
+[rospy.internal][INFO] 2021-02-17 14:29:51,468: topic[/tf] adding connection to [/tf2_web_republisher], count 0
+[rospy.client][INFO] 2021-02-17 18:35:12,058: init_node, name[/project2_solution], pid[28111]
+[xmlrpc][INFO] 2021-02-17 18:35:12,058: XML-RPC server binding to 0.0.0.0:0
+[xmlrpc][INFO] 2021-02-17 18:35:12,079: Started XML-RPC server [http://ip-172-31-22-195:36179/]
+[rospy.init][INFO] 2021-02-17 18:35:12,079: ROS Slave URI: [http://ip-172-31-22-195:36179/]
+[rospy.impl.masterslave][INFO] 2021-02-17 18:35:12,088: _ready: http://ip-172-31-22-195:36179/
+[xmlrpc][INFO] 2021-02-17 18:35:12,126: xml rpc node: starting XML-RPC server
+[rospy.registration][INFO] 2021-02-17 18:35:12,126: Registering with master node http://localhost:43232
+[rospy.init][INFO] 2021-02-17 18:35:12,193: registered with master
+[rospy.rosout][INFO] 2021-02-17 18:35:12,201: initializing /rosout core topic
+[rospy.rosout][INFO] 2021-02-17 18:35:12,208: connected to core topic /rosout
+[rospy.simtime][INFO] 2021-02-17 18:35:12,216: /use_sim_time is not set, will not subscribe to simulated time [/clock] topic
+[rospy.internal][INFO] 2021-02-17 18:35:12,470: topic[/rosout] adding connection to [/rosout], count 0
+[rospy.internal][INFO] 2021-02-17 18:35:12,482: topic[/tf] adding connection to [/tf2_web_republisher], count 0
+[rospy.core][INFO] 2021-02-17 18:35:12,739: signal_shutdown [atexit]
+[rospy.internal][INFO] 2021-02-17 18:35:12,969: topic[/rosout] removing connection to /rosout
+[rospy.internal][INFO] 2021-02-17 18:35:13,004: topic[/tf] removing connection to /tf2_web_republisher
+[rospy.impl.masterslave][INFO] 2021-02-17 18:35:13,017: atexit
+[rospy.client][INFO] 2021-02-17 18:35:48,892: init_node, name[/project2_solution], pid[28905]
+[xmlrpc][INFO] 2021-02-17 18:35:48,892: XML-RPC server binding to 0.0.0.0:0
+[xmlrpc][INFO] 2021-02-17 18:35:48,900: Started XML-RPC server [http://ip-172-31-22-195:41677/]
+[rospy.init][INFO] 2021-02-17 18:35:48,900: ROS Slave URI: [http://ip-172-31-22-195:41677/]
+[rospy.impl.masterslave][INFO] 2021-02-17 18:35:48,905: _ready: http://ip-172-31-22-195:41677/
+[xmlrpc][INFO] 2021-02-17 18:35:48,916: xml rpc node: starting XML-RPC server
+[rospy.registration][INFO] 2021-02-17 18:35:48,916: Registering with master node http://localhost:43232
+[rospy.init][INFO] 2021-02-17 18:35:49,010: registered with master
+[rospy.rosout][INFO] 2021-02-17 18:35:49,019: initializing /rosout core topic
+[rospy.rosout][INFO] 2021-02-17 18:35:49,028: connected to core topic /rosout
+[rospy.simtime][INFO] 2021-02-17 18:35:49,034: /use_sim_time is not set, will not subscribe to simulated time [/clock] topic
+[rospy.internal][INFO] 2021-02-17 18:35:49,237: topic[/rosout] adding connection to [/rosout], count 0
+[rospy.internal][INFO] 2021-02-17 18:35:49,268: topic[/tf] adding connection to [/tf2_web_republisher], count 0
+[rospy.core][INFO] 2021-02-17 18:35:49,558: signal_shutdown [atexit]
+[rospy.internal][INFO] 2021-02-17 18:35:49,588: topic[/rosout] removing connection to /rosout
+[rospy.internal][INFO] 2021-02-17 18:35:49,592: topic[/tf] removing connection to /tf2_web_republisher
+[rospy.impl.masterslave][INFO] 2021-02-17 18:35:49,596: atexit
+[rospy.client][INFO] 2021-02-17 18:36:09,422: init_node, name[/project2_solution], pid[29772]
+[xmlrpc][INFO] 2021-02-17 18:36:09,422: XML-RPC server binding to 0.0.0.0:0
+[xmlrpc][INFO] 2021-02-17 18:36:09,429: Started XML-RPC server [http://ip-172-31-22-195:41744/]
+[rospy.init][INFO] 2021-02-17 18:36:09,430: ROS Slave URI: [http://ip-172-31-22-195:41744/]
+[rospy.impl.masterslave][INFO] 2021-02-17 18:36:09,434: _ready: http://ip-172-31-22-195:41744/
+[rospy.registration][INFO] 2021-02-17 18:36:09,449: Registering with master node http://localhost:43232
+[xmlrpc][INFO] 2021-02-17 18:36:09,449: xml rpc node: starting XML-RPC server
+[rospy.init][INFO] 2021-02-17 18:36:09,542: registered with master
+[rospy.rosout][INFO] 2021-02-17 18:36:09,547: initializing /rosout core topic
+[rospy.rosout][INFO] 2021-02-17 18:36:09,558: connected to core topic /rosout
+[rospy.simtime][INFO] 2021-02-17 18:36:09,567: /use_sim_time is not set, will not subscribe to simulated time [/clock] topic
+[rospy.internal][INFO] 2021-02-17 18:36:09,773: topic[/rosout] adding connection to [/rosout], count 0
+[rospy.internal][INFO] 2021-02-17 18:36:09,816: topic[/tf] adding connection to [/tf2_web_republisher], count 0
+[rospy.core][INFO] 2021-02-17 18:36:10,115: signal_shutdown [atexit]
+[rospy.internal][INFO] 2021-02-17 18:36:10,169: topic[/rosout] removing connection to /rosout
+[rospy.internal][INFO] 2021-02-17 18:36:10,175: topic[/tf] removing connection to /tf2_web_republisher
+[rospy.impl.masterslave][INFO] 2021-02-17 18:36:10,179: atexit
+[rospy.client][INFO] 2021-02-17 18:36:32,832: init_node, name[/project2_solution], pid[29964]
+[xmlrpc][INFO] 2021-02-17 18:36:32,832: XML-RPC server binding to 0.0.0.0:0
+[xmlrpc][INFO] 2021-02-17 18:36:32,838: Started XML-RPC server [http://ip-172-31-22-195:37721/]
+[rospy.init][INFO] 2021-02-17 18:36:32,838: ROS Slave URI: [http://ip-172-31-22-195:37721/]
+[rospy.impl.masterslave][INFO] 2021-02-17 18:36:32,841: _ready: http://ip-172-31-22-195:37721/
+[xmlrpc][INFO] 2021-02-17 18:36:32,850: xml rpc node: starting XML-RPC server
+[rospy.registration][INFO] 2021-02-17 18:36:32,850: Registering with master node http://localhost:43232
+[rospy.init][INFO] 2021-02-17 18:36:32,945: registered with master
+[rospy.rosout][INFO] 2021-02-17 18:36:32,950: initializing /rosout core topic
+[rospy.rosout][INFO] 2021-02-17 18:36:32,958: connected to core topic /rosout
+[rospy.simtime][INFO] 2021-02-17 18:36:32,965: /use_sim_time is not set, will not subscribe to simulated time [/clock] topic
+[rospy.internal][INFO] 2021-02-17 18:36:33,209: topic[/rosout] adding connection to [/rosout], count 0
+[rospy.internal][INFO] 2021-02-17 18:36:33,220: topic[/tf] adding connection to [/tf2_web_republisher], count 0
+[rospy.core][INFO] 2021-02-17 18:36:33,494: signal_shutdown [atexit]
+[rospy.internal][INFO] 2021-02-17 18:36:33,522: topic[/rosout] removing connection to /rosout
+[rospy.internal][INFO] 2021-02-17 18:36:33,527: topic[/tf] removing connection to /tf2_web_republisher
+[rospy.impl.masterslave][INFO] 2021-02-17 18:36:33,532: atexit
+[rospy.client][INFO] 2021-02-17 18:38:45,054: init_node, name[/project2_solution], pid[656]
+[xmlrpc][INFO] 2021-02-17 18:38:45,054: XML-RPC server binding to 0.0.0.0:0
+[xmlrpc][INFO] 2021-02-17 18:38:45,059: Started XML-RPC server [http://ip-172-31-22-195:41865/]
+[rospy.init][INFO] 2021-02-17 18:38:45,060: ROS Slave URI: [http://ip-172-31-22-195:41865/]
+[rospy.impl.masterslave][INFO] 2021-02-17 18:38:45,064: _ready: http://ip-172-31-22-195:41865/
+[xmlrpc][INFO] 2021-02-17 18:38:45,072: xml rpc node: starting XML-RPC server
+[rospy.registration][INFO] 2021-02-17 18:38:45,073: Registering with master node http://localhost:43232
+[rospy.init][INFO] 2021-02-17 18:38:45,169: registered with master
+[rospy.rosout][INFO] 2021-02-17 18:38:45,173: initializing /rosout core topic
+[rospy.rosout][INFO] 2021-02-17 18:38:45,180: connected to core topic /rosout
+[rospy.simtime][INFO] 2021-02-17 18:38:45,185: /use_sim_time is not set, will not subscribe to simulated time [/clock] topic
+[rospy.internal][INFO] 2021-02-17 18:38:45,408: topic[/rosout] adding connection to [/rosout], count 0
+[rospy.internal][INFO] 2021-02-17 18:38:45,421: topic[/tf] adding connection to [/tf2_web_republisher], count 0
+[rospy.core][INFO] 2021-02-17 18:38:45,715: signal_shutdown [atexit]
+[rospy.internal][INFO] 2021-02-17 18:38:45,744: topic[/rosout] removing connection to /rosout
+[rospy.internal][INFO] 2021-02-17 18:38:45,751: topic[/tf] removing connection to /tf2_web_republisher
+[rospy.impl.masterslave][INFO] 2021-02-17 18:38:45,755: atexit
+[rospy.client][INFO] 2021-02-17 18:39:10,126: init_node, name[/project2_solution], pid[1109]
+[xmlrpc][INFO] 2021-02-17 18:39:10,126: XML-RPC server binding to 0.0.0.0:0
+[xmlrpc][INFO] 2021-02-17 18:39:10,132: Started XML-RPC server [http://ip-172-31-22-195:39533/]
+[rospy.init][INFO] 2021-02-17 18:39:10,132: ROS Slave URI: [http://ip-172-31-22-195:39533/]
+[rospy.impl.masterslave][INFO] 2021-02-17 18:39:10,136: _ready: http://ip-172-31-22-195:39533/
+[xmlrpc][INFO] 2021-02-17 18:39:10,145: xml rpc node: starting XML-RPC server
+[rospy.registration][INFO] 2021-02-17 18:39:10,145: Registering with master node http://localhost:43232
+[rospy.init][INFO] 2021-02-17 18:39:10,241: registered with master
+[rospy.rosout][INFO] 2021-02-17 18:39:10,246: initializing /rosout core topic
+[rospy.rosout][INFO] 2021-02-17 18:39:10,257: connected to core topic /rosout
+[rospy.simtime][INFO] 2021-02-17 18:39:10,261: /use_sim_time is not set, will not subscribe to simulated time [/clock] topic
+[rospy.internal][INFO] 2021-02-17 18:39:10,463: topic[/rosout] adding connection to [/rosout], count 0
+[rospy.internal][INFO] 2021-02-17 18:39:10,554: topic[/tf] adding connection to [/tf2_web_republisher], count 0

@@ -1,0 +1,234 @@
+[rosmaster.main][INFO] 2021-02-17 18:21:47,420: initialization complete, waiting for shutdown
+[rosmaster.main][INFO] 2021-02-17 18:21:47,420: Starting ROS Master Node
+[xmlrpc][INFO] 2021-02-17 18:21:47,425: XML-RPC server binding to 0.0.0.0:43232
+[rosmaster.master][INFO] 2021-02-17 18:21:47,431: Master initialized: port[43232], uri[http://ip-172-31-22-195:43232/]
+[xmlrpc][INFO] 2021-02-17 18:21:47,430: Started XML-RPC server [http://ip-172-31-22-195:43232/]
+[xmlrpc][INFO] 2021-02-17 18:21:47,438: xml rpc node: starting XML-RPC server
+[rosmaster.master][INFO] 2021-02-17 18:21:47,451: +PUB [/rosout] /tf2_web_republisher http://ip-172-31-22-195:38237/
+[rosmaster.master][INFO] 2021-02-17 18:21:47,456: +SERVICE [/tf2_web_republisher/get_loggers] /tf2_web_republisher http://ip-172-31-22-195:38237/
+[rosmaster.master][INFO] 2021-02-17 18:21:47,461: +SERVICE [/tf2_web_republisher/set_logger_level] /tf2_web_republisher http://ip-172-31-22-195:38237/
+[rosmaster.master][INFO] 2021-02-17 18:21:47,469: +SUB [/tf] /tf2_web_republisher http://ip-172-31-22-195:38237/
+[rosmaster.master][INFO] 2021-02-17 18:21:47,477: +SUB [/tf_static] /tf2_web_republisher http://ip-172-31-22-195:38237/
+[rosmaster.master][INFO] 2021-02-17 18:21:47,481: +SERVICE [/republish_tfs] /tf2_web_republisher http://ip-172-31-22-195:38237/
+[rosmaster.master][INFO] 2021-02-17 18:21:47,488: +PUB [/tf2_web_republisher/result] /tf2_web_republisher http://ip-172-31-22-195:38237/
+[rosmaster.master][INFO] 2021-02-17 18:21:47,492: +PUB [/tf2_web_republisher/feedback] /tf2_web_republisher http://ip-172-31-22-195:38237/
+[rosmaster.master][INFO] 2021-02-17 18:21:47,492: +PARAM [/run_id] by /roslaunch
+[rosmaster.master][INFO] 2021-02-17 18:21:47,496: +PUB [/tf2_web_republisher/status] /tf2_web_republisher http://ip-172-31-22-195:38237/
+[rosmaster.master][INFO] 2021-02-17 18:21:47,505: +PARAM [/roslaunch/uris/host_ip_172_31_22_195__45741] by /roslaunch
+[rosmaster.master][INFO] 2021-02-17 18:21:47,510: +SUB [/tf2_web_republisher/goal] /tf2_web_republisher http://ip-172-31-22-195:38237/
+[rosmaster.master][INFO] 2021-02-17 18:21:47,523: +SUB [/tf2_web_republisher/cancel] /tf2_web_republisher http://ip-172-31-22-195:38237/
+[rosmaster.master][INFO] 2021-02-17 18:21:47,623: +SERVICE [/rosout/get_loggers] /rosout http://ip-172-31-22-195:37640/
+[rosmaster.master][INFO] 2021-02-17 18:21:47,625: +PARAM [/rosversion] by /roslaunch
+[rosmaster.master][INFO] 2021-02-17 18:21:47,627: +SERVICE [/rosout/set_logger_level] /rosout http://ip-172-31-22-195:37640/
+[rosmaster.master][INFO] 2021-02-17 18:21:47,632: +PARAM [/rosdistro] by /roslaunch
+[rosmaster.master][INFO] 2021-02-17 18:21:47,642: +PUB [/rosout_agg] /rosout http://ip-172-31-22-195:37640/
+[rosmaster.master][INFO] 2021-02-17 18:21:47,650: +SUB [/rosout] /rosout http://ip-172-31-22-195:37640/
+[rosmaster.master][INFO] 2021-02-17 18:21:48,827: +PUB [/rosout] /marker_publisher http://ip-172-31-22-195:34734/
+[rosmaster.master][INFO] 2021-02-17 18:21:48,828: +SERVICE [/marker_publisher/get_loggers] /marker_publisher http://ip-172-31-22-195:34734/
+[rosmaster.master][INFO] 2021-02-17 18:21:48,834: +SERVICE [/marker_publisher/set_logger_level] /marker_publisher http://ip-172-31-22-195:34734/
+[rosmaster.master][INFO] 2021-02-17 18:21:48,839: +PUB [/visualization_marker] /marker_publisher http://ip-172-31-22-195:34734/
+[rosmaster.master][INFO] 2021-02-17 18:21:48,927: publisherUpdate[/rosout] -> http://ip-172-31-22-195:37640/ ['http://ip-172-31-22-195:38237/', 'http://ip-172-31-22-195:34734/']
+[rosmaster.master][INFO] 2021-02-17 18:21:48,933: publisherUpdate[/rosout] -> http://ip-172-31-22-195:37640/ ['http://ip-172-31-22-195:38237/', 'http://ip-172-31-22-195:34734/']: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2021-02-17 18:21:49,485: +PARAM [/roslaunch/uris/host_ip_172_31_22_195__38191] by /roslaunch
+[rosmaster.master][INFO] 2021-02-17 18:21:49,502: +PARAM [/rosbridge_websocket/unregister_timeout] by /roslaunch
+[rosmaster.master][INFO] 2021-02-17 18:21:49,506: +PARAM [/rosbridge_websocket/port] by /roslaunch
+[rosmaster.master][INFO] 2021-02-17 18:21:49,511: +PARAM [/rosdistro] by /roslaunch
+[rosmaster.master][INFO] 2021-02-17 18:21:49,515: +PARAM [/rosbridge_websocket/fragment_timeout] by /roslaunch
+[rosmaster.master][INFO] 2021-02-17 18:21:49,519: +PARAM [/rosbridge_websocket/bson_only_mode] by /roslaunch
+[rosmaster.master][INFO] 2021-02-17 18:21:49,523: +PARAM [/rosbridge_websocket/delay_between_messages] by /roslaunch
+[rosmaster.master][INFO] 2021-02-17 18:21:49,530: +PARAM [/rosversion] by /roslaunch
+[rosmaster.master][INFO] 2021-02-17 18:21:49,535: +PARAM [/rosbridge_websocket/topics_glob] by /roslaunch
+[rosmaster.master][INFO] 2021-02-17 18:21:49,543: +PARAM [/rosbridge_websocket/authenticate] by /roslaunch
+[rosmaster.master][INFO] 2021-02-17 18:21:49,547: +PARAM [/rosbridge_websocket/params_glob] by /roslaunch
+[rosmaster.master][INFO] 2021-02-17 18:21:49,552: +PARAM [/rosapi/params_glob] by /roslaunch
+[rosmaster.master][INFO] 2021-02-17 18:21:49,556: +PARAM [/rosapi/services_glob] by /roslaunch
+[rosmaster.master][INFO] 2021-02-17 18:21:49,561: +PARAM [/rosbridge_websocket/retry_startup_delay] by /roslaunch
+[rosmaster.master][INFO] 2021-02-17 18:21:49,565: +PARAM [/rosbridge_websocket/services_glob] by /roslaunch
+[rosmaster.master][INFO] 2021-02-17 18:21:49,569: +PARAM [/rosbridge_websocket/address] by /roslaunch
+[rosmaster.master][INFO] 2021-02-17 18:21:49,573: +PARAM [/rosapi/topics_glob] by /roslaunch
+[rosmaster.master][INFO] 2021-02-17 18:21:49,578: +PARAM [/rosbridge_websocket/use_compression] by /roslaunch
+[rosmaster.master][INFO] 2021-02-17 18:21:49,582: +PARAM [/rosbridge_websocket/max_message_size] by /roslaunch
+[rosmaster.master][INFO] 2021-02-17 18:21:50,060: +PUB [/rosout] /rosapi http://ip-172-31-22-195:38176/
+[rosmaster.master][INFO] 2021-02-17 18:21:50,074: +PUB [/rosout] /rosbridge_websocket http://ip-172-31-22-195:34778/
+[rosmaster.master][INFO] 2021-02-17 18:21:50,080: +SERVICE [/rosapi/get_loggers] /rosapi http://ip-172-31-22-195:38176/
+[rosmaster.master][INFO] 2021-02-17 18:21:50,088: +SERVICE [/rosapi/set_logger_level] /rosapi http://ip-172-31-22-195:38176/
+[rosmaster.master][INFO] 2021-02-17 18:21:50,093: +SERVICE [/rosbridge_websocket/get_loggers] /rosbridge_websocket http://ip-172-31-22-195:34778/
+[rosmaster.master][INFO] 2021-02-17 18:21:50,097: +SERVICE [/rosapi/topics] /rosapi http://ip-172-31-22-195:38176/
+[rosmaster.master][INFO] 2021-02-17 18:21:50,112: +SERVICE [/rosbridge_websocket/set_logger_level] /rosbridge_websocket http://ip-172-31-22-195:34778/
+[rosmaster.master][INFO] 2021-02-17 18:21:50,118: +SERVICE [/rosapi/topics_for_type] /rosapi http://ip-172-31-22-195:38176/
+[rosmaster.master][INFO] 2021-02-17 18:21:50,124: +SERVICE [/rosapi/services] /rosapi http://ip-172-31-22-195:38176/
+[rosmaster.master][INFO] 2021-02-17 18:21:50,129: publisherUpdate[/rosout] -> http://ip-172-31-22-195:37640/ ['http://ip-172-31-22-195:38237/', 'http://ip-172-31-22-195:34734/', 'http://ip-172-31-22-195:38176/']
+[rosmaster.master][INFO] 2021-02-17 18:21:50,130: +SERVICE [/rosapi/services_for_type] /rosapi http://ip-172-31-22-195:38176/
+[rosmaster.master][INFO] 2021-02-17 18:21:50,138: publisherUpdate[/rosout] -> http://ip-172-31-22-195:37640/ ['http://ip-172-31-22-195:38237/', 'http://ip-172-31-22-195:34734/', 'http://ip-172-31-22-195:38176/']: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2021-02-17 18:21:50,143: +PUB [/client_count] /rosbridge_websocket http://ip-172-31-22-195:34778/
+[rosmaster.master][INFO] 2021-02-17 18:21:50,147: publisherUpdate[/rosout] -> http://ip-172-31-22-195:37640/ ['http://ip-172-31-22-195:38237/', 'http://ip-172-31-22-195:34734/', 'http://ip-172-31-22-195:38176/', 'http://ip-172-31-22-195:34778/']
+[rosmaster.master][INFO] 2021-02-17 18:21:50,152: +SERVICE [/rosapi/nodes] /rosapi http://ip-172-31-22-195:38176/
+[rosmaster.master][INFO] 2021-02-17 18:21:50,157: publisherUpdate[/rosout] -> http://ip-172-31-22-195:37640/ ['http://ip-172-31-22-195:38237/', 'http://ip-172-31-22-195:34734/', 'http://ip-172-31-22-195:38176/', 'http://ip-172-31-22-195:34778/']: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2021-02-17 18:21:50,160: +PUB [/connected_clients] /rosbridge_websocket http://ip-172-31-22-195:34778/
+[rosmaster.master][INFO] 2021-02-17 18:21:50,170: +SERVICE [/rosapi/node_details] /rosapi http://ip-172-31-22-195:38176/
+[rosmaster.master][INFO] 2021-02-17 18:21:50,176: +SERVICE [/rosapi/action_servers] /rosapi http://ip-172-31-22-195:38176/
+[rosmaster.master][INFO] 2021-02-17 18:21:50,181: +SERVICE [/rosapi/topic_type] /rosapi http://ip-172-31-22-195:38176/
+[rosmaster.master][INFO] 2021-02-17 18:21:50,186: +SERVICE [/rosapi/service_type] /rosapi http://ip-172-31-22-195:38176/
+[rosmaster.master][INFO] 2021-02-17 18:21:50,192: +SERVICE [/rosapi/publishers] /rosapi http://ip-172-31-22-195:38176/
+[rosmaster.master][INFO] 2021-02-17 18:21:50,197: +SERVICE [/rosapi/subscribers] /rosapi http://ip-172-31-22-195:38176/
+[rosmaster.master][INFO] 2021-02-17 18:21:50,202: +SERVICE [/rosapi/service_providers] /rosapi http://ip-172-31-22-195:38176/
+[rosmaster.master][INFO] 2021-02-17 18:21:50,207: +SERVICE [/rosapi/service_node] /rosapi http://ip-172-31-22-195:38176/
+[rosmaster.master][INFO] 2021-02-17 18:21:50,212: +SERVICE [/rosapi/service_host] /rosapi http://ip-172-31-22-195:38176/
+[rosmaster.master][INFO] 2021-02-17 18:21:50,218: +SERVICE [/rosapi/message_details] /rosapi http://ip-172-31-22-195:38176/
+[rosmaster.master][INFO] 2021-02-17 18:21:50,223: +SERVICE [/rosapi/service_request_details] /rosapi http://ip-172-31-22-195:38176/
+[rosmaster.master][INFO] 2021-02-17 18:21:50,229: +SERVICE [/rosapi/service_response_details] /rosapi http://ip-172-31-22-195:38176/
+[rosmaster.master][INFO] 2021-02-17 18:21:50,234: +SERVICE [/rosapi/set_param] /rosapi http://ip-172-31-22-195:38176/
+[rosmaster.master][INFO] 2021-02-17 18:21:50,239: +SERVICE [/rosapi/get_param] /rosapi http://ip-172-31-22-195:38176/
+[rosmaster.master][INFO] 2021-02-17 18:21:50,244: +SERVICE [/rosapi/has_param] /rosapi http://ip-172-31-22-195:38176/
+[rosmaster.master][INFO] 2021-02-17 18:21:50,249: +SERVICE [/rosapi/search_param] /rosapi http://ip-172-31-22-195:38176/
+[rosmaster.master][INFO] 2021-02-17 18:21:50,254: +SERVICE [/rosapi/delete_param] /rosapi http://ip-172-31-22-195:38176/
+[rosmaster.master][INFO] 2021-02-17 18:21:50,259: +SERVICE [/rosapi/get_param_names] /rosapi http://ip-172-31-22-195:38176/
+[rosmaster.master][INFO] 2021-02-17 18:21:50,265: +SERVICE [/rosapi/get_time] /rosapi http://ip-172-31-22-195:38176/
+[rosmaster.master][INFO] 2021-02-17 18:35:12,207: +PUB [/rosout] /project2_solution http://ip-172-31-22-195:36179/
+[rosmaster.master][INFO] 2021-02-17 18:35:12,222: +SERVICE [/project2_solution/get_loggers] /project2_solution http://ip-172-31-22-195:36179/
+[rosmaster.master][INFO] 2021-02-17 18:35:12,228: +SERVICE [/project2_solution/set_logger_level] /project2_solution http://ip-172-31-22-195:36179/
+[rosmaster.master][INFO] 2021-02-17 18:35:12,233: +PUB [/tf] /project2_solution http://ip-172-31-22-195:36179/
+[rosmaster.master][INFO] 2021-02-17 18:35:12,263: publisherUpdate[/rosout] -> http://ip-172-31-22-195:37640/ ['http://ip-172-31-22-195:38237/', 'http://ip-172-31-22-195:34734/', 'http://ip-172-31-22-195:38176/', 'http://ip-172-31-22-195:34778/', 'http://ip-172-31-22-195:36179/']
+[rosmaster.master][INFO] 2021-02-17 18:35:12,263: publisherUpdate[/tf] -> http://ip-172-31-22-195:38237/ ['http://ip-172-31-22-195:36179/']
+[rosmaster.master][INFO] 2021-02-17 18:35:12,269: publisherUpdate[/rosout] -> http://ip-172-31-22-195:37640/ ['http://ip-172-31-22-195:38237/', 'http://ip-172-31-22-195:34734/', 'http://ip-172-31-22-195:38176/', 'http://ip-172-31-22-195:34778/', 'http://ip-172-31-22-195:36179/']: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2021-02-17 18:35:12,274: publisherUpdate[/tf] -> http://ip-172-31-22-195:38237/ ['http://ip-172-31-22-195:36179/']: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2021-02-17 18:35:12,780: -PUB [/rosout] /project2_solution http://ip-172-31-22-195:36179/
+[rosmaster.master][INFO] 2021-02-17 18:35:12,781: publisherUpdate[/rosout] -> http://ip-172-31-22-195:37640/ ['http://ip-172-31-22-195:38237/', 'http://ip-172-31-22-195:34734/', 'http://ip-172-31-22-195:38176/', 'http://ip-172-31-22-195:34778/']
+[rosmaster.master][INFO] 2021-02-17 18:35:12,784: -PUB [/tf] /project2_solution http://ip-172-31-22-195:36179/
+[rosmaster.master][INFO] 2021-02-17 18:35:12,785: publisherUpdate[/tf] -> http://ip-172-31-22-195:38237/ []
+[rosmaster.master][INFO] 2021-02-17 18:35:12,823: publisherUpdate[/rosout] -> http://ip-172-31-22-195:37640/ ['http://ip-172-31-22-195:38237/', 'http://ip-172-31-22-195:34734/', 'http://ip-172-31-22-195:38176/', 'http://ip-172-31-22-195:34778/']: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2021-02-17 18:35:12,854: -SERVICE [/project2_solution/get_loggers] /project2_solution rosrpc://ip-172-31-22-195:37371
+[rosmaster.master][INFO] 2021-02-17 18:35:12,863: publisherUpdate[/tf] -> http://ip-172-31-22-195:38237/ []: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2021-02-17 18:35:12,930: -SERVICE [/project2_solution/set_logger_level] /project2_solution rosrpc://ip-172-31-22-195:37371
+[rosmaster.master][INFO] 2021-02-17 18:35:49,026: +PUB [/rosout] /project2_solution http://ip-172-31-22-195:41677/
+[rosmaster.master][INFO] 2021-02-17 18:35:49,030: publisherUpdate[/rosout] -> http://ip-172-31-22-195:37640/ ['http://ip-172-31-22-195:38237/', 'http://ip-172-31-22-195:34734/', 'http://ip-172-31-22-195:38176/', 'http://ip-172-31-22-195:34778/', 'http://ip-172-31-22-195:41677/']
+[rosmaster.master][INFO] 2021-02-17 18:35:49,035: publisherUpdate[/rosout] -> http://ip-172-31-22-195:37640/ ['http://ip-172-31-22-195:38237/', 'http://ip-172-31-22-195:34734/', 'http://ip-172-31-22-195:38176/', 'http://ip-172-31-22-195:34778/', 'http://ip-172-31-22-195:41677/']: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2021-02-17 18:35:49,039: +SERVICE [/project2_solution/get_loggers] /project2_solution http://ip-172-31-22-195:41677/
+[rosmaster.master][INFO] 2021-02-17 18:35:49,044: +SERVICE [/project2_solution/set_logger_level] /project2_solution http://ip-172-31-22-195:41677/
+[rosmaster.master][INFO] 2021-02-17 18:35:49,049: +PUB [/tf] /project2_solution http://ip-172-31-22-195:41677/
+[rosmaster.master][INFO] 2021-02-17 18:35:49,062: publisherUpdate[/tf] -> http://ip-172-31-22-195:38237/ ['http://ip-172-31-22-195:41677/']
+[rosmaster.master][INFO] 2021-02-17 18:35:49,067: publisherUpdate[/tf] -> http://ip-172-31-22-195:38237/ ['http://ip-172-31-22-195:41677/']: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2021-02-17 18:35:49,564: -PUB [/rosout] /project2_solution http://ip-172-31-22-195:41677/
+[rosmaster.master][INFO] 2021-02-17 18:35:49,568: -PUB [/tf] /project2_solution http://ip-172-31-22-195:41677/
+[rosmaster.master][INFO] 2021-02-17 18:35:49,571: publisherUpdate[/rosout] -> http://ip-172-31-22-195:37640/ ['http://ip-172-31-22-195:38237/', 'http://ip-172-31-22-195:34734/', 'http://ip-172-31-22-195:38176/', 'http://ip-172-31-22-195:34778/']
+[rosmaster.master][INFO] 2021-02-17 18:35:49,572: -SERVICE [/project2_solution/get_loggers] /project2_solution rosrpc://ip-172-31-22-195:39545
+[rosmaster.master][INFO] 2021-02-17 18:35:49,576: publisherUpdate[/rosout] -> http://ip-172-31-22-195:37640/ ['http://ip-172-31-22-195:38237/', 'http://ip-172-31-22-195:34734/', 'http://ip-172-31-22-195:38176/', 'http://ip-172-31-22-195:34778/']: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2021-02-17 18:35:49,580: -SERVICE [/project2_solution/set_logger_level] /project2_solution rosrpc://ip-172-31-22-195:39545
+[rosmaster.master][INFO] 2021-02-17 18:35:49,581: publisherUpdate[/tf] -> http://ip-172-31-22-195:38237/ []
+[rosmaster.master][INFO] 2021-02-17 18:35:49,592: publisherUpdate[/tf] -> http://ip-172-31-22-195:38237/ []: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2021-02-17 18:36:09,553: +PUB [/rosout] /project2_solution http://ip-172-31-22-195:41744/
+[rosmaster.master][INFO] 2021-02-17 18:36:09,566: publisherUpdate[/rosout] -> http://ip-172-31-22-195:37640/ ['http://ip-172-31-22-195:38237/', 'http://ip-172-31-22-195:34734/', 'http://ip-172-31-22-195:38176/', 'http://ip-172-31-22-195:34778/', 'http://ip-172-31-22-195:41744/']
+[rosmaster.master][INFO] 2021-02-17 18:36:09,571: publisherUpdate[/rosout] -> http://ip-172-31-22-195:37640/ ['http://ip-172-31-22-195:38237/', 'http://ip-172-31-22-195:34734/', 'http://ip-172-31-22-195:38176/', 'http://ip-172-31-22-195:34778/', 'http://ip-172-31-22-195:41744/']: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2021-02-17 18:36:09,572: +SERVICE [/project2_solution/get_loggers] /project2_solution http://ip-172-31-22-195:41744/
+[rosmaster.master][INFO] 2021-02-17 18:36:09,588: +SERVICE [/project2_solution/set_logger_level] /project2_solution http://ip-172-31-22-195:41744/
+[rosmaster.master][INFO] 2021-02-17 18:36:09,594: +PUB [/tf] /project2_solution http://ip-172-31-22-195:41744/
+[rosmaster.master][INFO] 2021-02-17 18:36:09,610: publisherUpdate[/tf] -> http://ip-172-31-22-195:38237/ ['http://ip-172-31-22-195:41744/']
+[rosmaster.master][INFO] 2021-02-17 18:36:09,614: publisherUpdate[/tf] -> http://ip-172-31-22-195:38237/ ['http://ip-172-31-22-195:41744/']: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2021-02-17 18:36:10,121: -PUB [/rosout] /project2_solution http://ip-172-31-22-195:41744/
+[rosmaster.master][INFO] 2021-02-17 18:36:10,121: publisherUpdate[/rosout] -> http://ip-172-31-22-195:37640/ ['http://ip-172-31-22-195:38237/', 'http://ip-172-31-22-195:34734/', 'http://ip-172-31-22-195:38176/', 'http://ip-172-31-22-195:34778/']
+[rosmaster.master][INFO] 2021-02-17 18:36:10,125: -PUB [/tf] /project2_solution http://ip-172-31-22-195:41744/
+[rosmaster.master][INFO] 2021-02-17 18:36:10,134: publisherUpdate[/rosout] -> http://ip-172-31-22-195:37640/ ['http://ip-172-31-22-195:38237/', 'http://ip-172-31-22-195:34734/', 'http://ip-172-31-22-195:38176/', 'http://ip-172-31-22-195:34778/']: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2021-02-17 18:36:10,152: -SERVICE [/project2_solution/get_loggers] /project2_solution rosrpc://ip-172-31-22-195:33336
+[rosmaster.master][INFO] 2021-02-17 18:36:10,156: publisherUpdate[/tf] -> http://ip-172-31-22-195:38237/ []
+[rosmaster.master][INFO] 2021-02-17 18:36:10,159: -SERVICE [/project2_solution/set_logger_level] /project2_solution rosrpc://ip-172-31-22-195:33336
+[rosmaster.master][INFO] 2021-02-17 18:36:10,164: publisherUpdate[/tf] -> http://ip-172-31-22-195:38237/ []: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2021-02-17 18:36:32,956: +PUB [/rosout] /project2_solution http://ip-172-31-22-195:37721/
+[rosmaster.master][INFO] 2021-02-17 18:36:32,974: +SERVICE [/project2_solution/get_loggers] /project2_solution http://ip-172-31-22-195:37721/
+[rosmaster.master][INFO] 2021-02-17 18:36:32,979: +SERVICE [/project2_solution/set_logger_level] /project2_solution http://ip-172-31-22-195:37721/
+[rosmaster.master][INFO] 2021-02-17 18:36:32,985: +PUB [/tf] /project2_solution http://ip-172-31-22-195:37721/
+[rosmaster.master][INFO] 2021-02-17 18:36:33,002: publisherUpdate[/rosout] -> http://ip-172-31-22-195:37640/ ['http://ip-172-31-22-195:38237/', 'http://ip-172-31-22-195:34734/', 'http://ip-172-31-22-195:38176/', 'http://ip-172-31-22-195:34778/', 'http://ip-172-31-22-195:37721/']
+[rosmaster.master][INFO] 2021-02-17 18:36:33,007: publisherUpdate[/rosout] -> http://ip-172-31-22-195:37640/ ['http://ip-172-31-22-195:38237/', 'http://ip-172-31-22-195:34734/', 'http://ip-172-31-22-195:38176/', 'http://ip-172-31-22-195:34778/', 'http://ip-172-31-22-195:37721/']: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2021-02-17 18:36:33,008: publisherUpdate[/tf] -> http://ip-172-31-22-195:38237/ ['http://ip-172-31-22-195:37721/']
+[rosmaster.master][INFO] 2021-02-17 18:36:33,018: publisherUpdate[/tf] -> http://ip-172-31-22-195:38237/ ['http://ip-172-31-22-195:37721/']: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2021-02-17 18:36:33,501: -PUB [/rosout] /project2_solution http://ip-172-31-22-195:37721/
+[rosmaster.master][INFO] 2021-02-17 18:36:33,507: -PUB [/tf] /project2_solution http://ip-172-31-22-195:37721/
+[rosmaster.master][INFO] 2021-02-17 18:36:33,511: -SERVICE [/project2_solution/get_loggers] /project2_solution rosrpc://ip-172-31-22-195:33613
+[rosmaster.master][INFO] 2021-02-17 18:36:33,514: publisherUpdate[/rosout] -> http://ip-172-31-22-195:37640/ ['http://ip-172-31-22-195:38237/', 'http://ip-172-31-22-195:34734/', 'http://ip-172-31-22-195:38176/', 'http://ip-172-31-22-195:34778/']
+[rosmaster.master][INFO] 2021-02-17 18:36:33,515: -SERVICE [/project2_solution/set_logger_level] /project2_solution rosrpc://ip-172-31-22-195:33613
+[rosmaster.master][INFO] 2021-02-17 18:36:33,520: publisherUpdate[/rosout] -> http://ip-172-31-22-195:37640/ ['http://ip-172-31-22-195:38237/', 'http://ip-172-31-22-195:34734/', 'http://ip-172-31-22-195:38176/', 'http://ip-172-31-22-195:34778/']: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2021-02-17 18:36:33,524: publisherUpdate[/tf] -> http://ip-172-31-22-195:38237/ []
+[rosmaster.master][INFO] 2021-02-17 18:36:33,532: publisherUpdate[/tf] -> http://ip-172-31-22-195:38237/ []: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2021-02-17 18:38:45,178: +PUB [/rosout] /project2_solution http://ip-172-31-22-195:41865/
+[rosmaster.master][INFO] 2021-02-17 18:38:45,191: +SERVICE [/project2_solution/get_loggers] /project2_solution http://ip-172-31-22-195:41865/
+[rosmaster.master][INFO] 2021-02-17 18:38:45,196: +SERVICE [/project2_solution/set_logger_level] /project2_solution http://ip-172-31-22-195:41865/
+[rosmaster.master][INFO] 2021-02-17 18:38:45,198: publisherUpdate[/rosout] -> http://ip-172-31-22-195:37640/ ['http://ip-172-31-22-195:38237/', 'http://ip-172-31-22-195:34734/', 'http://ip-172-31-22-195:38176/', 'http://ip-172-31-22-195:34778/', 'http://ip-172-31-22-195:41865/']
+[rosmaster.master][INFO] 2021-02-17 18:38:45,203: +PUB [/tf] /project2_solution http://ip-172-31-22-195:41865/
+[rosmaster.master][INFO] 2021-02-17 18:38:45,206: publisherUpdate[/rosout] -> http://ip-172-31-22-195:37640/ ['http://ip-172-31-22-195:38237/', 'http://ip-172-31-22-195:34734/', 'http://ip-172-31-22-195:38176/', 'http://ip-172-31-22-195:34778/', 'http://ip-172-31-22-195:41865/']: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2021-02-17 18:38:45,215: publisherUpdate[/tf] -> http://ip-172-31-22-195:38237/ ['http://ip-172-31-22-195:41865/']
+[rosmaster.master][INFO] 2021-02-17 18:38:45,220: publisherUpdate[/tf] -> http://ip-172-31-22-195:38237/ ['http://ip-172-31-22-195:41865/']: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2021-02-17 18:38:45,725: -PUB [/rosout] /project2_solution http://ip-172-31-22-195:41865/
+[rosmaster.master][INFO] 2021-02-17 18:38:45,731: -PUB [/tf] /project2_solution http://ip-172-31-22-195:41865/
+[rosmaster.master][INFO] 2021-02-17 18:38:45,736: -SERVICE [/project2_solution/get_loggers] /project2_solution rosrpc://ip-172-31-22-195:42865
+[rosmaster.master][INFO] 2021-02-17 18:38:45,740: -SERVICE [/project2_solution/set_logger_level] /project2_solution rosrpc://ip-172-31-22-195:42865
+[rosmaster.master][INFO] 2021-02-17 18:38:45,799: publisherUpdate[/rosout] -> http://ip-172-31-22-195:37640/ ['http://ip-172-31-22-195:38237/', 'http://ip-172-31-22-195:34734/', 'http://ip-172-31-22-195:38176/', 'http://ip-172-31-22-195:34778/']
+[rosmaster.master][INFO] 2021-02-17 18:38:45,805: publisherUpdate[/rosout] -> http://ip-172-31-22-195:37640/ ['http://ip-172-31-22-195:38237/', 'http://ip-172-31-22-195:34734/', 'http://ip-172-31-22-195:38176/', 'http://ip-172-31-22-195:34778/']: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2021-02-17 18:38:45,814: publisherUpdate[/tf] -> http://ip-172-31-22-195:38237/ []
+[rosmaster.master][INFO] 2021-02-17 18:38:45,824: publisherUpdate[/tf] -> http://ip-172-31-22-195:38237/ []: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2021-02-17 18:39:10,252: +PUB [/rosout] /project2_solution http://ip-172-31-22-195:39533/
+[rosmaster.master][INFO] 2021-02-17 18:39:10,255: publisherUpdate[/rosout] -> http://ip-172-31-22-195:37640/ ['http://ip-172-31-22-195:38237/', 'http://ip-172-31-22-195:34734/', 'http://ip-172-31-22-195:38176/', 'http://ip-172-31-22-195:34778/', 'http://ip-172-31-22-195:39533/']
+[rosmaster.master][INFO] 2021-02-17 18:39:10,261: publisherUpdate[/rosout] -> http://ip-172-31-22-195:37640/ ['http://ip-172-31-22-195:38237/', 'http://ip-172-31-22-195:34734/', 'http://ip-172-31-22-195:38176/', 'http://ip-172-31-22-195:34778/', 'http://ip-172-31-22-195:39533/']: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2021-02-17 18:39:10,267: +SERVICE [/project2_solution/get_loggers] /project2_solution http://ip-172-31-22-195:39533/
+[rosmaster.master][INFO] 2021-02-17 18:39:10,277: +SERVICE [/project2_solution/set_logger_level] /project2_solution http://ip-172-31-22-195:39533/
+[rosmaster.master][INFO] 2021-02-17 18:39:10,282: +PUB [/tf] /project2_solution http://ip-172-31-22-195:39533/
+[rosmaster.master][INFO] 2021-02-17 18:39:10,347: publisherUpdate[/tf] -> http://ip-172-31-22-195:38237/ ['http://ip-172-31-22-195:39533/']
+[rosmaster.master][INFO] 2021-02-17 18:39:10,353: publisherUpdate[/tf] -> http://ip-172-31-22-195:38237/ ['http://ip-172-31-22-195:39533/']: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2021-02-17 18:42:43,482: -PUB [/rosout] /rosapi http://ip-172-31-22-195:38176/
+[rosmaster.master][INFO] 2021-02-17 18:42:43,484: -PUB [/rosout_agg] /rosout http://ip-172-31-22-195:37640/
+[rosmaster.master][INFO] 2021-02-17 18:42:43,485: publisherUpdate[/rosout] -> http://ip-172-31-22-195:37640/ ['http://ip-172-31-22-195:38237/', 'http://ip-172-31-22-195:34734/', 'http://ip-172-31-22-195:34778/', 'http://ip-172-31-22-195:39533/']
+[rosmaster.master][INFO] 2021-02-17 18:42:43,488: -PUB [/client_count] /rosbridge_websocket http://ip-172-31-22-195:34778/
+[rosmaster.master][INFO] 2021-02-17 18:42:43,493: publisherUpdate[/rosout] -> http://ip-172-31-22-195:37640/ ['http://ip-172-31-22-195:38237/', 'http://ip-172-31-22-195:34734/', 'http://ip-172-31-22-195:34778/', 'http://ip-172-31-22-195:39533/']: sec=0.00, exception=<Fault -1: 'publisherUpdate: unknown method name'>
+[rosmaster.master][INFO] 2021-02-17 18:42:43,497: -SERVICE [/rosapi/get_loggers] /rosapi rosrpc://ip-172-31-22-195:45317
+[rosmaster.threadpool][ERROR] 2021-02-17 18:42:43,503: Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rosmaster/threadpool.py", line 218, in run
+    result = cmd(*args)
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rosmaster/master_api.py", line 210, in publisher_update_task
+    ret = xmlrpcapi(api).publisherUpdate('/master', topic, pub_uris)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1243, in __call__
+    return self.__send(self.__name, args)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1602, in __request
+    verbose=self.__verbose
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1283, in request
+    return self.single_request(host, handler, request_body, verbose)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1316, in single_request
+    return self.parse_response(response)
+  File "/usr/lib/python2.7/xmlrpclib.py", line 1493, in parse_response
+    return u.close()
+  File "/usr/lib/python2.7/xmlrpclib.py", line 800, in close
+    raise Fault(**self._stack[0])
+Fault: <Fault -1: 'publisherUpdate: unknown method name'>
+
+[rosmaster.master][INFO] 2021-02-17 18:42:43,511: -SUB [/rosout] /rosout http://ip-172-31-22-195:37640/
+[rosmaster.master][INFO] 2021-02-17 18:42:43,524: -PUB [/rosout] /rosbridge_websocket http://ip-172-31-22-195:34778/
+[rosmaster.master][INFO] 2021-02-17 18:42:43,529: -SERVICE [/rosapi/has_param] /rosapi rosrpc://ip-172-31-22-195:45317
+[rosmaster.master][INFO] 2021-02-17 18:42:43,533: -SERVICE [/rosout/get_loggers] /rosout rosrpc://ip-172-31-22-195:45612
+[rosmaster.master][INFO] 2021-02-17 18:42:43,537: -PUB [/connected_clients] /rosbridge_websocket http://ip-172-31-22-195:34778/
+[rosmaster.master][INFO] 2021-02-17 18:42:43,541: -SERVICE [/rosapi/delete_param] /rosapi rosrpc://ip-172-31-22-195:45317
+[rosmaster.master][INFO] 2021-02-17 18:42:43,545: -SERVICE [/rosout/set_logger_level] /rosout rosrpc://ip-172-31-22-195:45612
+[rosmaster.master][INFO] 2021-02-17 18:42:43,550: -SERVICE [/rosbridge_websocket/set_logger_level] /rosbridge_websocket rosrpc://ip-172-31-22-195:45093
+[rosmaster.master][INFO] 2021-02-17 18:42:43,554: -SERVICE [/rosapi/search_param] /rosapi rosrpc://ip-172-31-22-195:45317
+[rosmaster.master][INFO] 2021-02-17 18:42:43,568: -SERVICE [/rosbridge_websocket/get_loggers] /rosbridge_websocket rosrpc://ip-172-31-22-195:45093
+[rosmaster.master][INFO] 2021-02-17 18:42:43,572: -SERVICE [/rosapi/action_servers] /rosapi rosrpc://ip-172-31-22-195:45317
+[rosmaster.master][INFO] 2021-02-17 18:42:43,576: -SERVICE [/rosapi/topic_type] /rosapi rosrpc://ip-172-31-22-195:45317
+[rosmaster.master][INFO] 2021-02-17 18:42:43,579: -SERVICE [/rosapi/subscribers] /rosapi rosrpc://ip-172-31-22-195:45317
+[rosmaster.master][INFO] 2021-02-17 18:42:43,584: -SERVICE [/rosapi/set_logger_level] /rosapi rosrpc://ip-172-31-22-195:45317
+[rosmaster.master][INFO] 2021-02-17 18:42:43,588: -SERVICE [/rosapi/service_response_details] /rosapi rosrpc://ip-172-31-22-195:45317
+[rosmaster.master][INFO] 2021-02-17 18:42:43,591: -SERVICE [/rosapi/service_host] /rosapi rosrpc://ip-172-31-22-195:45317
+[rosmaster.master][INFO] 2021-02-17 18:42:43,595: -SERVICE [/rosapi/publishers] /rosapi rosrpc://ip-172-31-22-195:45317
+[rosmaster.master][INFO] 2021-02-17 18:42:43,599: -SERVICE [/rosapi/topics] /rosapi rosrpc://ip-172-31-22-195:45317
+[rosmaster.master][INFO] 2021-02-17 18:42:43,603: -SERVICE [/rosapi/get_param_names] /rosapi rosrpc://ip-172-31-22-195:45317
+[rosmaster.master][INFO] 2021-02-17 18:42:43,607: -SERVICE [/rosapi/get_time] /rosapi rosrpc://ip-172-31-22-195:45317
+[rosmaster.master][INFO] 2021-02-17 18:42:43,610: -SERVICE [/rosapi/message_details] /rosapi rosrpc://ip-172-31-22-195:45317
+[rosmaster.master][INFO] 2021-02-17 18:42:43,614: -SERVICE [/rosapi/services] /rosapi rosrpc://ip-172-31-22-195:45317
+[rosmaster.master][INFO] 2021-02-17 18:42:43,618: -SERVICE [/rosapi/service_node] /rosapi rosrpc://ip-172-31-22-195:45317
+[rosmaster.master][INFO] 2021-02-17 18:42:43,622: -SERVICE [/rosapi/services_for_type] /rosapi rosrpc://ip-172-31-22-195:45317
+[rosmaster.master][INFO] 2021-02-17 18:42:43,628: -SERVICE [/rosapi/nodes] /rosapi rosrpc://ip-172-31-22-195:45317
+[rosmaster.master][INFO] 2021-02-17 18:42:43,631: -SERVICE [/rosapi/node_details] /rosapi rosrpc://ip-172-31-22-195:45317
+[rosmaster.master][INFO] 2021-02-17 18:42:43,636: -SERVICE [/rosapi/service_providers] /rosapi rosrpc://ip-172-31-22-195:45317
+[rosmaster.master][INFO] 2021-02-17 18:42:43,648: -SERVICE [/rosapi/get_param] /rosapi rosrpc://ip-172-31-22-195:45317
+[rosmaster.master][INFO] 2021-02-17 18:42:43,652: -SERVICE [/rosapi/topics_for_type] /rosapi rosrpc://ip-172-31-22-195:45317
+[rosmaster.master][INFO] 2021-02-17 18:42:43,656: -SERVICE [/rosapi/set_param] /rosapi rosrpc://ip-172-31-22-195:45317
+[rosmaster.master][INFO] 2021-02-17 18:42:43,661: -SERVICE [/rosapi/service_request_details] /rosapi rosrpc://ip-172-31-22-195:45317
+[rosmaster.master][INFO] 2021-02-17 18:42:43,665: -SERVICE [/rosapi/service_type] /rosapi rosrpc://ip-172-31-22-195:45317
+[rosmaster.main][INFO] 2021-02-17 18:42:43,672: keyboard interrupt, will exit
+[rosmaster.main][INFO] 2021-02-17 18:42:43,676: stopping master...
+[rospy.core][INFO] 2021-02-17 18:42:43,680: signal_shutdown [atexit]

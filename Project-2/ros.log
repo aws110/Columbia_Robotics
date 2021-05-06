@@ -1,0 +1,131 @@
+BR: Port for WebSocketServer: 36958
+BR: Running cmd: roslaunch rosbridge_server rosbridge_websocket.launch port:=36958
+BR: ... logging to /mnt/data2/students/sub1/ccc_v1_w_OIyD_190740/asn329243_2/asn329244_1/work/.ros/log/0dbe8b20-7193-11eb-8785-06e1177ec627/roslaunch-ip-172-31-23-253-18787.log
+BR: Checking log directory for disk usage. This may take awhile.
+BR: Press Ctrl-C to interrupt
+ROSCORE: ... logging to /mnt/data2/students/sub1/ccc_v1_w_OIyD_190740/asn329243_2/asn329244_1/work/.ros/log/05ffb580-7193-11eb-8785-06e1177ec627/roslaunch-ip-172-31-23-253-18605.log
+ROSCORE: Checking log directory for disk usage. This may take awhile.
+ROSCORE: Press Ctrl-C to interrupt
+BR: Done checking log file disk usage. Usage is <1GB.
+ROSCORE: Done checking log file disk usage. Usage is <1GB.
+BR: ]2;/opt/ros/kinetic/share/rosbridge_server/launch/rosbridge_websocket.launch
+ROSCORE: ]2;roscore
+PUB: [31m[ERROR] [1613616198.997484861]: [registerPublisher] Failed to contact master at [localhost:55709].  Retrying...[0m
+ASN1: [31m[ERROR] [1613616198.997487326]: [registerPublisher] Failed to contact master at [localhost:55709].  Retrying...[0m
+ROSCORE: [1mstarted roslaunch server http://ip-172-31-23-253:40617/[0m
+ROSCORE: ros_comm version 1.12.14
+ROSCORE: 
+ROSCORE: 
+ROSCORE: SUMMARY
+ROSCORE: ========
+ROSCORE: 
+ROSCORE: PARAMETERS
+ROSCORE:  * /rosdistro: kinetic
+ROSCORE:  * /rosversion: 1.12.14
+ROSCORE: 
+ROSCORE: NODES
+ROSCORE: 
+ROSCORE: auto-starting new master
+BR: [1mstarted roslaunch server http://ip-172-31-23-253:42334/[0m
+ROSCORE: [1mprocess[master]: started with pid [19124][0m
+BR: 
+BR: SUMMARY
+BR: ========
+BR: 
+BR: PARAMETERS
+BR:  * /rosapi/params_glob: [*]
+BR:  * /rosapi/services_glob: [*]
+BR:  * /rosapi/topics_glob: [*]
+BR:  * /rosbridge_websocket/address: 
+BR:  * /rosbridge_websocket/authenticate: False
+BR:  * /rosbridge_websocket/bson_only_mode: False
+BR:  * /rosbridge_websocket/delay_between_messages: 0
+BR:  * /rosbridge_websocket/fragment_timeout: 600
+BR:  * /rosbridge_websocket/max_message_size: None
+BR:  * /rosbridge_websocket/params_glob: [*]
+BR:  * /rosbridge_websocket/port: 36958
+BR:  * /rosbridge_websocket/retry_startup_delay: 5
+BR:  * /rosbridge_websocket/services_glob: [*]
+BR:  * /rosbridge_websocket/topics_glob: [*]
+BR:  * /rosbridge_websocket/unregister_timeout: 10
+BR:  * /rosbridge_websocket/use_compression: False
+BR:  * /rosdistro: kinetic
+BR:  * /rosversion: 1.12.14
+BR: 
+BR: NODES
+BR:   /
+BR:     rosapi (rosapi/rosapi_node)
+BR:     rosbridge_websocket (rosbridge_server/rosbridge_websocket)
+BR: 
+BR: auto-starting new master
+BR: [1mprocess[master]: started with pid [19127][0m
+PUB: [0m[ INFO] [1613616212.253703570]: Connected to master at [localhost:55709][0m
+ASN1: [0m[ INFO] [1613616212.259292893]: Connected to master at [localhost:55709][0m
+BR: [1mROS_MASTER_URI=http://localhost:55709[0m
+BR: ]2;/opt/ros/kinetic/share/rosbridge_server/launch/rosbridge_websocket.launch http://localhost:55709
+BR: [1msetting /run_id to 0dbe8b20-7193-11eb-8785-06e1177ec627[0m
+ROSCORE: [1mROS_MASTER_URI=http://ip-172-31-23-253:55709/[0m
+ROSCORE: ]2;roscore http://ip-172-31-23-253:55709/
+ROSCORE: [31mrun_id on parameter server does not match declared run_id: 0dbe8b20-7193-11eb-8785-06e1177ec627 vs 05ffb580-7193-11eb-8785-06e1177ec627[0m
+BR: ERROR: Unable to start XML-RPC server, port 55709 is already in use
+BR: Unhandled exception in thread started by <bound method XmlRpcNode.run of <rosgraph.xmlrpc.XmlRpcNode object at 0x7f479e282d90>>
+BR: Traceback (most recent call last):
+BR:   File "/opt/ros/kinetic/lib/python2.7/dist-packages/rosgraph/xmlrpc.py", line 215, in run
+BR:     self._run()
+BR:   File "/opt/ros/kinetic/lib/python2.7/dist-packages/rosgraph/xmlrpc.py", line 284, in _run
+BR:     self._run_init()
+BR:   File "/opt/ros/kinetic/lib/python2.7/dist-packages/rosgraph/xmlrpc.py", line 234, in _run_init
+BR:     self.server = ThreadingXMLRPCServer((bind_address, port), log_requests)
+BR:   File "/opt/ros/kinetic/lib/python2.7/dist-packages/rosgraph/xmlrpc.py", line 115, in __init__
+BR:     SimpleXMLRPCServer.__init__(self, addr, SilenceableXMLRPCRequestHandler, log_requests)
+BR:   File "/usr/lib/python2.7/SimpleXMLRPCServer.py", line 593, in __init__
+BR:     SocketServer.TCPServer.__init__(self, addr, requestHandler, bind_and_activate)
+BR:   File "/usr/lib/python2.7/SocketServer.py", line 417, in __init__
+ROSCORE: [31mThe traceback for the exception was written to the log file[0m
+BR:     self.server_bind()
+BR:   File "/usr/lib/python2.7/SocketServer.py", line 431, in server_bind
+BR:     self.socket.bind(self.server_address)
+BR:   File "/usr/lib/python2.7/socket.py", line 228, in meth
+ROSCORE: [master] killing on exit
+BR:     return getattr(self._sock,name)(*args)
+BR: socket.error: [Errno 98] Address already in use
+BR: [1mprocess[rosout-1]: started with pid [19209][0m
+BR: started core service [/rosout]
+BR: [31m[ERROR] [1613616212.636031265]: [registerService] Failed to contact master at [localhost:55709].  Retrying...[0m
+BR: [31mload_parameters: unable to set parameters (last param was [None]): [Errno 111] Connection refused[0m
+BR: Traceback (most recent call last):
+BR:   File "/opt/ros/kinetic/lib/python2.7/dist-packages/roslaunch/__init__.py", line 306, in main
+BR:     p.start()
+BR:   File "/opt/ros/kinetic/lib/python2.7/dist-packages/roslaunch/parent.py", line 279, in start
+BR:     self.runner.launch()
+BR:   File "/opt/ros/kinetic/lib/python2.7/dist-packages/roslaunch/launch.py", line 657, in launch
+BR:     self._setup()
+BR:   File "/opt/ros/kinetic/lib/python2.7/dist-packages/roslaunch/launch.py", line 644, in _setup
+BR:     self._load_parameters()
+BR:   File "/opt/ros/kinetic/lib/python2.7/dist-packages/roslaunch/launch.py", line 327, in _load_parameters
+BR:     r = param_server_multi()
+BR:   File "/usr/lib/python2.7/xmlrpclib.py", line 1006, in __call__
+BR:     return MultiCallIterator(self.__server.system.multicall(marshalled_list))
+BR:   File "/usr/lib/python2.7/xmlrpclib.py", line 1243, in __call__
+BR:     return self.__send(self.__name, args)
+BR:   File "/usr/lib/python2.7/xmlrpclib.py", line 1602, in __request
+BR:     verbose=self.__verbose
+BR:   File "/usr/lib/python2.7/xmlrpclib.py", line 1283, in request
+BR:     return self.single_request(host, handler, request_body, verbose)
+BR:   File "/usr/lib/python2.7/xmlrpclib.py", line 1311, in single_request
+BR:     self.send_content(h, request_body)
+BR:   File "/usr/lib/python2.7/xmlrpclib.py", line 1459, in send_content
+BR:     connection.endheaders(request_body)
+BR:   File "/usr/lib/python2.7/httplib.py", line 1053, in endheaders
+BR:     self._send_output(message_body)
+BR:   File "/usr/lib/python2.7/httplib.py", line 897, in _send_output
+BR:     self.send(msg)
+BR:   File "/usr/lib/python2.7/httplib.py", line 859, in send
+BR:     self.connect()
+BR:   File "/usr/lib/python2.7/httplib.py", line 836, in connect
+BR:     self.timeout, self.source_address)
+BR:   File "/usr/lib/python2.7/socket.py", line 575, in create_connection
+BR:     raise err
+BR: error: [Errno 111] Connection refused
+BR: [rosout-1] killing on exit
+BR: [master] killing on exit
