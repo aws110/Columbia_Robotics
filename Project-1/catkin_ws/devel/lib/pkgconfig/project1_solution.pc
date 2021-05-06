@@ -1,0 +1,8 @@
+prefix=/mnt/data2/students/sub1/ccc_v1_w_OIyD_190740/asn329241_1/asn329242_1/work/catkin_ws/devel
+
+Name: project1_solution
+Description: Description of project1_solution
+Version: 0.0.0
+Cflags: -I/mnt/data2/students/sub1/ccc_v1_w_OIyD_190740/asn329241_1/asn329242_1/work/catkin_ws/devel/include
+Libs: -L/mnt/data2/students/sub1/ccc_v1_w_OIyD_190740/asn329241_1/asn329242_1/work/catkin_ws/devel/lib 
+Requires: rospy message_runtime

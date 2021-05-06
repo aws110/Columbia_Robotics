@@ -1,0 +1,1878 @@
+
+
+1613176173.733623954  Node Startup
+1613176274.857592105 ERROR [topics.py:753(_invoke_callback) [topics: /two_ints, /rosout] bad callback: <function callback at 0x7f04a2b905f0>
+Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/topics.py", line 750, in _invoke_callback
+    cb(msg)
+  File "/mnt/data2/students/sub1/ccc_v1_w_OIyD_190740/asn329241_1/asn329242_1/work/catkin_ws/src/project1_solution/scripts/solution.py", line 8, in callback
+    rospy.loginfo(rospy.get_caller_id() + "I heard %s", data.data)
+AttributeError: 'TwoInts' object has no attribute 'data'
+
+1613176276.856156110 ERROR [topics.py:753(_invoke_callback) [topics: /two_ints, /rosout] bad callback: <function callback at 0x7f04a2b905f0>
+Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/topics.py", line 750, in _invoke_callback
+    cb(msg)
+  File "/mnt/data2/students/sub1/ccc_v1_w_OIyD_190740/asn329241_1/asn329242_1/work/catkin_ws/src/project1_solution/scripts/solution.py", line 8, in callback
+    rospy.loginfo(rospy.get_caller_id() + "I heard %s", data.data)
+AttributeError: 'TwoInts' object has no attribute 'data'
+
+1613176278.854931116 ERROR [topics.py:753(_invoke_callback) [topics: /two_ints, /rosout] bad callback: <function callback at 0x7f04a2b905f0>
+Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/topics.py", line 750, in _invoke_callback
+    cb(msg)
+  File "/mnt/data2/students/sub1/ccc_v1_w_OIyD_190740/asn329241_1/asn329242_1/work/catkin_ws/src/project1_solution/scripts/solution.py", line 8, in callback
+    rospy.loginfo(rospy.get_caller_id() + "I heard %s", data.data)
+AttributeError: 'TwoInts' object has no attribute 'data'
+
+1613176280.855581998 ERROR [topics.py:753(_invoke_callback) [topics: /two_ints, /rosout] bad callback: <function callback at 0x7f04a2b905f0>
+Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/topics.py", line 750, in _invoke_callback
+    cb(msg)
+  File "/mnt/data2/students/sub1/ccc_v1_w_OIyD_190740/asn329241_1/asn329242_1/work/catkin_ws/src/project1_solution/scripts/solution.py", line 8, in callback
+    rospy.loginfo(rospy.get_caller_id() + "I heard %s", data.data)
+AttributeError: 'TwoInts' object has no attribute 'data'
+
+1613176282.855300903 ERROR [topics.py:753(_invoke_callback) [topics: /two_ints, /rosout] bad callback: <function callback at 0x7f04a2b905f0>
+Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/topics.py", line 750, in _invoke_callback
+    cb(msg)
+  File "/mnt/data2/students/sub1/ccc_v1_w_OIyD_190740/asn329241_1/asn329242_1/work/catkin_ws/src/project1_solution/scripts/solution.py", line 8, in callback
+    rospy.loginfo(rospy.get_caller_id() + "I heard %s", data.data)
+AttributeError: 'TwoInts' object has no attribute 'data'
+
+1613176284.854916095 ERROR [topics.py:753(_invoke_callback) [topics: /two_ints, /rosout] bad callback: <function callback at 0x7f04a2b905f0>
+Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/topics.py", line 750, in _invoke_callback
+    cb(msg)
+  File "/mnt/data2/students/sub1/ccc_v1_w_OIyD_190740/asn329241_1/asn329242_1/work/catkin_ws/src/project1_solution/scripts/solution.py", line 8, in callback
+    rospy.loginfo(rospy.get_caller_id() + "I heard %s", data.data)
+AttributeError: 'TwoInts' object has no attribute 'data'
+
+1613176286.856317996 ERROR [topics.py:753(_invoke_callback) [topics: /two_ints, /rosout] bad callback: <function callback at 0x7f04a2b905f0>
+Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/topics.py", line 750, in _invoke_callback
+    cb(msg)
+  File "/mnt/data2/students/sub1/ccc_v1_w_OIyD_190740/asn329241_1/asn329242_1/work/catkin_ws/src/project1_solution/scripts/solution.py", line 8, in callback
+    rospy.loginfo(rospy.get_caller_id() + "I heard %s", data.data)
+AttributeError: 'TwoInts' object has no attribute 'data'
+
+1613176288.855444908 ERROR [topics.py:753(_invoke_callback) [topics: /two_ints, /rosout] bad callback: <function callback at 0x7f04a2b905f0>
+Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/topics.py", line 750, in _invoke_callback
+    cb(msg)
+  File "/mnt/data2/students/sub1/ccc_v1_w_OIyD_190740/asn329241_1/asn329242_1/work/catkin_ws/src/project1_solution/scripts/solution.py", line 8, in callback
+    rospy.loginfo(rospy.get_caller_id() + "I heard %s", data.data)
+AttributeError: 'TwoInts' object has no attribute 'data'
+
+1613176290.854787111 ERROR [topics.py:753(_invoke_callback) [topics: /two_ints, /rosout] bad callback: <function callback at 0x7f04a2b905f0>
+Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/topics.py", line 750, in _invoke_callback
+    cb(msg)
+  File "/mnt/data2/students/sub1/ccc_v1_w_OIyD_190740/asn329241_1/asn329242_1/work/catkin_ws/src/project1_solution/scripts/solution.py", line 8, in callback
+    rospy.loginfo(rospy.get_caller_id() + "I heard %s", data.data)
+AttributeError: 'TwoInts' object has no attribute 'data'
+
+1613176292.856345891 ERROR [topics.py:753(_invoke_callback) [topics: /two_ints, /rosout] bad callback: <function callback at 0x7f04a2b905f0>
+Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/topics.py", line 750, in _invoke_callback
+    cb(msg)
+  File "/mnt/data2/students/sub1/ccc_v1_w_OIyD_190740/asn329241_1/asn329242_1/work/catkin_ws/src/project1_solution/scripts/solution.py", line 8, in callback
+    rospy.loginfo(rospy.get_caller_id() + "I heard %s", data.data)
+AttributeError: 'TwoInts' object has no attribute 'data'
+
+1613176484.855814933 INFO [solution.py:8(callback) [topics: /two_ints, /rosout] /solution
+1613176486.854665040 INFO [solution.py:8(callback) [topics: /two_ints, /rosout] /solution
+1613176488.854685068 INFO [solution.py:8(callback) [topics: /two_ints, /rosout] /solution
+1613176490.854677915 INFO [solution.py:8(callback) [topics: /two_ints, /rosout] /solution
+1613176492.855107069 INFO [solution.py:8(callback) [topics: /two_ints, /rosout] /solution
+1613176494.855788946 INFO [solution.py:8(callback) [topics: /two_ints, /rosout] /solution
+1613176496.904525041 WARN [tcpros_base.py:351(_tcp_server_callback) [topics: /two_ints, /rosout] Inbound TCP/IP connection failed: connection from sender terminated before handshake header received. 0 bytes were received. Please check sender for additional details.
+1613176568.855998992 INFO [solution.py:8(callback) [topics: /two_ints, /rosout] a: 10
+b: 8
+1613176570.856564044 INFO [solution.py:8(callback) [topics: /two_ints, /rosout] a: 13
+b: 19
+1613176572.854818105 INFO [solution.py:8(callback) [topics: /two_ints, /rosout] a: 13
+b: 10
+1613176574.854778051 INFO [solution.py:8(callback) [topics: /two_ints, /rosout] a: 19
+b: 12
+1613176576.856276988 INFO [solution.py:8(callback) [topics: /two_ints, /rosout] a: 13
+b: 19
+1613176578.856019973 INFO [solution.py:8(callback) [topics: /two_ints, /rosout] a: 6
+b: 4
+1613176580.855715990 INFO [solution.py:8(callback) [topics: /two_ints, /rosout] a: 4
+b: 7
+1613176598.858526945 ERROR [topics.py:753(_invoke_callback) [topics: /two_ints, /rosout] bad callback: <function callback at 0x7f5e2807c5f0>
+Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/topics.py", line 750, in _invoke_callback
+    cb(msg)
+  File "/mnt/data2/students/sub1/ccc_v1_w_OIyD_190740/asn329241_1/asn329242_1/work/catkin_ws/src/project1_solution/scripts/solution.py", line 8, in callback
+    rospy.loginfo(data.a, data.b)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1167, in info
+    self._log(INFO, msg, args, **kwargs)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1286, in _log
+    self.handle(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1296, in handle
+    self.callHandlers(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1336, in callHandlers
+    hdlr.handle(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 759, in handle
+    self.emit(record)
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rosgraph/roslogging.py", line 182, in emit
+    record_message = _defaultFormatter.format(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 465, in format
+    record.message = record.getMessage()
+  File "/usr/lib/python2.7/logging/__init__.py", line 329, in getMessage
+    msg = msg % self.args
+TypeError: not all arguments converted during string formatting
+
+1613176600.861352920 ERROR [topics.py:753(_invoke_callback) [topics: /two_ints, /rosout] bad callback: <function callback at 0x7f5e2807c5f0>
+Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/topics.py", line 750, in _invoke_callback
+    cb(msg)
+  File "/mnt/data2/students/sub1/ccc_v1_w_OIyD_190740/asn329241_1/asn329242_1/work/catkin_ws/src/project1_solution/scripts/solution.py", line 8, in callback
+    rospy.loginfo(data.a, data.b)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1167, in info
+    self._log(INFO, msg, args, **kwargs)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1286, in _log
+    self.handle(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1296, in handle
+    self.callHandlers(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1336, in callHandlers
+    hdlr.handle(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 759, in handle
+    self.emit(record)
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rosgraph/roslogging.py", line 182, in emit
+    record_message = _defaultFormatter.format(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 465, in format
+    record.message = record.getMessage()
+  File "/usr/lib/python2.7/logging/__init__.py", line 329, in getMessage
+    msg = msg % self.args
+TypeError: not all arguments converted during string formatting
+
+1613176602.856549978 ERROR [topics.py:753(_invoke_callback) [topics: /two_ints, /rosout] bad callback: <function callback at 0x7f5e2807c5f0>
+Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/topics.py", line 750, in _invoke_callback
+    cb(msg)
+  File "/mnt/data2/students/sub1/ccc_v1_w_OIyD_190740/asn329241_1/asn329242_1/work/catkin_ws/src/project1_solution/scripts/solution.py", line 8, in callback
+    rospy.loginfo(data.a, data.b)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1167, in info
+    self._log(INFO, msg, args, **kwargs)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1286, in _log
+    self.handle(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1296, in handle
+    self.callHandlers(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1336, in callHandlers
+    hdlr.handle(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 759, in handle
+    self.emit(record)
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rosgraph/roslogging.py", line 182, in emit
+    record_message = _defaultFormatter.format(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 465, in format
+    record.message = record.getMessage()
+  File "/usr/lib/python2.7/logging/__init__.py", line 329, in getMessage
+    msg = msg % self.args
+TypeError: not all arguments converted during string formatting
+
+1613176604.854994058 ERROR [topics.py:753(_invoke_callback) [topics: /two_ints, /rosout] bad callback: <function callback at 0x7f5e2807c5f0>
+Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/topics.py", line 750, in _invoke_callback
+    cb(msg)
+  File "/mnt/data2/students/sub1/ccc_v1_w_OIyD_190740/asn329241_1/asn329242_1/work/catkin_ws/src/project1_solution/scripts/solution.py", line 8, in callback
+    rospy.loginfo(data.a, data.b)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1167, in info
+    self._log(INFO, msg, args, **kwargs)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1286, in _log
+    self.handle(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1296, in handle
+    self.callHandlers(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1336, in callHandlers
+    hdlr.handle(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 759, in handle
+    self.emit(record)
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rosgraph/roslogging.py", line 182, in emit
+    record_message = _defaultFormatter.format(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 465, in format
+    record.message = record.getMessage()
+  File "/usr/lib/python2.7/logging/__init__.py", line 329, in getMessage
+    msg = msg % self.args
+TypeError: not all arguments converted during string formatting
+
+1613176606.855840921 ERROR [topics.py:753(_invoke_callback) [topics: /two_ints, /rosout] bad callback: <function callback at 0x7f5e2807c5f0>
+Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/topics.py", line 750, in _invoke_callback
+    cb(msg)
+  File "/mnt/data2/students/sub1/ccc_v1_w_OIyD_190740/asn329241_1/asn329242_1/work/catkin_ws/src/project1_solution/scripts/solution.py", line 8, in callback
+    rospy.loginfo(data.a, data.b)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1167, in info
+    self._log(INFO, msg, args, **kwargs)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1286, in _log
+    self.handle(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1296, in handle
+    self.callHandlers(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1336, in callHandlers
+    hdlr.handle(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 759, in handle
+    self.emit(record)
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rosgraph/roslogging.py", line 182, in emit
+    record_message = _defaultFormatter.format(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 465, in format
+    record.message = record.getMessage()
+  File "/usr/lib/python2.7/logging/__init__.py", line 329, in getMessage
+    msg = msg % self.args
+TypeError: not all arguments converted during string formatting
+
+1613176608.855814933 ERROR [topics.py:753(_invoke_callback) [topics: /two_ints, /rosout] bad callback: <function callback at 0x7f5e2807c5f0>
+Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/topics.py", line 750, in _invoke_callback
+    cb(msg)
+  File "/mnt/data2/students/sub1/ccc_v1_w_OIyD_190740/asn329241_1/asn329242_1/work/catkin_ws/src/project1_solution/scripts/solution.py", line 8, in callback
+    rospy.loginfo(data.a, data.b)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1167, in info
+    self._log(INFO, msg, args, **kwargs)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1286, in _log
+    self.handle(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1296, in handle
+    self.callHandlers(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1336, in callHandlers
+    hdlr.handle(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 759, in handle
+    self.emit(record)
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rosgraph/roslogging.py", line 182, in emit
+    record_message = _defaultFormatter.format(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 465, in format
+    record.message = record.getMessage()
+  File "/usr/lib/python2.7/logging/__init__.py", line 329, in getMessage
+    msg = msg % self.args
+TypeError: not all arguments converted during string formatting
+
+1613176610.856606006 ERROR [topics.py:753(_invoke_callback) [topics: /two_ints, /rosout] bad callback: <function callback at 0x7f5e2807c5f0>
+Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/topics.py", line 750, in _invoke_callback
+    cb(msg)
+  File "/mnt/data2/students/sub1/ccc_v1_w_OIyD_190740/asn329241_1/asn329242_1/work/catkin_ws/src/project1_solution/scripts/solution.py", line 8, in callback
+    rospy.loginfo(data.a, data.b)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1167, in info
+    self._log(INFO, msg, args, **kwargs)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1286, in _log
+    self.handle(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1296, in handle
+    self.callHandlers(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1336, in callHandlers
+    hdlr.handle(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 759, in handle
+    self.emit(record)
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rosgraph/roslogging.py", line 182, in emit
+    record_message = _defaultFormatter.format(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 465, in format
+    record.message = record.getMessage()
+  File "/usr/lib/python2.7/logging/__init__.py", line 329, in getMessage
+    msg = msg % self.args
+TypeError: not all arguments converted during string formatting
+
+1613176612.856756925 ERROR [topics.py:753(_invoke_callback) [topics: /two_ints, /rosout] bad callback: <function callback at 0x7f5e2807c5f0>
+Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/topics.py", line 750, in _invoke_callback
+    cb(msg)
+  File "/mnt/data2/students/sub1/ccc_v1_w_OIyD_190740/asn329241_1/asn329242_1/work/catkin_ws/src/project1_solution/scripts/solution.py", line 8, in callback
+    rospy.loginfo(data.a, data.b)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1167, in info
+    self._log(INFO, msg, args, **kwargs)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1286, in _log
+    self.handle(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1296, in handle
+    self.callHandlers(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1336, in callHandlers
+    hdlr.handle(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 759, in handle
+    self.emit(record)
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rosgraph/roslogging.py", line 182, in emit
+    record_message = _defaultFormatter.format(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 465, in format
+    record.message = record.getMessage()
+  File "/usr/lib/python2.7/logging/__init__.py", line 329, in getMessage
+    msg = msg % self.args
+TypeError: not all arguments converted during string formatting
+
+1613176614.855119943 ERROR [topics.py:753(_invoke_callback) [topics: /two_ints, /rosout] bad callback: <function callback at 0x7f5e2807c5f0>
+Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/topics.py", line 750, in _invoke_callback
+    cb(msg)
+  File "/mnt/data2/students/sub1/ccc_v1_w_OIyD_190740/asn329241_1/asn329242_1/work/catkin_ws/src/project1_solution/scripts/solution.py", line 8, in callback
+    rospy.loginfo(data.a, data.b)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1167, in info
+    self._log(INFO, msg, args, **kwargs)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1286, in _log
+    self.handle(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1296, in handle
+    self.callHandlers(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1336, in callHandlers
+    hdlr.handle(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 759, in handle
+    self.emit(record)
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rosgraph/roslogging.py", line 182, in emit
+    record_message = _defaultFormatter.format(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 465, in format
+    record.message = record.getMessage()
+  File "/usr/lib/python2.7/logging/__init__.py", line 329, in getMessage
+    msg = msg % self.args
+TypeError: not all arguments converted during string formatting
+
+1613176616.856825113 ERROR [topics.py:753(_invoke_callback) [topics: /two_ints, /rosout] bad callback: <function callback at 0x7f5e2807c5f0>
+Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/topics.py", line 750, in _invoke_callback
+    cb(msg)
+  File "/mnt/data2/students/sub1/ccc_v1_w_OIyD_190740/asn329241_1/asn329242_1/work/catkin_ws/src/project1_solution/scripts/solution.py", line 8, in callback
+    rospy.loginfo(data.a, data.b)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1167, in info
+    self._log(INFO, msg, args, **kwargs)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1286, in _log
+    self.handle(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1296, in handle
+    self.callHandlers(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1336, in callHandlers
+    hdlr.handle(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 759, in handle
+    self.emit(record)
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rosgraph/roslogging.py", line 182, in emit
+    record_message = _defaultFormatter.format(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 465, in format
+    record.message = record.getMessage()
+  File "/usr/lib/python2.7/logging/__init__.py", line 329, in getMessage
+    msg = msg % self.args
+TypeError: not all arguments converted during string formatting
+
+1613176618.855628013 ERROR [topics.py:753(_invoke_callback) [topics: /two_ints, /rosout] bad callback: <function callback at 0x7f5e2807c5f0>
+Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/topics.py", line 750, in _invoke_callback
+    cb(msg)
+  File "/mnt/data2/students/sub1/ccc_v1_w_OIyD_190740/asn329241_1/asn329242_1/work/catkin_ws/src/project1_solution/scripts/solution.py", line 8, in callback
+    rospy.loginfo(data.a, data.b)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1167, in info
+    self._log(INFO, msg, args, **kwargs)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1286, in _log
+    self.handle(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1296, in handle
+    self.callHandlers(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1336, in callHandlers
+    hdlr.handle(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 759, in handle
+    self.emit(record)
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rosgraph/roslogging.py", line 182, in emit
+    record_message = _defaultFormatter.format(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 465, in format
+    record.message = record.getMessage()
+  File "/usr/lib/python2.7/logging/__init__.py", line 329, in getMessage
+    msg = msg % self.args
+TypeError: not all arguments converted during string formatting
+
+1613176620.855180978 ERROR [topics.py:753(_invoke_callback) [topics: /two_ints, /rosout] bad callback: <function callback at 0x7f5e2807c5f0>
+Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/topics.py", line 750, in _invoke_callback
+    cb(msg)
+  File "/mnt/data2/students/sub1/ccc_v1_w_OIyD_190740/asn329241_1/asn329242_1/work/catkin_ws/src/project1_solution/scripts/solution.py", line 8, in callback
+    rospy.loginfo(data.a, data.b)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1167, in info
+    self._log(INFO, msg, args, **kwargs)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1286, in _log
+    self.handle(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1296, in handle
+    self.callHandlers(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1336, in callHandlers
+    hdlr.handle(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 759, in handle
+    self.emit(record)
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rosgraph/roslogging.py", line 182, in emit
+    record_message = _defaultFormatter.format(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 465, in format
+    record.message = record.getMessage()
+  File "/usr/lib/python2.7/logging/__init__.py", line 329, in getMessage
+    msg = msg % self.args
+TypeError: not all arguments converted during string formatting
+
+1613176622.855571985 ERROR [topics.py:753(_invoke_callback) [topics: /two_ints, /rosout] bad callback: <function callback at 0x7f5e2807c5f0>
+Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/topics.py", line 750, in _invoke_callback
+    cb(msg)
+  File "/mnt/data2/students/sub1/ccc_v1_w_OIyD_190740/asn329241_1/asn329242_1/work/catkin_ws/src/project1_solution/scripts/solution.py", line 8, in callback
+    rospy.loginfo(data.a, data.b)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1167, in info
+    self._log(INFO, msg, args, **kwargs)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1286, in _log
+    self.handle(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1296, in handle
+    self.callHandlers(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1336, in callHandlers
+    hdlr.handle(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 759, in handle
+    self.emit(record)
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rosgraph/roslogging.py", line 182, in emit
+    record_message = _defaultFormatter.format(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 465, in format
+    record.message = record.getMessage()
+  File "/usr/lib/python2.7/logging/__init__.py", line 329, in getMessage
+    msg = msg % self.args
+TypeError: not all arguments converted during string formatting
+
+1613176624.854981899 ERROR [topics.py:753(_invoke_callback) [topics: /two_ints, /rosout] bad callback: <function callback at 0x7f5e2807c5f0>
+Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/topics.py", line 750, in _invoke_callback
+    cb(msg)
+  File "/mnt/data2/students/sub1/ccc_v1_w_OIyD_190740/asn329241_1/asn329242_1/work/catkin_ws/src/project1_solution/scripts/solution.py", line 8, in callback
+    rospy.loginfo(data.a, data.b)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1167, in info
+    self._log(INFO, msg, args, **kwargs)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1286, in _log
+    self.handle(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1296, in handle
+    self.callHandlers(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1336, in callHandlers
+    hdlr.handle(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 759, in handle
+    self.emit(record)
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rosgraph/roslogging.py", line 182, in emit
+    record_message = _defaultFormatter.format(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 465, in format
+    record.message = record.getMessage()
+  File "/usr/lib/python2.7/logging/__init__.py", line 329, in getMessage
+    msg = msg % self.args
+TypeError: not all arguments converted during string formatting
+
+1613176626.862525939 ERROR [topics.py:753(_invoke_callback) [topics: /two_ints, /rosout] bad callback: <function callback at 0x7f5e2807c5f0>
+Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/topics.py", line 750, in _invoke_callback
+    cb(msg)
+  File "/mnt/data2/students/sub1/ccc_v1_w_OIyD_190740/asn329241_1/asn329242_1/work/catkin_ws/src/project1_solution/scripts/solution.py", line 8, in callback
+    rospy.loginfo(data.a, data.b)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1167, in info
+    self._log(INFO, msg, args, **kwargs)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1286, in _log
+    self.handle(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1296, in handle
+    self.callHandlers(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1336, in callHandlers
+    hdlr.handle(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 759, in handle
+    self.emit(record)
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rosgraph/roslogging.py", line 182, in emit
+    record_message = _defaultFormatter.format(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 465, in format
+    record.message = record.getMessage()
+  File "/usr/lib/python2.7/logging/__init__.py", line 329, in getMessage
+    msg = msg % self.args
+TypeError: not all arguments converted during string formatting
+
+1613176628.857654094 ERROR [topics.py:753(_invoke_callback) [topics: /two_ints, /rosout] bad callback: <function callback at 0x7f5e2807c5f0>
+Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/topics.py", line 750, in _invoke_callback
+    cb(msg)
+  File "/mnt/data2/students/sub1/ccc_v1_w_OIyD_190740/asn329241_1/asn329242_1/work/catkin_ws/src/project1_solution/scripts/solution.py", line 8, in callback
+    rospy.loginfo(data.a, data.b)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1167, in info
+    self._log(INFO, msg, args, **kwargs)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1286, in _log
+    self.handle(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1296, in handle
+    self.callHandlers(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1336, in callHandlers
+    hdlr.handle(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 759, in handle
+    self.emit(record)
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rosgraph/roslogging.py", line 182, in emit
+    record_message = _defaultFormatter.format(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 465, in format
+    record.message = record.getMessage()
+  File "/usr/lib/python2.7/logging/__init__.py", line 329, in getMessage
+    msg = msg % self.args
+TypeError: not all arguments converted during string formatting
+
+1613176630.854928016 ERROR [topics.py:753(_invoke_callback) [topics: /two_ints, /rosout] bad callback: <function callback at 0x7f5e2807c5f0>
+Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/topics.py", line 750, in _invoke_callback
+    cb(msg)
+  File "/mnt/data2/students/sub1/ccc_v1_w_OIyD_190740/asn329241_1/asn329242_1/work/catkin_ws/src/project1_solution/scripts/solution.py", line 8, in callback
+    rospy.loginfo(data.a, data.b)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1167, in info
+    self._log(INFO, msg, args, **kwargs)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1286, in _log
+    self.handle(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1296, in handle
+    self.callHandlers(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1336, in callHandlers
+    hdlr.handle(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 759, in handle
+    self.emit(record)
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rosgraph/roslogging.py", line 182, in emit
+    record_message = _defaultFormatter.format(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 465, in format
+    record.message = record.getMessage()
+  File "/usr/lib/python2.7/logging/__init__.py", line 329, in getMessage
+    msg = msg % self.args
+TypeError: not all arguments converted during string formatting
+
+1613176632.855669975 ERROR [topics.py:753(_invoke_callback) [topics: /two_ints, /rosout] bad callback: <function callback at 0x7f5e2807c5f0>
+Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/topics.py", line 750, in _invoke_callback
+    cb(msg)
+  File "/mnt/data2/students/sub1/ccc_v1_w_OIyD_190740/asn329241_1/asn329242_1/work/catkin_ws/src/project1_solution/scripts/solution.py", line 8, in callback
+    rospy.loginfo(data.a, data.b)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1167, in info
+    self._log(INFO, msg, args, **kwargs)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1286, in _log
+    self.handle(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1296, in handle
+    self.callHandlers(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1336, in callHandlers
+    hdlr.handle(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 759, in handle
+    self.emit(record)
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rosgraph/roslogging.py", line 182, in emit
+    record_message = _defaultFormatter.format(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 465, in format
+    record.message = record.getMessage()
+  File "/usr/lib/python2.7/logging/__init__.py", line 329, in getMessage
+    msg = msg % self.args
+TypeError: not all arguments converted during string formatting
+
+1613176634.855858087 ERROR [topics.py:753(_invoke_callback) [topics: /two_ints, /rosout] bad callback: <function callback at 0x7f5e2807c5f0>
+Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/topics.py", line 750, in _invoke_callback
+    cb(msg)
+  File "/mnt/data2/students/sub1/ccc_v1_w_OIyD_190740/asn329241_1/asn329242_1/work/catkin_ws/src/project1_solution/scripts/solution.py", line 8, in callback
+    rospy.loginfo(data.a, data.b)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1167, in info
+    self._log(INFO, msg, args, **kwargs)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1286, in _log
+    self.handle(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1296, in handle
+    self.callHandlers(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1336, in callHandlers
+    hdlr.handle(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 759, in handle
+    self.emit(record)
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rosgraph/roslogging.py", line 182, in emit
+    record_message = _defaultFormatter.format(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 465, in format
+    record.message = record.getMessage()
+  File "/usr/lib/python2.7/logging/__init__.py", line 329, in getMessage
+    msg = msg % self.args
+TypeError: not all arguments converted during string formatting
+
+1613176636.854945898 ERROR [topics.py:753(_invoke_callback) [topics: /two_ints, /rosout] bad callback: <function callback at 0x7f5e2807c5f0>
+Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/topics.py", line 750, in _invoke_callback
+    cb(msg)
+  File "/mnt/data2/students/sub1/ccc_v1_w_OIyD_190740/asn329241_1/asn329242_1/work/catkin_ws/src/project1_solution/scripts/solution.py", line 8, in callback
+    rospy.loginfo(data.a, data.b)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1167, in info
+    self._log(INFO, msg, args, **kwargs)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1286, in _log
+    self.handle(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1296, in handle
+    self.callHandlers(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1336, in callHandlers
+    hdlr.handle(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 759, in handle
+    self.emit(record)
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rosgraph/roslogging.py", line 182, in emit
+    record_message = _defaultFormatter.format(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 465, in format
+    record.message = record.getMessage()
+  File "/usr/lib/python2.7/logging/__init__.py", line 329, in getMessage
+    msg = msg % self.args
+TypeError: not all arguments converted during string formatting
+
+1613176638.855432987 ERROR [topics.py:753(_invoke_callback) [topics: /two_ints, /rosout] bad callback: <function callback at 0x7f5e2807c5f0>
+Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/topics.py", line 750, in _invoke_callback
+    cb(msg)
+  File "/mnt/data2/students/sub1/ccc_v1_w_OIyD_190740/asn329241_1/asn329242_1/work/catkin_ws/src/project1_solution/scripts/solution.py", line 8, in callback
+    rospy.loginfo(data.a, data.b)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1167, in info
+    self._log(INFO, msg, args, **kwargs)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1286, in _log
+    self.handle(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1296, in handle
+    self.callHandlers(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1336, in callHandlers
+    hdlr.handle(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 759, in handle
+    self.emit(record)
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rosgraph/roslogging.py", line 182, in emit
+    record_message = _defaultFormatter.format(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 465, in format
+    record.message = record.getMessage()
+  File "/usr/lib/python2.7/logging/__init__.py", line 329, in getMessage
+    msg = msg % self.args
+TypeError: not all arguments converted during string formatting
+
+1613176640.855643987 ERROR [topics.py:753(_invoke_callback) [topics: /two_ints, /rosout] bad callback: <function callback at 0x7f5e2807c5f0>
+Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/topics.py", line 750, in _invoke_callback
+    cb(msg)
+  File "/mnt/data2/students/sub1/ccc_v1_w_OIyD_190740/asn329241_1/asn329242_1/work/catkin_ws/src/project1_solution/scripts/solution.py", line 8, in callback
+    rospy.loginfo(data.a, data.b)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1167, in info
+    self._log(INFO, msg, args, **kwargs)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1286, in _log
+    self.handle(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1296, in handle
+    self.callHandlers(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1336, in callHandlers
+    hdlr.handle(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 759, in handle
+    self.emit(record)
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rosgraph/roslogging.py", line 182, in emit
+    record_message = _defaultFormatter.format(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 465, in format
+    record.message = record.getMessage()
+  File "/usr/lib/python2.7/logging/__init__.py", line 329, in getMessage
+    msg = msg % self.args
+TypeError: not all arguments converted during string formatting
+
+1613176642.854845046 ERROR [topics.py:753(_invoke_callback) [topics: /two_ints, /rosout] bad callback: <function callback at 0x7f5e2807c5f0>
+Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/topics.py", line 750, in _invoke_callback
+    cb(msg)
+  File "/mnt/data2/students/sub1/ccc_v1_w_OIyD_190740/asn329241_1/asn329242_1/work/catkin_ws/src/project1_solution/scripts/solution.py", line 8, in callback
+    rospy.loginfo(data.a, data.b)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1167, in info
+    self._log(INFO, msg, args, **kwargs)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1286, in _log
+    self.handle(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1296, in handle
+    self.callHandlers(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1336, in callHandlers
+    hdlr.handle(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 759, in handle
+    self.emit(record)
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rosgraph/roslogging.py", line 182, in emit
+    record_message = _defaultFormatter.format(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 465, in format
+    record.message = record.getMessage()
+  File "/usr/lib/python2.7/logging/__init__.py", line 329, in getMessage
+    msg = msg % self.args
+TypeError: not all arguments converted during string formatting
+
+1613176644.855748891 ERROR [topics.py:753(_invoke_callback) [topics: /two_ints, /rosout] bad callback: <function callback at 0x7f5e2807c5f0>
+Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/topics.py", line 750, in _invoke_callback
+    cb(msg)
+  File "/mnt/data2/students/sub1/ccc_v1_w_OIyD_190740/asn329241_1/asn329242_1/work/catkin_ws/src/project1_solution/scripts/solution.py", line 8, in callback
+    rospy.loginfo(data.a, data.b)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1167, in info
+    self._log(INFO, msg, args, **kwargs)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1286, in _log
+    self.handle(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1296, in handle
+    self.callHandlers(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1336, in callHandlers
+    hdlr.handle(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 759, in handle
+    self.emit(record)
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rosgraph/roslogging.py", line 182, in emit
+    record_message = _defaultFormatter.format(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 465, in format
+    record.message = record.getMessage()
+  File "/usr/lib/python2.7/logging/__init__.py", line 329, in getMessage
+    msg = msg % self.args
+TypeError: not all arguments converted during string formatting
+
+1613176646.856683015 ERROR [topics.py:753(_invoke_callback) [topics: /two_ints, /rosout] bad callback: <function callback at 0x7f5e2807c5f0>
+Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/topics.py", line 750, in _invoke_callback
+    cb(msg)
+  File "/mnt/data2/students/sub1/ccc_v1_w_OIyD_190740/asn329241_1/asn329242_1/work/catkin_ws/src/project1_solution/scripts/solution.py", line 8, in callback
+    rospy.loginfo(data.a, data.b)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1167, in info
+    self._log(INFO, msg, args, **kwargs)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1286, in _log
+    self.handle(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1296, in handle
+    self.callHandlers(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1336, in callHandlers
+    hdlr.handle(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 759, in handle
+    self.emit(record)
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rosgraph/roslogging.py", line 182, in emit
+    record_message = _defaultFormatter.format(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 465, in format
+    record.message = record.getMessage()
+  File "/usr/lib/python2.7/logging/__init__.py", line 329, in getMessage
+    msg = msg % self.args
+TypeError: not all arguments converted during string formatting
+
+1613176648.856400966 ERROR [topics.py:753(_invoke_callback) [topics: /two_ints, /rosout] bad callback: <function callback at 0x7f5e2807c5f0>
+Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/topics.py", line 750, in _invoke_callback
+    cb(msg)
+  File "/mnt/data2/students/sub1/ccc_v1_w_OIyD_190740/asn329241_1/asn329242_1/work/catkin_ws/src/project1_solution/scripts/solution.py", line 8, in callback
+    rospy.loginfo(data.a, data.b)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1167, in info
+    self._log(INFO, msg, args, **kwargs)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1286, in _log
+    self.handle(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1296, in handle
+    self.callHandlers(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1336, in callHandlers
+    hdlr.handle(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 759, in handle
+    self.emit(record)
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rosgraph/roslogging.py", line 182, in emit
+    record_message = _defaultFormatter.format(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 465, in format
+    record.message = record.getMessage()
+  File "/usr/lib/python2.7/logging/__init__.py", line 329, in getMessage
+    msg = msg % self.args
+TypeError: not all arguments converted during string formatting
+
+1613176650.855904102 ERROR [topics.py:753(_invoke_callback) [topics: /two_ints, /rosout] bad callback: <function callback at 0x7f5e2807c5f0>
+Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/topics.py", line 750, in _invoke_callback
+    cb(msg)
+  File "/mnt/data2/students/sub1/ccc_v1_w_OIyD_190740/asn329241_1/asn329242_1/work/catkin_ws/src/project1_solution/scripts/solution.py", line 8, in callback
+    rospy.loginfo(data.a, data.b)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1167, in info
+    self._log(INFO, msg, args, **kwargs)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1286, in _log
+    self.handle(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1296, in handle
+    self.callHandlers(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1336, in callHandlers
+    hdlr.handle(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 759, in handle
+    self.emit(record)
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rosgraph/roslogging.py", line 182, in emit
+    record_message = _defaultFormatter.format(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 465, in format
+    record.message = record.getMessage()
+  File "/usr/lib/python2.7/logging/__init__.py", line 329, in getMessage
+    msg = msg % self.args
+TypeError: not all arguments converted during string formatting
+
+1613176652.855038881 ERROR [topics.py:753(_invoke_callback) [topics: /two_ints, /rosout] bad callback: <function callback at 0x7f5e2807c5f0>
+Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/topics.py", line 750, in _invoke_callback
+    cb(msg)
+  File "/mnt/data2/students/sub1/ccc_v1_w_OIyD_190740/asn329241_1/asn329242_1/work/catkin_ws/src/project1_solution/scripts/solution.py", line 8, in callback
+    rospy.loginfo(data.a, data.b)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1167, in info
+    self._log(INFO, msg, args, **kwargs)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1286, in _log
+    self.handle(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1296, in handle
+    self.callHandlers(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1336, in callHandlers
+    hdlr.handle(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 759, in handle
+    self.emit(record)
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rosgraph/roslogging.py", line 182, in emit
+    record_message = _defaultFormatter.format(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 465, in format
+    record.message = record.getMessage()
+  File "/usr/lib/python2.7/logging/__init__.py", line 329, in getMessage
+    msg = msg % self.args
+TypeError: not all arguments converted during string formatting
+
+1613176654.855269908 ERROR [topics.py:753(_invoke_callback) [topics: /two_ints, /rosout] bad callback: <function callback at 0x7f5e2807c5f0>
+Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/topics.py", line 750, in _invoke_callback
+    cb(msg)
+  File "/mnt/data2/students/sub1/ccc_v1_w_OIyD_190740/asn329241_1/asn329242_1/work/catkin_ws/src/project1_solution/scripts/solution.py", line 8, in callback
+    rospy.loginfo(data.a, data.b)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1167, in info
+    self._log(INFO, msg, args, **kwargs)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1286, in _log
+    self.handle(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1296, in handle
+    self.callHandlers(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1336, in callHandlers
+    hdlr.handle(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 759, in handle
+    self.emit(record)
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rosgraph/roslogging.py", line 182, in emit
+    record_message = _defaultFormatter.format(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 465, in format
+    record.message = record.getMessage()
+  File "/usr/lib/python2.7/logging/__init__.py", line 329, in getMessage
+    msg = msg % self.args
+TypeError: not all arguments converted during string formatting
+
+1613176656.854970932 ERROR [topics.py:753(_invoke_callback) [topics: /two_ints, /rosout] bad callback: <function callback at 0x7f5e2807c5f0>
+Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/topics.py", line 750, in _invoke_callback
+    cb(msg)
+  File "/mnt/data2/students/sub1/ccc_v1_w_OIyD_190740/asn329241_1/asn329242_1/work/catkin_ws/src/project1_solution/scripts/solution.py", line 8, in callback
+    rospy.loginfo(data.a, data.b)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1167, in info
+    self._log(INFO, msg, args, **kwargs)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1286, in _log
+    self.handle(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1296, in handle
+    self.callHandlers(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1336, in callHandlers
+    hdlr.handle(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 759, in handle
+    self.emit(record)
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rosgraph/roslogging.py", line 182, in emit
+    record_message = _defaultFormatter.format(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 465, in format
+    record.message = record.getMessage()
+  File "/usr/lib/python2.7/logging/__init__.py", line 329, in getMessage
+    msg = msg % self.args
+TypeError: not all arguments converted during string formatting
+
+1613176658.857387065 ERROR [topics.py:753(_invoke_callback) [topics: /two_ints, /rosout] bad callback: <function callback at 0x7f5e2807c5f0>
+Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/topics.py", line 750, in _invoke_callback
+    cb(msg)
+  File "/mnt/data2/students/sub1/ccc_v1_w_OIyD_190740/asn329241_1/asn329242_1/work/catkin_ws/src/project1_solution/scripts/solution.py", line 8, in callback
+    rospy.loginfo(data.a, data.b)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1167, in info
+    self._log(INFO, msg, args, **kwargs)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1286, in _log
+    self.handle(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1296, in handle
+    self.callHandlers(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1336, in callHandlers
+    hdlr.handle(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 759, in handle
+    self.emit(record)
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rosgraph/roslogging.py", line 182, in emit
+    record_message = _defaultFormatter.format(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 465, in format
+    record.message = record.getMessage()
+  File "/usr/lib/python2.7/logging/__init__.py", line 329, in getMessage
+    msg = msg % self.args
+TypeError: not all arguments converted during string formatting
+
+1613176660.855132102 ERROR [topics.py:753(_invoke_callback) [topics: /two_ints, /rosout] bad callback: <function callback at 0x7f5e2807c5f0>
+Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/topics.py", line 750, in _invoke_callback
+    cb(msg)
+  File "/mnt/data2/students/sub1/ccc_v1_w_OIyD_190740/asn329241_1/asn329242_1/work/catkin_ws/src/project1_solution/scripts/solution.py", line 8, in callback
+    rospy.loginfo(data.a, data.b)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1167, in info
+    self._log(INFO, msg, args, **kwargs)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1286, in _log
+    self.handle(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1296, in handle
+    self.callHandlers(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1336, in callHandlers
+    hdlr.handle(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 759, in handle
+    self.emit(record)
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rosgraph/roslogging.py", line 182, in emit
+    record_message = _defaultFormatter.format(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 465, in format
+    record.message = record.getMessage()
+  File "/usr/lib/python2.7/logging/__init__.py", line 329, in getMessage
+    msg = msg % self.args
+TypeError: not all arguments converted during string formatting
+
+1613176662.855899095 ERROR [topics.py:753(_invoke_callback) [topics: /two_ints, /rosout] bad callback: <function callback at 0x7f5e2807c5f0>
+Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/topics.py", line 750, in _invoke_callback
+    cb(msg)
+  File "/mnt/data2/students/sub1/ccc_v1_w_OIyD_190740/asn329241_1/asn329242_1/work/catkin_ws/src/project1_solution/scripts/solution.py", line 8, in callback
+    rospy.loginfo(data.a, data.b)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1167, in info
+    self._log(INFO, msg, args, **kwargs)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1286, in _log
+    self.handle(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1296, in handle
+    self.callHandlers(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1336, in callHandlers
+    hdlr.handle(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 759, in handle
+    self.emit(record)
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rosgraph/roslogging.py", line 182, in emit
+    record_message = _defaultFormatter.format(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 465, in format
+    record.message = record.getMessage()
+  File "/usr/lib/python2.7/logging/__init__.py", line 329, in getMessage
+    msg = msg % self.args
+TypeError: not all arguments converted during string formatting
+
+1613176664.855671882 ERROR [topics.py:753(_invoke_callback) [topics: /two_ints, /rosout] bad callback: <function callback at 0x7f5e2807c5f0>
+Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/topics.py", line 750, in _invoke_callback
+    cb(msg)
+  File "/mnt/data2/students/sub1/ccc_v1_w_OIyD_190740/asn329241_1/asn329242_1/work/catkin_ws/src/project1_solution/scripts/solution.py", line 8, in callback
+    rospy.loginfo(data.a, data.b)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1167, in info
+    self._log(INFO, msg, args, **kwargs)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1286, in _log
+    self.handle(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1296, in handle
+    self.callHandlers(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1336, in callHandlers
+    hdlr.handle(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 759, in handle
+    self.emit(record)
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rosgraph/roslogging.py", line 182, in emit
+    record_message = _defaultFormatter.format(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 465, in format
+    record.message = record.getMessage()
+  File "/usr/lib/python2.7/logging/__init__.py", line 329, in getMessage
+    msg = msg % self.args
+TypeError: not all arguments converted during string formatting
+
+1613176666.855047941 ERROR [topics.py:753(_invoke_callback) [topics: /two_ints, /rosout] bad callback: <function callback at 0x7f5e2807c5f0>
+Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/topics.py", line 750, in _invoke_callback
+    cb(msg)
+  File "/mnt/data2/students/sub1/ccc_v1_w_OIyD_190740/asn329241_1/asn329242_1/work/catkin_ws/src/project1_solution/scripts/solution.py", line 8, in callback
+    rospy.loginfo(data.a, data.b)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1167, in info
+    self._log(INFO, msg, args, **kwargs)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1286, in _log
+    self.handle(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1296, in handle
+    self.callHandlers(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1336, in callHandlers
+    hdlr.handle(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 759, in handle
+    self.emit(record)
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rosgraph/roslogging.py", line 182, in emit
+    record_message = _defaultFormatter.format(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 465, in format
+    record.message = record.getMessage()
+  File "/usr/lib/python2.7/logging/__init__.py", line 329, in getMessage
+    msg = msg % self.args
+TypeError: not all arguments converted during string formatting
+
+1613176668.855020999 ERROR [topics.py:753(_invoke_callback) [topics: /two_ints, /rosout] bad callback: <function callback at 0x7f5e2807c5f0>
+Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/topics.py", line 750, in _invoke_callback
+    cb(msg)
+  File "/mnt/data2/students/sub1/ccc_v1_w_OIyD_190740/asn329241_1/asn329242_1/work/catkin_ws/src/project1_solution/scripts/solution.py", line 8, in callback
+    rospy.loginfo(data.a, data.b)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1167, in info
+    self._log(INFO, msg, args, **kwargs)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1286, in _log
+    self.handle(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1296, in handle
+    self.callHandlers(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1336, in callHandlers
+    hdlr.handle(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 759, in handle
+    self.emit(record)
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rosgraph/roslogging.py", line 182, in emit
+    record_message = _defaultFormatter.format(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 465, in format
+    record.message = record.getMessage()
+  File "/usr/lib/python2.7/logging/__init__.py", line 329, in getMessage
+    msg = msg % self.args
+TypeError: not all arguments converted during string formatting
+
+1613176670.854899883 ERROR [topics.py:753(_invoke_callback) [topics: /two_ints, /rosout] bad callback: <function callback at 0x7f5e2807c5f0>
+Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/topics.py", line 750, in _invoke_callback
+    cb(msg)
+  File "/mnt/data2/students/sub1/ccc_v1_w_OIyD_190740/asn329241_1/asn329242_1/work/catkin_ws/src/project1_solution/scripts/solution.py", line 8, in callback
+    rospy.loginfo(data.a, data.b)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1167, in info
+    self._log(INFO, msg, args, **kwargs)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1286, in _log
+    self.handle(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1296, in handle
+    self.callHandlers(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1336, in callHandlers
+    hdlr.handle(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 759, in handle
+    self.emit(record)
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rosgraph/roslogging.py", line 182, in emit
+    record_message = _defaultFormatter.format(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 465, in format
+    record.message = record.getMessage()
+  File "/usr/lib/python2.7/logging/__init__.py", line 329, in getMessage
+    msg = msg % self.args
+TypeError: not all arguments converted during string formatting
+
+1613176672.856358051 ERROR [topics.py:753(_invoke_callback) [topics: /two_ints, /rosout] bad callback: <function callback at 0x7f5e2807c5f0>
+Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/topics.py", line 750, in _invoke_callback
+    cb(msg)
+  File "/mnt/data2/students/sub1/ccc_v1_w_OIyD_190740/asn329241_1/asn329242_1/work/catkin_ws/src/project1_solution/scripts/solution.py", line 8, in callback
+    rospy.loginfo(data.a, data.b)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1167, in info
+    self._log(INFO, msg, args, **kwargs)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1286, in _log
+    self.handle(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1296, in handle
+    self.callHandlers(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1336, in callHandlers
+    hdlr.handle(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 759, in handle
+    self.emit(record)
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rosgraph/roslogging.py", line 182, in emit
+    record_message = _defaultFormatter.format(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 465, in format
+    record.message = record.getMessage()
+  File "/usr/lib/python2.7/logging/__init__.py", line 329, in getMessage
+    msg = msg % self.args
+TypeError: not all arguments converted during string formatting
+
+1613176674.854942083 ERROR [topics.py:753(_invoke_callback) [topics: /two_ints, /rosout] bad callback: <function callback at 0x7f5e2807c5f0>
+Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/topics.py", line 750, in _invoke_callback
+    cb(msg)
+  File "/mnt/data2/students/sub1/ccc_v1_w_OIyD_190740/asn329241_1/asn329242_1/work/catkin_ws/src/project1_solution/scripts/solution.py", line 8, in callback
+    rospy.loginfo(data.a, data.b)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1167, in info
+    self._log(INFO, msg, args, **kwargs)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1286, in _log
+    self.handle(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1296, in handle
+    self.callHandlers(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1336, in callHandlers
+    hdlr.handle(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 759, in handle
+    self.emit(record)
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rosgraph/roslogging.py", line 182, in emit
+    record_message = _defaultFormatter.format(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 465, in format
+    record.message = record.getMessage()
+  File "/usr/lib/python2.7/logging/__init__.py", line 329, in getMessage
+    msg = msg % self.args
+TypeError: not all arguments converted during string formatting
+
+1613176676.856177091 ERROR [topics.py:753(_invoke_callback) [topics: /two_ints, /rosout] bad callback: <function callback at 0x7f5e2807c5f0>
+Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/topics.py", line 750, in _invoke_callback
+    cb(msg)
+  File "/mnt/data2/students/sub1/ccc_v1_w_OIyD_190740/asn329241_1/asn329242_1/work/catkin_ws/src/project1_solution/scripts/solution.py", line 8, in callback
+    rospy.loginfo(data.a, data.b)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1167, in info
+    self._log(INFO, msg, args, **kwargs)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1286, in _log
+    self.handle(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1296, in handle
+    self.callHandlers(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1336, in callHandlers
+    hdlr.handle(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 759, in handle
+    self.emit(record)
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rosgraph/roslogging.py", line 182, in emit
+    record_message = _defaultFormatter.format(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 465, in format
+    record.message = record.getMessage()
+  File "/usr/lib/python2.7/logging/__init__.py", line 329, in getMessage
+    msg = msg % self.args
+TypeError: not all arguments converted during string formatting
+
+1613176678.855212926 ERROR [topics.py:753(_invoke_callback) [topics: /two_ints, /rosout] bad callback: <function callback at 0x7f5e2807c5f0>
+Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/topics.py", line 750, in _invoke_callback
+    cb(msg)
+  File "/mnt/data2/students/sub1/ccc_v1_w_OIyD_190740/asn329241_1/asn329242_1/work/catkin_ws/src/project1_solution/scripts/solution.py", line 8, in callback
+    rospy.loginfo(data.a, data.b)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1167, in info
+    self._log(INFO, msg, args, **kwargs)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1286, in _log
+    self.handle(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1296, in handle
+    self.callHandlers(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1336, in callHandlers
+    hdlr.handle(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 759, in handle
+    self.emit(record)
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rosgraph/roslogging.py", line 182, in emit
+    record_message = _defaultFormatter.format(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 465, in format
+    record.message = record.getMessage()
+  File "/usr/lib/python2.7/logging/__init__.py", line 329, in getMessage
+    msg = msg % self.args
+TypeError: not all arguments converted during string formatting
+
+1613176680.855098009 ERROR [topics.py:753(_invoke_callback) [topics: /two_ints, /rosout] bad callback: <function callback at 0x7f5e2807c5f0>
+Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/topics.py", line 750, in _invoke_callback
+    cb(msg)
+  File "/mnt/data2/students/sub1/ccc_v1_w_OIyD_190740/asn329241_1/asn329242_1/work/catkin_ws/src/project1_solution/scripts/solution.py", line 8, in callback
+    rospy.loginfo(data.a, data.b)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1167, in info
+    self._log(INFO, msg, args, **kwargs)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1286, in _log
+    self.handle(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1296, in handle
+    self.callHandlers(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1336, in callHandlers
+    hdlr.handle(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 759, in handle
+    self.emit(record)
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rosgraph/roslogging.py", line 182, in emit
+    record_message = _defaultFormatter.format(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 465, in format
+    record.message = record.getMessage()
+  File "/usr/lib/python2.7/logging/__init__.py", line 329, in getMessage
+    msg = msg % self.args
+TypeError: not all arguments converted during string formatting
+
+1613176682.856065034 ERROR [topics.py:753(_invoke_callback) [topics: /two_ints, /rosout] bad callback: <function callback at 0x7f5e2807c5f0>
+Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/topics.py", line 750, in _invoke_callback
+    cb(msg)
+  File "/mnt/data2/students/sub1/ccc_v1_w_OIyD_190740/asn329241_1/asn329242_1/work/catkin_ws/src/project1_solution/scripts/solution.py", line 8, in callback
+    rospy.loginfo(data.a, data.b)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1167, in info
+    self._log(INFO, msg, args, **kwargs)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1286, in _log
+    self.handle(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1296, in handle
+    self.callHandlers(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1336, in callHandlers
+    hdlr.handle(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 759, in handle
+    self.emit(record)
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rosgraph/roslogging.py", line 182, in emit
+    record_message = _defaultFormatter.format(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 465, in format
+    record.message = record.getMessage()
+  File "/usr/lib/python2.7/logging/__init__.py", line 329, in getMessage
+    msg = msg % self.args
+TypeError: not all arguments converted during string formatting
+
+1613176684.854935884 ERROR [topics.py:753(_invoke_callback) [topics: /two_ints, /rosout] bad callback: <function callback at 0x7f5e2807c5f0>
+Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/topics.py", line 750, in _invoke_callback
+    cb(msg)
+  File "/mnt/data2/students/sub1/ccc_v1_w_OIyD_190740/asn329241_1/asn329242_1/work/catkin_ws/src/project1_solution/scripts/solution.py", line 8, in callback
+    rospy.loginfo(data.a, data.b)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1167, in info
+    self._log(INFO, msg, args, **kwargs)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1286, in _log
+    self.handle(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1296, in handle
+    self.callHandlers(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1336, in callHandlers
+    hdlr.handle(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 759, in handle
+    self.emit(record)
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rosgraph/roslogging.py", line 182, in emit
+    record_message = _defaultFormatter.format(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 465, in format
+    record.message = record.getMessage()
+  File "/usr/lib/python2.7/logging/__init__.py", line 329, in getMessage
+    msg = msg % self.args
+TypeError: not all arguments converted during string formatting
+
+1613176686.862921953 ERROR [topics.py:753(_invoke_callback) [topics: /two_ints, /rosout] bad callback: <function callback at 0x7f5e2807c5f0>
+Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/topics.py", line 750, in _invoke_callback
+    cb(msg)
+  File "/mnt/data2/students/sub1/ccc_v1_w_OIyD_190740/asn329241_1/asn329242_1/work/catkin_ws/src/project1_solution/scripts/solution.py", line 8, in callback
+    rospy.loginfo(data.a, data.b)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1167, in info
+    self._log(INFO, msg, args, **kwargs)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1286, in _log
+    self.handle(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1296, in handle
+    self.callHandlers(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1336, in callHandlers
+    hdlr.handle(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 759, in handle
+    self.emit(record)
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rosgraph/roslogging.py", line 182, in emit
+    record_message = _defaultFormatter.format(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 465, in format
+    record.message = record.getMessage()
+  File "/usr/lib/python2.7/logging/__init__.py", line 329, in getMessage
+    msg = msg % self.args
+TypeError: not all arguments converted during string formatting
+
+1613176688.855686902 ERROR [topics.py:753(_invoke_callback) [topics: /two_ints, /rosout] bad callback: <function callback at 0x7f5e2807c5f0>
+Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/topics.py", line 750, in _invoke_callback
+    cb(msg)
+  File "/mnt/data2/students/sub1/ccc_v1_w_OIyD_190740/asn329241_1/asn329242_1/work/catkin_ws/src/project1_solution/scripts/solution.py", line 8, in callback
+    rospy.loginfo(data.a, data.b)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1167, in info
+    self._log(INFO, msg, args, **kwargs)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1286, in _log
+    self.handle(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1296, in handle
+    self.callHandlers(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1336, in callHandlers
+    hdlr.handle(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 759, in handle
+    self.emit(record)
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rosgraph/roslogging.py", line 182, in emit
+    record_message = _defaultFormatter.format(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 465, in format
+    record.message = record.getMessage()
+  File "/usr/lib/python2.7/logging/__init__.py", line 329, in getMessage
+    msg = msg % self.args
+TypeError: not all arguments converted during string formatting
+
+1613176690.855726957 ERROR [topics.py:753(_invoke_callback) [topics: /two_ints, /rosout] bad callback: <function callback at 0x7f5e2807c5f0>
+Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/topics.py", line 750, in _invoke_callback
+    cb(msg)
+  File "/mnt/data2/students/sub1/ccc_v1_w_OIyD_190740/asn329241_1/asn329242_1/work/catkin_ws/src/project1_solution/scripts/solution.py", line 8, in callback
+    rospy.loginfo(data.a, data.b)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1167, in info
+    self._log(INFO, msg, args, **kwargs)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1286, in _log
+    self.handle(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1296, in handle
+    self.callHandlers(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1336, in callHandlers
+    hdlr.handle(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 759, in handle
+    self.emit(record)
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rosgraph/roslogging.py", line 182, in emit
+    record_message = _defaultFormatter.format(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 465, in format
+    record.message = record.getMessage()
+  File "/usr/lib/python2.7/logging/__init__.py", line 329, in getMessage
+    msg = msg % self.args
+TypeError: not all arguments converted during string formatting
+
+1613176692.855168104 ERROR [topics.py:753(_invoke_callback) [topics: /two_ints, /rosout] bad callback: <function callback at 0x7f5e2807c5f0>
+Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/topics.py", line 750, in _invoke_callback
+    cb(msg)
+  File "/mnt/data2/students/sub1/ccc_v1_w_OIyD_190740/asn329241_1/asn329242_1/work/catkin_ws/src/project1_solution/scripts/solution.py", line 8, in callback
+    rospy.loginfo(data.a, data.b)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1167, in info
+    self._log(INFO, msg, args, **kwargs)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1286, in _log
+    self.handle(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1296, in handle
+    self.callHandlers(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1336, in callHandlers
+    hdlr.handle(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 759, in handle
+    self.emit(record)
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rosgraph/roslogging.py", line 182, in emit
+    record_message = _defaultFormatter.format(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 465, in format
+    record.message = record.getMessage()
+  File "/usr/lib/python2.7/logging/__init__.py", line 329, in getMessage
+    msg = msg % self.args
+TypeError: not all arguments converted during string formatting
+
+1613176694.856560945 ERROR [topics.py:753(_invoke_callback) [topics: /two_ints, /rosout] bad callback: <function callback at 0x7f5e2807c5f0>
+Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/topics.py", line 750, in _invoke_callback
+    cb(msg)
+  File "/mnt/data2/students/sub1/ccc_v1_w_OIyD_190740/asn329241_1/asn329242_1/work/catkin_ws/src/project1_solution/scripts/solution.py", line 8, in callback
+    rospy.loginfo(data.a, data.b)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1167, in info
+    self._log(INFO, msg, args, **kwargs)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1286, in _log
+    self.handle(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1296, in handle
+    self.callHandlers(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1336, in callHandlers
+    hdlr.handle(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 759, in handle
+    self.emit(record)
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rosgraph/roslogging.py", line 182, in emit
+    record_message = _defaultFormatter.format(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 465, in format
+    record.message = record.getMessage()
+  File "/usr/lib/python2.7/logging/__init__.py", line 329, in getMessage
+    msg = msg % self.args
+TypeError: not all arguments converted during string formatting
+
+1613176696.855890035 ERROR [topics.py:753(_invoke_callback) [topics: /two_ints, /rosout] bad callback: <function callback at 0x7f5e2807c5f0>
+Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/topics.py", line 750, in _invoke_callback
+    cb(msg)
+  File "/mnt/data2/students/sub1/ccc_v1_w_OIyD_190740/asn329241_1/asn329242_1/work/catkin_ws/src/project1_solution/scripts/solution.py", line 8, in callback
+    rospy.loginfo(data.a, data.b)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1167, in info
+    self._log(INFO, msg, args, **kwargs)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1286, in _log
+    self.handle(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1296, in handle
+    self.callHandlers(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1336, in callHandlers
+    hdlr.handle(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 759, in handle
+    self.emit(record)
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rosgraph/roslogging.py", line 182, in emit
+    record_message = _defaultFormatter.format(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 465, in format
+    record.message = record.getMessage()
+  File "/usr/lib/python2.7/logging/__init__.py", line 329, in getMessage
+    msg = msg % self.args
+TypeError: not all arguments converted during string formatting
+
+1613176698.854944944 ERROR [topics.py:753(_invoke_callback) [topics: /two_ints, /rosout] bad callback: <function callback at 0x7f5e2807c5f0>
+Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/topics.py", line 750, in _invoke_callback
+    cb(msg)
+  File "/mnt/data2/students/sub1/ccc_v1_w_OIyD_190740/asn329241_1/asn329242_1/work/catkin_ws/src/project1_solution/scripts/solution.py", line 8, in callback
+    rospy.loginfo(data.a, data.b)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1167, in info
+    self._log(INFO, msg, args, **kwargs)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1286, in _log
+    self.handle(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1296, in handle
+    self.callHandlers(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1336, in callHandlers
+    hdlr.handle(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 759, in handle
+    self.emit(record)
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rosgraph/roslogging.py", line 182, in emit
+    record_message = _defaultFormatter.format(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 465, in format
+    record.message = record.getMessage()
+  File "/usr/lib/python2.7/logging/__init__.py", line 329, in getMessage
+    msg = msg % self.args
+TypeError: not all arguments converted during string formatting
+
+1613176700.856865882 ERROR [topics.py:753(_invoke_callback) [topics: /two_ints, /rosout] bad callback: <function callback at 0x7f5e2807c5f0>
+Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/topics.py", line 750, in _invoke_callback
+    cb(msg)
+  File "/mnt/data2/students/sub1/ccc_v1_w_OIyD_190740/asn329241_1/asn329242_1/work/catkin_ws/src/project1_solution/scripts/solution.py", line 8, in callback
+    rospy.loginfo(data.a, data.b)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1167, in info
+    self._log(INFO, msg, args, **kwargs)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1286, in _log
+    self.handle(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1296, in handle
+    self.callHandlers(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1336, in callHandlers
+    hdlr.handle(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 759, in handle
+    self.emit(record)
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rosgraph/roslogging.py", line 182, in emit
+    record_message = _defaultFormatter.format(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 465, in format
+    record.message = record.getMessage()
+  File "/usr/lib/python2.7/logging/__init__.py", line 329, in getMessage
+    msg = msg % self.args
+TypeError: not all arguments converted during string formatting
+
+1613176702.856781005 ERROR [topics.py:753(_invoke_callback) [topics: /two_ints, /rosout] bad callback: <function callback at 0x7f5e2807c5f0>
+Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/topics.py", line 750, in _invoke_callback
+    cb(msg)
+  File "/mnt/data2/students/sub1/ccc_v1_w_OIyD_190740/asn329241_1/asn329242_1/work/catkin_ws/src/project1_solution/scripts/solution.py", line 8, in callback
+    rospy.loginfo(data.a, data.b)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1167, in info
+    self._log(INFO, msg, args, **kwargs)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1286, in _log
+    self.handle(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1296, in handle
+    self.callHandlers(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1336, in callHandlers
+    hdlr.handle(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 759, in handle
+    self.emit(record)
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rosgraph/roslogging.py", line 182, in emit
+    record_message = _defaultFormatter.format(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 465, in format
+    record.message = record.getMessage()
+  File "/usr/lib/python2.7/logging/__init__.py", line 329, in getMessage
+    msg = msg % self.args
+TypeError: not all arguments converted during string formatting
+
+1613176704.855792999 ERROR [topics.py:753(_invoke_callback) [topics: /two_ints, /rosout] bad callback: <function callback at 0x7f5e2807c5f0>
+Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/topics.py", line 750, in _invoke_callback
+    cb(msg)
+  File "/mnt/data2/students/sub1/ccc_v1_w_OIyD_190740/asn329241_1/asn329242_1/work/catkin_ws/src/project1_solution/scripts/solution.py", line 8, in callback
+    rospy.loginfo(data.a, data.b)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1167, in info
+    self._log(INFO, msg, args, **kwargs)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1286, in _log
+    self.handle(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1296, in handle
+    self.callHandlers(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1336, in callHandlers
+    hdlr.handle(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 759, in handle
+    self.emit(record)
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rosgraph/roslogging.py", line 182, in emit
+    record_message = _defaultFormatter.format(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 465, in format
+    record.message = record.getMessage()
+  File "/usr/lib/python2.7/logging/__init__.py", line 329, in getMessage
+    msg = msg % self.args
+TypeError: not all arguments converted during string formatting
+
+1613176706.855413913 ERROR [topics.py:753(_invoke_callback) [topics: /two_ints, /rosout] bad callback: <function callback at 0x7f5e2807c5f0>
+Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/topics.py", line 750, in _invoke_callback
+    cb(msg)
+  File "/mnt/data2/students/sub1/ccc_v1_w_OIyD_190740/asn329241_1/asn329242_1/work/catkin_ws/src/project1_solution/scripts/solution.py", line 8, in callback
+    rospy.loginfo(data.a, data.b)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1167, in info
+    self._log(INFO, msg, args, **kwargs)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1286, in _log
+    self.handle(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1296, in handle
+    self.callHandlers(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1336, in callHandlers
+    hdlr.handle(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 759, in handle
+    self.emit(record)
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rosgraph/roslogging.py", line 182, in emit
+    record_message = _defaultFormatter.format(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 465, in format
+    record.message = record.getMessage()
+  File "/usr/lib/python2.7/logging/__init__.py", line 329, in getMessage
+    msg = msg % self.args
+TypeError: not all arguments converted during string formatting
+
+1613176708.854928970 ERROR [topics.py:753(_invoke_callback) [topics: /two_ints, /rosout] bad callback: <function callback at 0x7f5e2807c5f0>
+Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/topics.py", line 750, in _invoke_callback
+    cb(msg)
+  File "/mnt/data2/students/sub1/ccc_v1_w_OIyD_190740/asn329241_1/asn329242_1/work/catkin_ws/src/project1_solution/scripts/solution.py", line 8, in callback
+    rospy.loginfo(data.a, data.b)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1167, in info
+    self._log(INFO, msg, args, **kwargs)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1286, in _log
+    self.handle(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1296, in handle
+    self.callHandlers(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1336, in callHandlers
+    hdlr.handle(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 759, in handle
+    self.emit(record)
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rosgraph/roslogging.py", line 182, in emit
+    record_message = _defaultFormatter.format(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 465, in format
+    record.message = record.getMessage()
+  File "/usr/lib/python2.7/logging/__init__.py", line 329, in getMessage
+    msg = msg % self.args
+TypeError: not all arguments converted during string formatting
+
+1613176710.855350017 ERROR [topics.py:753(_invoke_callback) [topics: /two_ints, /rosout] bad callback: <function callback at 0x7f5e2807c5f0>
+Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/topics.py", line 750, in _invoke_callback
+    cb(msg)
+  File "/mnt/data2/students/sub1/ccc_v1_w_OIyD_190740/asn329241_1/asn329242_1/work/catkin_ws/src/project1_solution/scripts/solution.py", line 8, in callback
+    rospy.loginfo(data.a, data.b)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1167, in info
+    self._log(INFO, msg, args, **kwargs)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1286, in _log
+    self.handle(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1296, in handle
+    self.callHandlers(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1336, in callHandlers
+    hdlr.handle(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 759, in handle
+    self.emit(record)
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rosgraph/roslogging.py", line 182, in emit
+    record_message = _defaultFormatter.format(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 465, in format
+    record.message = record.getMessage()
+  File "/usr/lib/python2.7/logging/__init__.py", line 329, in getMessage
+    msg = msg % self.args
+TypeError: not all arguments converted during string formatting
+
+1613176712.856823921 ERROR [topics.py:753(_invoke_callback) [topics: /two_ints, /rosout] bad callback: <function callback at 0x7f5e2807c5f0>
+Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/topics.py", line 750, in _invoke_callback
+    cb(msg)
+  File "/mnt/data2/students/sub1/ccc_v1_w_OIyD_190740/asn329241_1/asn329242_1/work/catkin_ws/src/project1_solution/scripts/solution.py", line 8, in callback
+    rospy.loginfo(data.a, data.b)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1167, in info
+    self._log(INFO, msg, args, **kwargs)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1286, in _log
+    self.handle(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1296, in handle
+    self.callHandlers(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1336, in callHandlers
+    hdlr.handle(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 759, in handle
+    self.emit(record)
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rosgraph/roslogging.py", line 182, in emit
+    record_message = _defaultFormatter.format(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 465, in format
+    record.message = record.getMessage()
+  File "/usr/lib/python2.7/logging/__init__.py", line 329, in getMessage
+    msg = msg % self.args
+TypeError: not all arguments converted during string formatting
+
+1613176714.856587886 ERROR [topics.py:753(_invoke_callback) [topics: /two_ints, /rosout] bad callback: <function callback at 0x7f5e2807c5f0>
+Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/topics.py", line 750, in _invoke_callback
+    cb(msg)
+  File "/mnt/data2/students/sub1/ccc_v1_w_OIyD_190740/asn329241_1/asn329242_1/work/catkin_ws/src/project1_solution/scripts/solution.py", line 8, in callback
+    rospy.loginfo(data.a, data.b)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1167, in info
+    self._log(INFO, msg, args, **kwargs)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1286, in _log
+    self.handle(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1296, in handle
+    self.callHandlers(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1336, in callHandlers
+    hdlr.handle(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 759, in handle
+    self.emit(record)
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rosgraph/roslogging.py", line 182, in emit
+    record_message = _defaultFormatter.format(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 465, in format
+    record.message = record.getMessage()
+  File "/usr/lib/python2.7/logging/__init__.py", line 329, in getMessage
+    msg = msg % self.args
+TypeError: not all arguments converted during string formatting
+
+1613176716.855169057 ERROR [topics.py:753(_invoke_callback) [topics: /two_ints, /rosout] bad callback: <function callback at 0x7f5e2807c5f0>
+Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/topics.py", line 750, in _invoke_callback
+    cb(msg)
+  File "/mnt/data2/students/sub1/ccc_v1_w_OIyD_190740/asn329241_1/asn329242_1/work/catkin_ws/src/project1_solution/scripts/solution.py", line 8, in callback
+    rospy.loginfo(data.a, data.b)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1167, in info
+    self._log(INFO, msg, args, **kwargs)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1286, in _log
+    self.handle(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1296, in handle
+    self.callHandlers(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1336, in callHandlers
+    hdlr.handle(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 759, in handle
+    self.emit(record)
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rosgraph/roslogging.py", line 182, in emit
+    record_message = _defaultFormatter.format(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 465, in format
+    record.message = record.getMessage()
+  File "/usr/lib/python2.7/logging/__init__.py", line 329, in getMessage
+    msg = msg % self.args
+TypeError: not all arguments converted during string formatting
+
+1613176718.855648994 ERROR [topics.py:753(_invoke_callback) [topics: /two_ints, /rosout] bad callback: <function callback at 0x7f5e2807c5f0>
+Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/topics.py", line 750, in _invoke_callback
+    cb(msg)
+  File "/mnt/data2/students/sub1/ccc_v1_w_OIyD_190740/asn329241_1/asn329242_1/work/catkin_ws/src/project1_solution/scripts/solution.py", line 8, in callback
+    rospy.loginfo(data.a, data.b)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1167, in info
+    self._log(INFO, msg, args, **kwargs)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1286, in _log
+    self.handle(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1296, in handle
+    self.callHandlers(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1336, in callHandlers
+    hdlr.handle(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 759, in handle
+    self.emit(record)
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rosgraph/roslogging.py", line 182, in emit
+    record_message = _defaultFormatter.format(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 465, in format
+    record.message = record.getMessage()
+  File "/usr/lib/python2.7/logging/__init__.py", line 329, in getMessage
+    msg = msg % self.args
+TypeError: not all arguments converted during string formatting
+
+1613176720.855950117 ERROR [topics.py:753(_invoke_callback) [topics: /two_ints, /rosout] bad callback: <function callback at 0x7f5e2807c5f0>
+Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/topics.py", line 750, in _invoke_callback
+    cb(msg)
+  File "/mnt/data2/students/sub1/ccc_v1_w_OIyD_190740/asn329241_1/asn329242_1/work/catkin_ws/src/project1_solution/scripts/solution.py", line 8, in callback
+    rospy.loginfo(data.a, data.b)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1167, in info
+    self._log(INFO, msg, args, **kwargs)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1286, in _log
+    self.handle(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1296, in handle
+    self.callHandlers(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1336, in callHandlers
+    hdlr.handle(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 759, in handle
+    self.emit(record)
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rosgraph/roslogging.py", line 182, in emit
+    record_message = _defaultFormatter.format(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 465, in format
+    record.message = record.getMessage()
+  File "/usr/lib/python2.7/logging/__init__.py", line 329, in getMessage
+    msg = msg % self.args
+TypeError: not all arguments converted during string formatting
+
+1613176722.857984066 ERROR [topics.py:753(_invoke_callback) [topics: /two_ints, /rosout] bad callback: <function callback at 0x7f5e2807c5f0>
+Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/topics.py", line 750, in _invoke_callback
+    cb(msg)
+  File "/mnt/data2/students/sub1/ccc_v1_w_OIyD_190740/asn329241_1/asn329242_1/work/catkin_ws/src/project1_solution/scripts/solution.py", line 8, in callback
+    rospy.loginfo(data[0])
+  File "/usr/lib/python2.7/logging/__init__.py", line 1167, in info
+    self._log(INFO, msg, args, **kwargs)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1286, in _log
+    self.handle(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1296, in handle
+    self.callHandlers(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 1336, in callHandlers
+    hdlr.handle(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 759, in handle
+    self.emit(record)
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rosgraph/roslogging.py", line 182, in emit
+    record_message = _defaultFormatter.format(record)
+  File "/usr/lib/python2.7/logging/__init__.py", line 465, in format
+    record.message = record.getMessage()
+  File "/usr/lib/python2.7/logging/__init__.py", line 329, in getMessage
+    msg = msg % self.args
+TypeError: not all arguments converted during string formatting
+
+1613176726.855257034 ERROR [topics.py:753(_invoke_callback) [topics: /two_ints, /rosout] bad callback: <function callback at 0x7fdd6f2ff5f0>
+Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/topics.py", line 750, in _invoke_callback
+    cb(msg)
+  File "/mnt/data2/students/sub1/ccc_v1_w_OIyD_190740/asn329241_1/asn329242_1/work/catkin_ws/src/project1_solution/scripts/solution.py", line 8, in callback
+    rospy.loginfo(data[0])
+TypeError: 'TwoInts' object does not support indexing
+
+1613176728.856684923 ERROR [topics.py:753(_invoke_callback) [topics: /two_ints, /rosout] bad callback: <function callback at 0x7fdd6f2ff5f0>
+Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/topics.py", line 750, in _invoke_callback
+    cb(msg)
+  File "/mnt/data2/students/sub1/ccc_v1_w_OIyD_190740/asn329241_1/asn329242_1/work/catkin_ws/src/project1_solution/scripts/solution.py", line 8, in callback
+    rospy.loginfo(data[0])
+TypeError: 'TwoInts' object does not support indexing
+
+1613176730.855914115 ERROR [topics.py:753(_invoke_callback) [topics: /two_ints, /rosout] bad callback: <function callback at 0x7fdd6f2ff5f0>
+Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/topics.py", line 750, in _invoke_callback
+    cb(msg)
+  File "/mnt/data2/students/sub1/ccc_v1_w_OIyD_190740/asn329241_1/asn329242_1/work/catkin_ws/src/project1_solution/scripts/solution.py", line 8, in callback
+    rospy.loginfo(data[0])
+TypeError: 'TwoInts' object does not support indexing
+
+1613176733.311079978 WARN [tcpros_base.py:351(_tcp_server_callback) [topics: /two_ints, /rosout] Inbound TCP/IP connection failed: connection from sender terminated before handshake header received. 0 bytes were received. Please check sender for additional details.
+1613176892.856961011 ERROR [topics.py:753(_invoke_callback) [topics: /two_ints, /rosout] bad callback: <function callback at 0x7f9923ec85f0>
+Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/topics.py", line 750, in _invoke_callback
+    cb(msg)
+  File "/mnt/data2/students/sub1/ccc_v1_w_OIyD_190740/asn329241_1/asn329242_1/work/catkin_ws/src/project1_solution/scripts/solution.py", line 8, in callback
+    rospy.loginfo(data[a])
+NameError: global name 'a' is not defined
+
+1613176894.855628013 ERROR [topics.py:753(_invoke_callback) [topics: /two_ints, /rosout] bad callback: <function callback at 0x7f9923ec85f0>
+Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/topics.py", line 750, in _invoke_callback
+    cb(msg)
+  File "/mnt/data2/students/sub1/ccc_v1_w_OIyD_190740/asn329241_1/asn329242_1/work/catkin_ws/src/project1_solution/scripts/solution.py", line 8, in callback
+    rospy.loginfo(data[a])
+NameError: global name 'a' is not defined
+
+1613176916.857070922 ERROR [topics.py:753(_invoke_callback) [topics: /two_ints, /rosout] bad callback: <function callback at 0x7f71e371f5f0>
+Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/topics.py", line 750, in _invoke_callback
+    cb(msg)
+  File "/mnt/data2/students/sub1/ccc_v1_w_OIyD_190740/asn329241_1/asn329242_1/work/catkin_ws/src/project1_solution/scripts/solution.py", line 8, in callback
+    rospy.loginfo(data['a'])
+TypeError: 'TwoInts' object has no attribute '__getitem__'
+
+1613176918.856412887 ERROR [topics.py:753(_invoke_callback) [topics: /two_ints, /rosout] bad callback: <function callback at 0x7f71e371f5f0>
+Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/topics.py", line 750, in _invoke_callback
+    cb(msg)
+  File "/mnt/data2/students/sub1/ccc_v1_w_OIyD_190740/asn329241_1/asn329242_1/work/catkin_ws/src/project1_solution/scripts/solution.py", line 8, in callback
+    rospy.loginfo(data['a'])
+TypeError: 'TwoInts' object has no attribute '__getitem__'
+
+1613176920.857639074 ERROR [topics.py:753(_invoke_callback) [topics: /two_ints, /rosout] bad callback: <function callback at 0x7f71e371f5f0>
+Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/topics.py", line 750, in _invoke_callback
+    cb(msg)
+  File "/mnt/data2/students/sub1/ccc_v1_w_OIyD_190740/asn329241_1/asn329242_1/work/catkin_ws/src/project1_solution/scripts/solution.py", line 8, in callback
+    rospy.loginfo(data['a'])
+TypeError: 'TwoInts' object has no attribute '__getitem__'
+
+1613176922.850382089 WARN [tcpros_base.py:351(_tcp_server_callback) [topics: /two_ints, /rosout] Inbound TCP/IP connection failed: connection from sender terminated before handshake header received. 0 bytes were received. Please check sender for additional details.
+1613177042.855979919 INFO [solution.py:8(callback) [topics: /two_ints, /rosout] 3
+1613177044.856051921 INFO [solution.py:8(callback) [topics: /two_ints, /rosout] 19
+1613177046.854655981 INFO [solution.py:8(callback) [topics: /two_ints, /rosout] 7
+1613177047.897109031 WARN [tcpros_base.py:351(_tcp_server_callback) [topics: /two_ints, /rosout] Inbound TCP/IP connection failed: connection from sender terminated before handshake header received. 0 bytes were received. Please check sender for additional details.
+1613177260.865804910 ERROR [topics.py:753(_invoke_callback) [topics: /two_ints, /rosout] bad callback: <function callback at 0x7f9f530635f0>
+Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/topics.py", line 750, in _invoke_callback
+    cb(msg)
+  File "/mnt/data2/students/sub1/ccc_v1_w_OIyD_190740/asn329241_1/asn329242_1/work/catkin_ws/src/project1_solution/scripts/solution.py", line 10, in callback
+    rospy.init_node('talker', anonymous=True)
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/client.py", line 274, in init_node
+    raise rospy.exceptions.ROSException("rospy.init_node() has already been called with different arguments: "+str(_init_node_args))
+ROSException: rospy.init_node() has already been called with different arguments: ('solution', ['/mnt/data2/students/sub1/ccc_v1_w_OIyD_190740/asn329241_1/asn329242_1/work/catkin_ws/src/project1_solution/scripts/solution.py'], False, None, False, False)
+
+1613177260.955120086 WARN [tcpros_base.py:345(_tcp_server_callback) [topics: /two_ints, /rosout] Could not process inbound connection: topic types do not match: [project1_solution/TwoInts] vs. [std_msgs/Int16]{'message_definition': 'int16 a\nint16 b', 'callerid': '/solution', 'tcp_nodelay': '0', 'md5sum': 'e01e889cb1a7965611513515df5899bf', 'topic': '/two_ints', 'type': 'project1_solution/TwoInts'}
+1613177261.970940113 WARN [tcpros_base.py:345(_tcp_server_callback) [topics: /two_ints, /rosout] Could not process inbound connection: topic types do not match: [project1_solution/TwoInts] vs. [std_msgs/Int16]{'message_definition': 'int16 a\nint16 b', 'callerid': '/solution', 'tcp_nodelay': '0', 'md5sum': 'e01e889cb1a7965611513515df5899bf', 'topic': '/two_ints', 'type': 'project1_solution/TwoInts'}
+1613177262.854711055 INFO [solution.py:8(callback) [topics: /two_ints, /rosout] a: 10
+b: 16
+1613177262.858937025 ERROR [topics.py:753(_invoke_callback) [topics: /two_ints, /rosout] bad callback: <function callback at 0x7f9f530635f0>
+Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/topics.py", line 750, in _invoke_callback
+    cb(msg)
+  File "/mnt/data2/students/sub1/ccc_v1_w_OIyD_190740/asn329241_1/asn329242_1/work/catkin_ws/src/project1_solution/scripts/solution.py", line 10, in callback
+    rospy.init_node('talker', anonymous=True)
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/client.py", line 274, in init_node
+    raise rospy.exceptions.ROSException("rospy.init_node() has already been called with different arguments: "+str(_init_node_args))
+ROSException: rospy.init_node() has already been called with different arguments: ('solution', ['/mnt/data2/students/sub1/ccc_v1_w_OIyD_190740/asn329241_1/asn329242_1/work/catkin_ws/src/project1_solution/scripts/solution.py'], False, None, False, False)
+
+1613177262.981853008 WARN [tcpros_base.py:345(_tcp_server_callback) [topics: /two_ints, /rosout] Could not process inbound connection: topic types do not match: [project1_solution/TwoInts] vs. [std_msgs/Int16]{'message_definition': 'int16 a\nint16 b', 'callerid': '/solution', 'tcp_nodelay': '0', 'md5sum': 'e01e889cb1a7965611513515df5899bf', 'topic': '/two_ints', 'type': 'project1_solution/TwoInts'}
+1613177264.854748964 INFO [solution.py:8(callback) [topics: /two_ints, /rosout] a: 17
+b: 2
+1613177264.859905958 ERROR [topics.py:753(_invoke_callback) [topics: /two_ints, /rosout] bad callback: <function callback at 0x7f9f530635f0>
+Traceback (most recent call last):
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/topics.py", line 750, in _invoke_callback
+    cb(msg)
+  File "/mnt/data2/students/sub1/ccc_v1_w_OIyD_190740/asn329241_1/asn329242_1/work/catkin_ws/src/project1_solution/scripts/solution.py", line 10, in callback
+    rospy.init_node('talker', anonymous=True)
+  File "/opt/ros/kinetic/lib/python2.7/dist-packages/rospy/client.py", line 274, in init_node
+    raise rospy.exceptions.ROSException("rospy.init_node() has already been called with different arguments: "+str(_init_node_args))
+ROSException: rospy.init_node() has already been called with different arguments: ('solution', ['/mnt/data2/students/sub1/ccc_v1_w_OIyD_190740/asn329241_1/asn329242_1/work/catkin_ws/src/project1_solution/scripts/solution.py'], False, None, False, False)
+
+1613177264.991261005 WARN [tcpros_base.py:345(_tcp_server_callback) [topics: /two_ints, /rosout] Could not process inbound connection: topic types do not match: [project1_solution/TwoInts] vs. [std_msgs/Int16]{'message_definition': 'int16 a\nint16 b', 'callerid': '/solution', 'tcp_nodelay': '0', 'md5sum': 'e01e889cb1a7965611513515df5899bf', 'topic': '/two_ints', 'type': 'project1_solution/TwoInts'}
+1613177302.854923009 INFO [solution.py:8(callback) [topics: /two_ints, /rosout] a: 14
+b: 18
+1613177302.883371114 INFO [solution.py:13(callback) [topics: /two_ints, /rosout] 32
+1613177302.984179019 INFO [solution.py:13(callback) [topics: /two_ints, /rosout] 32
+1613177303.009754896 WARN [tcpros_base.py:345(_tcp_server_callback) [topics: /two_ints, /rosout] Could not process inbound connection: topic types do not match: [project1_solution/TwoInts] vs. [std_msgs/Int16]{'message_definition': 'int16 a\nint16 b', 'callerid': '/solution', 'tcp_nodelay': '0', 'md5sum': 'e01e889cb1a7965611513515df5899bf', 'topic': '/two_ints', 'type': 'project1_solution/TwoInts'}
+1613177303.084033012 INFO [solution.py:13(callback) [topics: /two_ints, /rosout] 32
+1613177303.183490991 INFO [solution.py:13(callback) [topics: /two_ints, /rosout] 32
+1613177303.283495903 INFO [solution.py:13(callback) [topics: /two_ints, /rosout] 32
+1613177303.383466958 INFO [solution.py:13(callback) [topics: /two_ints, /rosout] 32
+1613177303.483484983 INFO [solution.py:13(callback) [topics: /two_ints, /rosout] 32
+1613177303.583489894 INFO [solution.py:13(callback) [topics: /two_ints, /rosout] 32
+1613177303.683473110 INFO [solution.py:13(callback) [topics: /two_ints, /rosout] 32
+1613177303.783777952 INFO [solution.py:13(callback) [topics: /two_ints, /rosout] 32
+1613177303.883549928 INFO [solution.py:13(callback) [topics: /two_ints, /rosout] 32
+1613177303.983475923 INFO [solution.py:13(callback) [topics: /two_ints, /rosout] 32
+1613177304.042797088 WARN [tcpros_base.py:345(_tcp_server_callback) [topics: /two_ints, /rosout] Could not process inbound connection: topic types do not match: [project1_solution/TwoInts] vs. [std_msgs/Int16]{'message_definition': 'int16 a\nint16 b', 'callerid': '/solution', 'tcp_nodelay': '0', 'md5sum': 'e01e889cb1a7965611513515df5899bf', 'topic': '/two_ints', 'type': 'project1_solution/TwoInts'}
+1613177304.083338022 INFO [solution.py:13(callback) [topics: /two_ints, /rosout] 32
+1613177304.183562994 INFO [solution.py:13(callback) [topics: /two_ints, /rosout] 32
+1613177304.284207105 INFO [solution.py:13(callback) [topics: /two_ints, /rosout] 32
+1613177304.383836030 INFO [solution.py:13(callback) [topics: /two_ints, /rosout] 32
+1613177304.483890056 INFO [solution.py:13(callback) [topics: /two_ints, /rosout] 32
+1613177304.586229085 INFO [solution.py:13(callback) [topics: /two_ints, /rosout] 32
+1613177304.683507919 INFO [solution.py:13(callback) [topics: /two_ints, /rosout] 32
+1613177304.783864021 INFO [solution.py:13(callback) [topics: /two_ints, /rosout] 32
+1613177304.883678913 INFO [solution.py:13(callback) [topics: /two_ints, /rosout] 32
+1613177304.983465909 INFO [solution.py:13(callback) [topics: /two_ints, /rosout] 32
+1613177305.054027080 WARN [tcpros_base.py:345(_tcp_server_callback) [topics: /two_ints, /rosout] Could not process inbound connection: topic types do not match: [project1_solution/TwoInts] vs. [std_msgs/Int16]{'message_definition': 'int16 a\nint16 b', 'callerid': '/solution', 'tcp_nodelay': '0', 'md5sum': 'e01e889cb1a7965611513515df5899bf', 'topic': '/two_ints', 'type': 'project1_solution/TwoInts'}
+1613177305.083498954 INFO [solution.py:13(callback) [topics: /two_ints, /rosout] 32
+1613177305.183481931 INFO [solution.py:13(callback) [topics: /two_ints, /rosout] 32
+1613177305.283463954 INFO [solution.py:13(callback) [topics: /two_ints, /rosout] 32
+1613177305.383466958 INFO [solution.py:13(callback) [topics: /two_ints, /rosout] 32
+1613177305.483467102 INFO [solution.py:13(callback) [topics: /two_ints, /rosout] 32
+1613177305.583528041 INFO [solution.py:13(callback) [topics: /two_ints, /rosout] 32
+1613177305.683531045 INFO [solution.py:13(callback) [topics: /two_ints, /rosout] 32
+1613177305.783476114 INFO [solution.py:13(callback) [topics: /two_ints, /rosout] 32
+1613177305.883474111 INFO [solution.py:13(callback) [topics: /two_ints, /rosout] 32
+1613177305.983728885 INFO [solution.py:13(callback) [topics: /two_ints, /rosout] 32
+1613177306.095063924 INFO [solution.py:13(callback) [topics: /two_ints, /rosout] 32
+1613177306.183770895 INFO [solution.py:13(callback) [topics: /two_ints, /rosout] 32
+1613177306.283468008 INFO [solution.py:13(callback) [topics: /two_ints, /rosout] 32
+1613177306.383488893 INFO [solution.py:13(callback) [topics: /two_ints, /rosout] 32
+1613177306.484554052 INFO [solution.py:13(callback) [topics: /two_ints, /rosout] 32
+1613177306.583864927 INFO [solution.py:13(callback) [topics: /two_ints, /rosout] 32
+1613177306.683865070 INFO [solution.py:13(callback) [topics: /two_ints, /rosout] 32
+1613177306.783847093 INFO [solution.py:13(callback) [topics: /two_ints, /rosout] 32
+1613177306.883831024 INFO [solution.py:13(callback) [topics: /two_ints, /rosout] 32
+1613177306.983896017 INFO [solution.py:13(callback) [topics: /two_ints, /rosout] 32
+1613177307.063050985 WARN [tcpros_base.py:345(_tcp_server_callback) [topics: /two_ints, /rosout] Could not process inbound connection: topic types do not match: [project1_solution/TwoInts] vs. [std_msgs/Int16]{'message_definition': 'int16 a\nint16 b', 'callerid': '/solution', 'tcp_nodelay': '0', 'md5sum': 'e01e889cb1a7965611513515df5899bf', 'topic': '/two_ints', 'type': 'project1_solution/TwoInts'}
+1613177307.083512067 INFO [solution.py:13(callback) [topics: /two_ints, /rosout] 32
+1613177307.183484077 INFO [solution.py:13(callback) [topics: /two_ints, /rosout] 32
+1613177307.283478975 INFO [solution.py:13(callback) [topics: /two_ints, /rosout] 32
+1613177307.383949041 INFO [solution.py:13(callback) [topics: /two_ints, /rosout] 32
+1613177307.483427047 INFO [solution.py:13(callback) [topics: /two_ints, /rosout] 32
+1613177307.583911895 INFO [solution.py:13(callback) [topics: /two_ints, /rosout] 32
+1613177307.683528900 INFO [solution.py:13(callback) [topics: /two_ints, /rosout] 32
+1613177307.783474922 INFO [solution.py:13(callback) [topics: /two_ints, /rosout] 32
+1613177307.883500099 INFO [solution.py:13(callback) [topics: /two_ints, /rosout] 32
+1613177307.983498096 INFO [solution.py:13(callback) [topics: /two_ints, /rosout] 32
+1613177308.083554983 INFO [solution.py:13(callback) [topics: /two_ints, /rosout] 32
+1613177308.183465003 INFO [solution.py:13(callback) [topics: /two_ints, /rosout] 32
+1613177308.283430099 INFO [solution.py:13(callback) [topics: /two_ints, /rosout] 32
+1613177308.383433103 INFO [solution.py:13(callback) [topics: /two_ints, /rosout] 32
+1613177308.483402013 INFO [solution.py:13(callback) [topics: /two_ints, /rosout] 32
+1613177308.583360910 INFO [solution.py:13(callback) [topics: /two_ints, /rosout] 32
+1613177308.683501005 INFO [solution.py:13(callback) [topics: /two_ints, /rosout] 32
+1613177308.784051895 INFO [solution.py:13(callback) [topics: /two_ints, /rosout] 32
+1613177308.883495092 INFO [solution.py:13(callback) [topics: /two_ints, /rosout] 32
+1613177308.983413934 INFO [solution.py:13(callback) [topics: /two_ints, /rosout] 32
+1613177309.083425045 INFO [solution.py:13(callback) [topics: /two_ints, /rosout] 32
+1613177309.183545112 INFO [solution.py:13(callback) [topics: /two_ints, /rosout] 32
+1613177309.283426046 INFO [solution.py:13(callback) [topics: /two_ints, /rosout] 32
+1613177309.383477926 INFO [solution.py:13(callback) [topics: /two_ints, /rosout] 32
+1613177309.483499050 INFO [solution.py:13(callback) [topics: /two_ints, /rosout] 32
+1613177309.583481073 INFO [solution.py:13(callback) [topics: /two_ints, /rosout] 32
+1613177309.683495998 INFO [solution.py:13(callback) [topics: /two_ints, /rosout] 32
+1613177309.783457994 INFO [solution.py:13(callback) [topics: /two_ints, /rosout] 32
+1613177309.883475065 INFO [solution.py:13(callback) [topics: /two_ints, /rosout] 32
+1613177309.983424901 INFO [solution.py:13(callback) [topics: /two_ints, /rosout] 32
+1613177310.083514928 INFO [solution.py:13(callback) [topics: /two_ints, /rosout] 32
+1613177310.183490037 INFO [solution.py:13(callback) [topics: /two_ints, /rosout] 32
+1613177310.283392906 INFO [solution.py:13(callback) [topics: /two_ints, /rosout] 32
+1613177310.383694887 INFO [solution.py:13(callback) [topics: /two_ints, /rosout] 32
+1613177310.483488082 INFO [solution.py:13(callback) [topics: /two_ints, /rosout] 32
+1613177310.583426952 INFO [solution.py:13(callback) [topics: /two_ints, /rosout] 32
+1613177310.683620929 INFO [solution.py:13(callback) [topics: /two_ints, /rosout] 32
+1613177310.783910989 INFO [solution.py:13(callback) [topics: /two_ints, /rosout] 32
+1613177310.883503913 INFO [solution.py:13(callback) [topics: /two_ints, /rosout] 32
+1613177310.983648061 INFO [solution.py:13(callback) [topics: /two_ints, /rosout] 32
+1613177311.081218957 WARN [tcpros_base.py:345(_tcp_server_callback) [topics: /two_ints, /rosout] Could not process inbound connection: topic types do not match: [project1_solution/TwoInts] vs. [std_msgs/Int16]{'message_definition': 'int16 a\nint16 b', 'callerid': '/solution', 'tcp_nodelay': '0', 'md5sum': 'e01e889cb1a7965611513515df5899bf', 'topic': '/two_ints', 'type': 'project1_solution/TwoInts'}
+1613177311.083412885 INFO [solution.py:13(callback) [topics: /two_ints, /rosout] 32
+1613177311.183942079 INFO [solution.py:13(callback) [topics: /two_ints, /rosout] 32
+1613177311.283476114 INFO [solution.py:13(callback) [topics: /two_ints, /rosout] 32
+1613177311.383512020 INFO [solution.py:13(callback) [topics: /two_ints, /rosout] 32
+1613177311.483484029 INFO [solution.py:13(callback) [topics: /two_ints, /rosout] 32
+1613177311.583499908 INFO [solution.py:13(callback) [topics: /two_ints, /rosout] 32
+1613177311.683722019 INFO [solution.py:13(callback) [topics: /two_ints, /rosout] 32
+1613177311.783493995 INFO [solution.py:13(callback) [topics: /two_ints, /rosout] 32
+1613177311.883513927 INFO [solution.py:13(callback) [topics: /two_ints, /rosout] 32
+1613177311.983453035 INFO [solution.py:13(callback) [topics: /two_ints, /rosout] 32
+1613177312.086458921 INFO [solution.py:13(callback) [topics: /two_ints, /rosout] 32
+1613177312.183500051 INFO [solution.py:13(callback) [topics: /two_ints, /rosout] 32
+1613177312.284039020 INFO [solution.py:13(callback) [topics: /two_ints, /rosout] 32
+1613177312.383516073 INFO [solution.py:13(callback) [topics: /two_ints, /rosout] 32
+1613177312.483509063 INFO [solution.py:13(callback) [topics: /two_ints, /rosout] 32
+1613177312.583358049 INFO [solution.py:13(callback) [topics: /two_ints, /rosout] 32
+1613177312.683433055 INFO [solution.py:13(callback) [topics: /two_ints, /rosout] 32
+1613177312.783663034 INFO [solution.py:13(callback) [topics: /two_ints, /rosout] 32
+1613177312.883408069 INFO [solution.py:13(callback) [topics: /two_ints, /rosout] 32
+1613177312.983633041 INFO [solution.py:13(callback) [topics: /two_ints, /rosout] 32
+1613177313.083467960 INFO [solution.py:13(callback) [topics: /two_ints, /rosout] 32
+1613177313.183445930 INFO [solution.py:13(callback) [topics: /two_ints, /rosout] 32
+1613177313.283420085 INFO [solution.py:13(callback) [topics: /two_ints, /rosout] 32
+1613177313.383472919 INFO [solution.py:13(callback) [topics: /two_ints, /rosout] 32
+1613177313.483407974 INFO [solution.py:13(callback) [topics: /two_ints, /rosout] 32
+1613177313.583405971 INFO [solution.py:13(callback) [topics: /two_ints, /rosout] 32
+1613177313.683415889 INFO [solution.py:13(callback) [topics: /two_ints, /rosout] 32
+1613177313.783404111 INFO [solution.py:13(callback) [topics: /two_ints, /rosout] 32
+1613177313.883479118 INFO [solution.py:13(callback) [topics: /two_ints, /rosout] 32
+1613177313.983405113 INFO [solution.py:13(callback) [topics: /two_ints, /rosout] 32
+1613177314.083416938 INFO [solution.py:13(callback) [topics: /two_ints, /rosout] 32
+1613177314.183393001 INFO [solution.py:13(callback) [topics: /two_ints, /rosout] 32
+1613177314.283493041 INFO [solution.py:13(callback) [topics: /two_ints, /rosout] 32
+1613177314.383411884 INFO [solution.py:13(callback) [topics: /two_ints, /rosout] 32
+1613177314.483426094 INFO [solution.py:13(callback) [topics: /two_ints, /rosout] 32
+1613177314.583414077 INFO [solution.py:13(callback) [topics: /two_ints, /rosout] 32
+1613177314.683393955 INFO [solution.py:13(callback) [topics: /two_ints, /rosout] 32
+1613177314.783420085 INFO [solution.py:13(callback) [topics: /two_ints, /rosout] 32
+1613177364.856837987 INFO [solution.py:8(callback) [topics: /two_ints, /rosout] a: 12
+b: 20
+1613177364.866233110 INFO [solution.py:11(callback) [topics: /two_ints, /rosout] 32
+1613177364.879551887 WARN [tcpros_base.py:345(_tcp_server_callback) [topics: /two_ints, /rosout] Could not process inbound connection: topic types do not match: [project1_solution/TwoInts] vs. [std_msgs/Int16]{'message_definition': 'int16 a\nint16 b', 'callerid': '/solution', 'tcp_nodelay': '0', 'md5sum': 'e01e889cb1a7965611513515df5899bf', 'topic': '/two_ints', 'type': 'project1_solution/TwoInts'}
+1613177365.893218040 WARN [tcpros_base.py:345(_tcp_server_callback) [topics: /two_ints, /rosout] Could not process inbound connection: topic types do not match: [project1_solution/TwoInts] vs. [std_msgs/Int16]{'message_definition': 'int16 a\nint16 b', 'callerid': '/solution', 'tcp_nodelay': '0', 'md5sum': 'e01e889cb1a7965611513515df5899bf', 'topic': '/two_ints', 'type': 'project1_solution/TwoInts'}
+1613177366.856676101 INFO [solution.py:8(callback) [topics: /two_ints, /rosout] a: 9
+b: 4
+1613177366.860755920 INFO [solution.py:11(callback) [topics: /two_ints, /rosout] 13
+1613177366.902426004 WARN [tcpros_base.py:345(_tcp_server_callback) [topics: /two_ints, /rosout] Could not process inbound connection: topic types do not match: [project1_solution/TwoInts] vs. [std_msgs/Int16]{'message_definition': 'int16 a\nint16 b', 'callerid': '/solution', 'tcp_nodelay': '0', 'md5sum': 'e01e889cb1a7965611513515df5899bf', 'topic': '/two_ints', 'type': 'project1_solution/TwoInts'}
+1613177368.856710910 INFO [solution.py:8(callback) [topics: /two_ints, /rosout] a: 20
+b: 16
+1613177368.861032009 INFO [solution.py:11(callback) [topics: /two_ints, /rosout] 36
+1613177368.907932043 WARN [tcpros_base.py:345(_tcp_server_callback) [topics: /two_ints, /rosout] Could not process inbound connection: topic types do not match: [project1_solution/TwoInts] vs. [std_msgs/Int16]{'message_definition': 'int16 a\nint16 b', 'callerid': '/solution', 'tcp_nodelay': '0', 'md5sum': 'e01e889cb1a7965611513515df5899bf', 'topic': '/two_ints', 'type': 'project1_solution/TwoInts'}
+1613177370.856647014 INFO [solution.py:8(callback) [topics: /two_ints, /rosout] a: 3
+b: 2
+1613177370.860838890 INFO [solution.py:11(callback) [topics: /two_ints, /rosout] 5
+1613177372.856628894 INFO [solution.py:8(callback) [topics: /two_ints, /rosout] a: 15
+b: 20
+1613177372.860965013 INFO [solution.py:11(callback) [topics: /two_ints, /rosout] 35
+1613177372.915184020 WARN [tcpros_base.py:345(_tcp_server_callback) [topics: /two_ints, /rosout] Could not process inbound connection: topic types do not match: [project1_solution/TwoInts] vs. [std_msgs/Int16]{'message_definition': 'int16 a\nint16 b', 'callerid': '/solution', 'tcp_nodelay': '0', 'md5sum': 'e01e889cb1a7965611513515df5899bf', 'topic': '/two_ints', 'type': 'project1_solution/TwoInts'}
+1613177374.854931116 INFO [solution.py:8(callback) [topics: /two_ints, /rosout] a: 11
+b: 10
+1613177374.859057903 INFO [solution.py:11(callback) [topics: /two_ints, /rosout] 21
+1613177376.856668949 INFO [solution.py:8(callback) [topics: /two_ints, /rosout] a: 16
+b: 4
+1613177376.861073017 INFO [solution.py:11(callback) [topics: /two_ints, /rosout] 20
+1613177377.816060066 WARN [tcpros_base.py:351(_tcp_server_callback) [topics: /two_ints, /rosout] Inbound TCP/IP connection failed: connection from sender terminated before handshake header received. 0 bytes were received. Please check sender for additional details.

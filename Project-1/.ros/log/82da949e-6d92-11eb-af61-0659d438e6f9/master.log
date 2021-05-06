@@ -1,0 +1,157 @@
+[rosmaster.main][INFO] 2021-02-12 16:29:31,744: initialization complete, waiting for shutdown
+[rosmaster.main][INFO] 2021-02-12 16:29:31,745: Starting ROS Master Node
+[xmlrpc][INFO] 2021-02-12 16:29:31,754: XML-RPC server binding to 0.0.0.0:40963
+[xmlrpc][INFO] 2021-02-12 16:29:31,760: Started XML-RPC server [http://ip-172-31-17-9:40963/]
+[rosmaster.master][INFO] 2021-02-12 16:29:31,760: Master initialized: port[40963], uri[http://ip-172-31-17-9:40963/]
+[xmlrpc][INFO] 2021-02-12 16:29:31,764: xml rpc node: starting XML-RPC server
+[rosmaster.master][INFO] 2021-02-12 16:29:31,912: +PARAM [/run_id] by /roslaunch
+[rosmaster.master][INFO] 2021-02-12 16:29:31,982: +PARAM [/roslaunch/uris/host_ip_172_31_17_9__40827] by /roslaunch
+[rosmaster.master][INFO] 2021-02-12 16:29:32,280: +PARAM [/rosversion] by /roslaunch
+[rosmaster.master][INFO] 2021-02-12 16:29:32,284: +PARAM [/rosdistro] by /roslaunch
+[rosmaster.master][INFO] 2021-02-12 16:29:33,706: +SERVICE [/rosout/get_loggers] /rosout http://ip-172-31-17-9:38106/
+[rosmaster.master][INFO] 2021-02-12 16:29:33,726: +SERVICE [/rosout/set_logger_level] /rosout http://ip-172-31-17-9:38106/
+[rosmaster.master][INFO] 2021-02-12 16:29:33,734: +PUB [/rosout_agg] /rosout http://ip-172-31-17-9:38106/
+[rosmaster.master][INFO] 2021-02-12 16:29:33,758: +SUB [/rosout] /rosout http://ip-172-31-17-9:38106/
+[rosmaster.master][INFO] 2021-02-12 16:30:02,734: +PUB [/two_ints] /two_int_talker_2579_1613176202651 http://ip-172-31-17-9:43152/
+[rosmaster.master][INFO] 2021-02-12 16:30:02,826: +PUB [/rosout] /two_int_talker_2579_1613176202651 http://ip-172-31-17-9:43152/
+[rosmaster.master][INFO] 2021-02-12 16:30:02,828: publisherUpdate[/rosout] -> http://ip-172-31-17-9:38106/ ['http://ip-172-31-17-9:43152/']
+[rosmaster.master][INFO] 2021-02-12 16:30:02,838: publisherUpdate[/rosout] -> http://ip-172-31-17-9:38106/ ['http://ip-172-31-17-9:43152/']: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2021-02-12 16:30:02,843: +SERVICE [/two_int_talker_2579_1613176202651/get_loggers] /two_int_talker_2579_1613176202651 http://ip-172-31-17-9:43152/
+[rosmaster.master][INFO] 2021-02-12 16:30:02,849: +SERVICE [/two_int_talker_2579_1613176202651/set_logger_level] /two_int_talker_2579_1613176202651 http://ip-172-31-17-9:43152/
+[rosmaster.master][INFO] 2021-02-12 16:31:14,038: +PUB [/rosout] /solution http://ip-172-31-17-9:39777/
+[rosmaster.master][INFO] 2021-02-12 16:31:14,052: +SERVICE [/solution/get_loggers] /solution http://ip-172-31-17-9:39777/
+[rosmaster.master][INFO] 2021-02-12 16:31:14,053: publisherUpdate[/rosout] -> http://ip-172-31-17-9:38106/ ['http://ip-172-31-17-9:43152/', 'http://ip-172-31-17-9:39777/']
+[rosmaster.master][INFO] 2021-02-12 16:31:14,058: +SERVICE [/solution/set_logger_level] /solution http://ip-172-31-17-9:39777/
+[rosmaster.master][INFO] 2021-02-12 16:31:14,063: publisherUpdate[/rosout] -> http://ip-172-31-17-9:38106/ ['http://ip-172-31-17-9:43152/', 'http://ip-172-31-17-9:39777/']: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2021-02-12 16:31:14,066: +SUB [/two_ints] /solution http://ip-172-31-17-9:39777/
+[rosmaster.master][INFO] 2021-02-12 16:31:33,644: -SUB [/two_ints] /solution http://ip-172-31-17-9:39777/
+[rosmaster.master][INFO] 2021-02-12 16:31:33,647: -PUB [/rosout] /solution http://ip-172-31-17-9:39777/
+[rosmaster.master][INFO] 2021-02-12 16:31:33,651: publisherUpdate[/rosout] -> http://ip-172-31-17-9:38106/ ['http://ip-172-31-17-9:43152/']
+[rosmaster.master][INFO] 2021-02-12 16:31:33,655: -SERVICE [/solution/set_logger_level] /solution rosrpc://ip-172-31-17-9:35148
+[rosmaster.master][INFO] 2021-02-12 16:31:33,660: publisherUpdate[/rosout] -> http://ip-172-31-17-9:38106/ ['http://ip-172-31-17-9:43152/']: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2021-02-12 16:31:33,663: -SERVICE [/solution/get_loggers] /solution rosrpc://ip-172-31-17-9:35148
+[rosmaster.master][INFO] 2021-02-12 16:34:44,207: +PUB [/rosout] /solution http://ip-172-31-17-9:33883/
+[rosmaster.master][INFO] 2021-02-12 16:34:44,220: +SERVICE [/solution/get_loggers] /solution http://ip-172-31-17-9:33883/
+[rosmaster.master][INFO] 2021-02-12 16:34:44,225: +SERVICE [/solution/set_logger_level] /solution http://ip-172-31-17-9:33883/
+[rosmaster.master][INFO] 2021-02-12 16:34:44,234: publisherUpdate[/rosout] -> http://ip-172-31-17-9:38106/ ['http://ip-172-31-17-9:43152/', 'http://ip-172-31-17-9:33883/']
+[rosmaster.master][INFO] 2021-02-12 16:34:44,238: +SUB [/two_ints] /solution http://ip-172-31-17-9:33883/
+[rosmaster.master][INFO] 2021-02-12 16:34:44,241: publisherUpdate[/rosout] -> http://ip-172-31-17-9:38106/ ['http://ip-172-31-17-9:43152/', 'http://ip-172-31-17-9:33883/']: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2021-02-12 16:34:56,753: -SUB [/two_ints] /solution http://ip-172-31-17-9:33883/
+[rosmaster.master][INFO] 2021-02-12 16:34:56,756: -PUB [/rosout] /solution http://ip-172-31-17-9:33883/
+[rosmaster.master][INFO] 2021-02-12 16:34:56,760: -SERVICE [/solution/set_logger_level] /solution rosrpc://ip-172-31-17-9:43929
+[rosmaster.master][INFO] 2021-02-12 16:34:56,763: -SERVICE [/solution/get_loggers] /solution rosrpc://ip-172-31-17-9:43929
+[rosmaster.master][INFO] 2021-02-12 16:34:56,765: publisherUpdate[/rosout] -> http://ip-172-31-17-9:38106/ ['http://ip-172-31-17-9:43152/']
+[rosmaster.master][INFO] 2021-02-12 16:34:56,771: publisherUpdate[/rosout] -> http://ip-172-31-17-9:38106/ ['http://ip-172-31-17-9:43152/']: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2021-02-12 16:36:06,912: +PUB [/rosout] /solution http://ip-172-31-17-9:43228/
+[rosmaster.master][INFO] 2021-02-12 16:36:06,946: publisherUpdate[/rosout] -> http://ip-172-31-17-9:38106/ ['http://ip-172-31-17-9:43152/', 'http://ip-172-31-17-9:43228/']
+[rosmaster.master][INFO] 2021-02-12 16:36:06,949: +SERVICE [/solution/get_loggers] /solution http://ip-172-31-17-9:43228/
+[rosmaster.master][INFO] 2021-02-12 16:36:06,964: publisherUpdate[/rosout] -> http://ip-172-31-17-9:38106/ ['http://ip-172-31-17-9:43152/', 'http://ip-172-31-17-9:43228/']: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2021-02-12 16:36:06,995: +SERVICE [/solution/set_logger_level] /solution http://ip-172-31-17-9:43228/
+[rosmaster.master][INFO] 2021-02-12 16:36:07,047: +SUB [/two_ints] /solution http://ip-172-31-17-9:43228/
+[rosmaster.master][INFO] 2021-02-12 16:36:21,549: -SUB [/two_ints] /solution http://ip-172-31-17-9:43228/
+[rosmaster.master][INFO] 2021-02-12 16:36:21,551: -PUB [/rosout] /solution http://ip-172-31-17-9:43228/
+[rosmaster.master][INFO] 2021-02-12 16:36:21,555: -SERVICE [/solution/set_logger_level] /solution rosrpc://ip-172-31-17-9:41205
+[rosmaster.master][INFO] 2021-02-12 16:36:21,559: -SERVICE [/solution/get_loggers] /solution rosrpc://ip-172-31-17-9:41205
+[rosmaster.master][INFO] 2021-02-12 16:36:21,588: publisherUpdate[/rosout] -> http://ip-172-31-17-9:38106/ ['http://ip-172-31-17-9:43152/']
+[rosmaster.master][INFO] 2021-02-12 16:36:21,592: publisherUpdate[/rosout] -> http://ip-172-31-17-9:38106/ ['http://ip-172-31-17-9:43152/']: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2021-02-12 16:36:37,960: +PUB [/rosout] /solution http://ip-172-31-17-9:46630/
+[rosmaster.master][INFO] 2021-02-12 16:36:37,975: +SERVICE [/solution/get_loggers] /solution http://ip-172-31-17-9:46630/
+[rosmaster.master][INFO] 2021-02-12 16:36:37,979: +SERVICE [/solution/set_logger_level] /solution http://ip-172-31-17-9:46630/
+[rosmaster.master][INFO] 2021-02-12 16:36:37,985: +SUB [/two_ints] /solution http://ip-172-31-17-9:46630/
+[rosmaster.master][INFO] 2021-02-12 16:36:38,017: publisherUpdate[/rosout] -> http://ip-172-31-17-9:38106/ ['http://ip-172-31-17-9:43152/', 'http://ip-172-31-17-9:46630/']
+[rosmaster.master][INFO] 2021-02-12 16:36:38,022: publisherUpdate[/rosout] -> http://ip-172-31-17-9:38106/ ['http://ip-172-31-17-9:43152/', 'http://ip-172-31-17-9:46630/']: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2021-02-12 16:38:43,536: -SUB [/two_ints] /solution http://ip-172-31-17-9:46630/
+[rosmaster.master][INFO] 2021-02-12 16:38:43,538: -PUB [/rosout] /solution http://ip-172-31-17-9:46630/
+[rosmaster.master][INFO] 2021-02-12 16:38:43,541: -SERVICE [/solution/set_logger_level] /solution rosrpc://ip-172-31-17-9:42644
+[rosmaster.master][INFO] 2021-02-12 16:38:43,545: -SERVICE [/solution/get_loggers] /solution rosrpc://ip-172-31-17-9:42644
+[rosmaster.master][INFO] 2021-02-12 16:38:43,592: publisherUpdate[/rosout] -> http://ip-172-31-17-9:38106/ ['http://ip-172-31-17-9:43152/']
+[rosmaster.master][INFO] 2021-02-12 16:38:43,596: publisherUpdate[/rosout] -> http://ip-172-31-17-9:38106/ ['http://ip-172-31-17-9:43152/']: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2021-02-12 16:38:46,260: +PUB [/rosout] /solution http://ip-172-31-17-9:39048/
+[rosmaster.master][INFO] 2021-02-12 16:38:46,275: +SERVICE [/solution/get_loggers] /solution http://ip-172-31-17-9:39048/
+[rosmaster.master][INFO] 2021-02-12 16:38:46,280: +SERVICE [/solution/set_logger_level] /solution http://ip-172-31-17-9:39048/
+[rosmaster.master][INFO] 2021-02-12 16:38:46,286: +SUB [/two_ints] /solution http://ip-172-31-17-9:39048/
+[rosmaster.master][INFO] 2021-02-12 16:38:46,304: publisherUpdate[/rosout] -> http://ip-172-31-17-9:38106/ ['http://ip-172-31-17-9:43152/', 'http://ip-172-31-17-9:39048/']
+[rosmaster.master][INFO] 2021-02-12 16:38:46,309: publisherUpdate[/rosout] -> http://ip-172-31-17-9:38106/ ['http://ip-172-31-17-9:43152/', 'http://ip-172-31-17-9:39048/']: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2021-02-12 16:38:52,643: -SUB [/two_ints] /solution http://ip-172-31-17-9:39048/
+[rosmaster.master][INFO] 2021-02-12 16:38:52,646: -PUB [/rosout] /solution http://ip-172-31-17-9:39048/
+[rosmaster.master][INFO] 2021-02-12 16:38:52,650: -SERVICE [/solution/set_logger_level] /solution rosrpc://ip-172-31-17-9:40064
+[rosmaster.master][INFO] 2021-02-12 16:38:52,654: -SERVICE [/solution/get_loggers] /solution rosrpc://ip-172-31-17-9:40064
+[rosmaster.master][INFO] 2021-02-12 16:38:52,721: publisherUpdate[/rosout] -> http://ip-172-31-17-9:38106/ ['http://ip-172-31-17-9:43152/']
+[rosmaster.master][INFO] 2021-02-12 16:38:52,725: publisherUpdate[/rosout] -> http://ip-172-31-17-9:38106/ ['http://ip-172-31-17-9:43152/']: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2021-02-12 16:41:31,218: +PUB [/rosout] /solution http://ip-172-31-17-9:34186/
+[rosmaster.master][INFO] 2021-02-12 16:41:31,234: publisherUpdate[/rosout] -> http://ip-172-31-17-9:38106/ ['http://ip-172-31-17-9:43152/', 'http://ip-172-31-17-9:34186/']
+[rosmaster.master][INFO] 2021-02-12 16:41:31,238: +SERVICE [/solution/get_loggers] /solution http://ip-172-31-17-9:34186/
+[rosmaster.master][INFO] 2021-02-12 16:41:31,239: publisherUpdate[/rosout] -> http://ip-172-31-17-9:38106/ ['http://ip-172-31-17-9:43152/', 'http://ip-172-31-17-9:34186/']: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2021-02-12 16:41:31,243: +SERVICE [/solution/set_logger_level] /solution http://ip-172-31-17-9:34186/
+[rosmaster.master][INFO] 2021-02-12 16:41:31,252: +SUB [/two_ints] /solution http://ip-172-31-17-9:34186/
+[rosmaster.master][INFO] 2021-02-12 16:41:36,833: -SUB [/two_ints] /solution http://ip-172-31-17-9:34186/
+[rosmaster.master][INFO] 2021-02-12 16:41:36,834: -PUB [/rosout] /solution http://ip-172-31-17-9:34186/
+[rosmaster.master][INFO] 2021-02-12 16:41:36,838: -SERVICE [/solution/set_logger_level] /solution rosrpc://ip-172-31-17-9:44967
+[rosmaster.master][INFO] 2021-02-12 16:41:36,841: publisherUpdate[/rosout] -> http://ip-172-31-17-9:38106/ ['http://ip-172-31-17-9:43152/']
+[rosmaster.master][INFO] 2021-02-12 16:41:36,842: -SERVICE [/solution/get_loggers] /solution rosrpc://ip-172-31-17-9:44967
+[rosmaster.master][INFO] 2021-02-12 16:41:36,846: publisherUpdate[/rosout] -> http://ip-172-31-17-9:38106/ ['http://ip-172-31-17-9:43152/']: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2021-02-12 16:41:55,652: +PUB [/rosout] /solution http://ip-172-31-17-9:37433/
+[rosmaster.master][INFO] 2021-02-12 16:41:55,667: publisherUpdate[/rosout] -> http://ip-172-31-17-9:38106/ ['http://ip-172-31-17-9:43152/', 'http://ip-172-31-17-9:37433/']
+[rosmaster.master][INFO] 2021-02-12 16:41:55,671: publisherUpdate[/rosout] -> http://ip-172-31-17-9:38106/ ['http://ip-172-31-17-9:43152/', 'http://ip-172-31-17-9:37433/']: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2021-02-12 16:41:55,667: +SERVICE [/solution/get_loggers] /solution http://ip-172-31-17-9:37433/
+[rosmaster.master][INFO] 2021-02-12 16:41:55,681: +SERVICE [/solution/set_logger_level] /solution http://ip-172-31-17-9:37433/
+[rosmaster.master][INFO] 2021-02-12 16:41:55,688: +SUB [/two_ints] /solution http://ip-172-31-17-9:37433/
+[rosmaster.master][INFO] 2021-02-12 16:42:02,221: -SUB [/two_ints] /solution http://ip-172-31-17-9:37433/
+[rosmaster.master][INFO] 2021-02-12 16:42:02,225: -PUB [/rosout] /solution http://ip-172-31-17-9:37433/
+[rosmaster.master][INFO] 2021-02-12 16:42:02,230: -SERVICE [/solution/set_logger_level] /solution rosrpc://ip-172-31-17-9:36742
+[rosmaster.master][INFO] 2021-02-12 16:42:02,233: -SERVICE [/solution/get_loggers] /solution rosrpc://ip-172-31-17-9:36742
+[rosmaster.master][INFO] 2021-02-12 16:42:02,284: publisherUpdate[/rosout] -> http://ip-172-31-17-9:38106/ ['http://ip-172-31-17-9:43152/']
+[rosmaster.master][INFO] 2021-02-12 16:42:02,289: publisherUpdate[/rosout] -> http://ip-172-31-17-9:38106/ ['http://ip-172-31-17-9:43152/']: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2021-02-12 16:44:01,057: +PUB [/rosout] /solution http://ip-172-31-17-9:41529/
+[rosmaster.master][INFO] 2021-02-12 16:44:01,069: +SERVICE [/solution/get_loggers] /solution http://ip-172-31-17-9:41529/
+[rosmaster.master][INFO] 2021-02-12 16:44:01,074: +SERVICE [/solution/set_logger_level] /solution http://ip-172-31-17-9:41529/
+[rosmaster.master][INFO] 2021-02-12 16:44:01,079: +SUB [/two_ints] /solution http://ip-172-31-17-9:41529/
+[rosmaster.master][INFO] 2021-02-12 16:44:01,142: publisherUpdate[/rosout] -> http://ip-172-31-17-9:38106/ ['http://ip-172-31-17-9:43152/', 'http://ip-172-31-17-9:41529/']
+[rosmaster.master][INFO] 2021-02-12 16:44:01,148: publisherUpdate[/rosout] -> http://ip-172-31-17-9:38106/ ['http://ip-172-31-17-9:43152/', 'http://ip-172-31-17-9:41529/']: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2021-02-12 16:44:07,224: -SUB [/two_ints] /solution http://ip-172-31-17-9:41529/
+[rosmaster.master][INFO] 2021-02-12 16:44:07,228: -PUB [/rosout] /solution http://ip-172-31-17-9:41529/
+[rosmaster.master][INFO] 2021-02-12 16:44:07,232: -SERVICE [/solution/set_logger_level] /solution rosrpc://ip-172-31-17-9:36982
+[rosmaster.master][INFO] 2021-02-12 16:44:07,236: -SERVICE [/solution/get_loggers] /solution rosrpc://ip-172-31-17-9:36982
+[rosmaster.master][INFO] 2021-02-12 16:44:07,250: publisherUpdate[/rosout] -> http://ip-172-31-17-9:38106/ ['http://ip-172-31-17-9:43152/']
+[rosmaster.master][INFO] 2021-02-12 16:44:07,254: publisherUpdate[/rosout] -> http://ip-172-31-17-9:38106/ ['http://ip-172-31-17-9:43152/']: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2021-02-12 16:47:40,668: +PUB [/rosout] /solution http://ip-172-31-17-9:42108/
+[rosmaster.master][INFO] 2021-02-12 16:47:40,680: +SERVICE [/solution/get_loggers] /solution http://ip-172-31-17-9:42108/
+[rosmaster.master][INFO] 2021-02-12 16:47:40,686: +SERVICE [/solution/set_logger_level] /solution http://ip-172-31-17-9:42108/
+[rosmaster.master][INFO] 2021-02-12 16:47:40,692: +SUB [/two_ints] /solution http://ip-172-31-17-9:42108/
+[rosmaster.master][INFO] 2021-02-12 16:47:40,719: publisherUpdate[/rosout] -> http://ip-172-31-17-9:38106/ ['http://ip-172-31-17-9:43152/', 'http://ip-172-31-17-9:42108/']
+[rosmaster.master][INFO] 2021-02-12 16:47:40,723: publisherUpdate[/rosout] -> http://ip-172-31-17-9:38106/ ['http://ip-172-31-17-9:43152/', 'http://ip-172-31-17-9:42108/']: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2021-02-12 16:47:40,860: +PUB [/two_ints] /solution http://ip-172-31-17-9:42108/
+[rosmaster.master][INFO] 2021-02-12 16:47:40,921: publisherUpdate[/two_ints] -> http://ip-172-31-17-9:42108/ ['http://ip-172-31-17-9:43152/', 'http://ip-172-31-17-9:42108/']
+[rosmaster.master][INFO] 2021-02-12 16:47:40,926: publisherUpdate[/two_ints] -> http://ip-172-31-17-9:42108/ ['http://ip-172-31-17-9:43152/', 'http://ip-172-31-17-9:42108/']: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2021-02-12 16:47:46,106: -SUB [/two_ints] /solution http://ip-172-31-17-9:42108/
+[rosmaster.master][INFO] 2021-02-12 16:47:46,110: -PUB [/two_ints] /solution http://ip-172-31-17-9:42108/
+[rosmaster.master][INFO] 2021-02-12 16:47:46,114: -PUB [/rosout] /solution http://ip-172-31-17-9:42108/
+[rosmaster.master][INFO] 2021-02-12 16:47:46,117: -SERVICE [/solution/set_logger_level] /solution rosrpc://ip-172-31-17-9:44197
+[rosmaster.master][INFO] 2021-02-12 16:47:46,121: -SERVICE [/solution/get_loggers] /solution rosrpc://ip-172-31-17-9:44197
+[rosmaster.master][INFO] 2021-02-12 16:47:46,134: publisherUpdate[/rosout] -> http://ip-172-31-17-9:38106/ ['http://ip-172-31-17-9:43152/']
+[rosmaster.master][INFO] 2021-02-12 16:47:46,138: publisherUpdate[/rosout] -> http://ip-172-31-17-9:38106/ ['http://ip-172-31-17-9:43152/']: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2021-02-12 16:48:21,816: +PUB [/rosout] /solution http://ip-172-31-17-9:38706/
+[rosmaster.master][INFO] 2021-02-12 16:48:21,817: publisherUpdate[/rosout] -> http://ip-172-31-17-9:38106/ ['http://ip-172-31-17-9:43152/', 'http://ip-172-31-17-9:38706/']
+[rosmaster.master][INFO] 2021-02-12 16:48:21,833: publisherUpdate[/rosout] -> http://ip-172-31-17-9:38106/ ['http://ip-172-31-17-9:43152/', 'http://ip-172-31-17-9:38706/']: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2021-02-12 16:48:21,890: +SERVICE [/solution/get_loggers] /solution http://ip-172-31-17-9:38706/
+[rosmaster.master][INFO] 2021-02-12 16:48:21,902: +SERVICE [/solution/set_logger_level] /solution http://ip-172-31-17-9:38706/
+[rosmaster.master][INFO] 2021-02-12 16:48:21,944: +SUB [/two_ints] /solution http://ip-172-31-17-9:38706/
+[rosmaster.master][INFO] 2021-02-12 16:48:22,873: +PUB [/two_ints] /solution http://ip-172-31-17-9:38706/
+[rosmaster.master][INFO] 2021-02-12 16:48:22,923: publisherUpdate[/two_ints] -> http://ip-172-31-17-9:38706/ ['http://ip-172-31-17-9:43152/', 'http://ip-172-31-17-9:38706/']
+[rosmaster.master][INFO] 2021-02-12 16:48:22,939: publisherUpdate[/two_ints] -> http://ip-172-31-17-9:38706/ ['http://ip-172-31-17-9:43152/', 'http://ip-172-31-17-9:38706/']: sec=0.01, result=[1, '', 0]
+[rosmaster.master][INFO] 2021-02-12 16:49:24,298: +PUB [/rosout] /solution http://ip-172-31-17-9:41972/
+[rosmaster.master][INFO] 2021-02-12 16:49:24,310: +SERVICE [/solution/get_loggers] /solution http://ip-172-31-17-9:41972/
+[rosmaster.master][INFO] 2021-02-12 16:49:24,315: +SERVICE [/solution/set_logger_level] /solution http://ip-172-31-17-9:41972/
+[rosmaster.master][INFO] 2021-02-12 16:49:24,320: +SUB [/two_ints] /solution http://ip-172-31-17-9:41972/
+[rosmaster.master][INFO] 2021-02-12 16:49:24,356: publisherUpdate[/rosout] -> http://ip-172-31-17-9:38106/ ['http://ip-172-31-17-9:43152/', 'http://ip-172-31-17-9:41972/']
+[rosmaster.master][INFO] 2021-02-12 16:49:24,361: publisherUpdate[/rosout] -> http://ip-172-31-17-9:38106/ ['http://ip-172-31-17-9:43152/', 'http://ip-172-31-17-9:41972/']: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2021-02-12 16:49:24,861: +PUB [/two_ints] /solution http://ip-172-31-17-9:41972/
+[rosmaster.master][INFO] 2021-02-12 16:49:24,865: publisherUpdate[/two_ints] -> http://ip-172-31-17-9:41972/ ['http://ip-172-31-17-9:43152/', 'http://ip-172-31-17-9:41972/']
+[rosmaster.master][INFO] 2021-02-12 16:49:24,871: publisherUpdate[/two_ints] -> http://ip-172-31-17-9:41972/ ['http://ip-172-31-17-9:43152/', 'http://ip-172-31-17-9:41972/']: sec=0.00, result=[1, '', 0]
+[rosmaster.master][INFO] 2021-02-12 16:49:37,651: -SUB [/two_ints] /solution http://ip-172-31-17-9:41972/
+[rosmaster.master][INFO] 2021-02-12 16:49:37,655: -PUB [/two_ints] /solution http://ip-172-31-17-9:41972/
+[rosmaster.master][INFO] 2021-02-12 16:49:37,659: -PUB [/rosout] /solution http://ip-172-31-17-9:41972/
+[rosmaster.master][INFO] 2021-02-12 16:49:37,663: -SERVICE [/solution/set_logger_level] /solution rosrpc://ip-172-31-17-9:37535
+[rosmaster.master][INFO] 2021-02-12 16:49:37,667: -SERVICE [/solution/get_loggers] /solution rosrpc://ip-172-31-17-9:37535
+[rosmaster.master][INFO] 2021-02-12 16:49:37,691: publisherUpdate[/rosout] -> http://ip-172-31-17-9:38106/ ['http://ip-172-31-17-9:43152/']
+[rosmaster.master][INFO] 2021-02-12 16:49:37,695: publisherUpdate[/rosout] -> http://ip-172-31-17-9:38106/ ['http://ip-172-31-17-9:43152/']: sec=0.00, result=[1, '', 0]
